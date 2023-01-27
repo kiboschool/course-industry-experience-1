@@ -1,17 +1,6 @@
-# Kibo Course Template
+# Industry Experience
 
-## Using this template
-
-- create a github repo for the course
-- update this Readme with the relevant info for the course
-- update book.toml with the course name and authors
-- create a main and draft vercel deployment 
-- update the materials in src/
-
-# [Course Name]
-
-- Course design plan: 
-- See course info: 
+- Course design plan: https://docs.google.com/document/d/18l0ijSFYWdoNRbmzCAhi73Caj6ijOzFp50s94-lA9L4/edit
 - See info about Kibo's BSc. Computer Science: https://kibo.school/degree/
 
 ## What's here?
