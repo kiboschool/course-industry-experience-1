@@ -31,9 +31,5 @@ Add links to each of the above in gradescope.
 #### (2) Submit in Woolf
 - Upload a PDF version of your resume
 - Submit a link to your portfolio
-- - Submit a link to your LinkedIn profile
-
-
-
-
+- Submit a link to your LinkedIn profile
 

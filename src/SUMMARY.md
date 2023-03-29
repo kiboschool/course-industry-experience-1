@@ -27,8 +27,8 @@
     - [Assignment](lessons/behavioral-interviews/assignment.md)
 
 ### Technical Interviews
-- [Technical Interviews](lessons/technical-interviews/intro.dm)
-    [Assignment](lessons/technical-interviews/assignment.md)
+- [Technical Interviews](lessons/technical-interviews/intro.md)
+    - [Assignment](lessons/technical-interviews/assignment.md)
 
 ### Applying
 - [Applying for Opportunities](lessons/applying/intro.md)
