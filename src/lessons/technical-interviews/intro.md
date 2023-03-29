@@ -4,7 +4,7 @@
 
 ---
 
-## Behaviorial Interviews
+## Technical Interviews
 <aside>
   Instructor Robb Cobb introduces behaviorial interviews
 </aside>
