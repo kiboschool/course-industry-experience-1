@@ -1,22 +1,14 @@
 # Assessments and Grading
 ---
 
-This course requires you to work independently to achieve your goals. You will be assessed on accomplishing preparation and reflection tasks in a timeline manner.
 
 ## Assessment and Grading Summary
 
-### Preparation Phase
-
-**The preparation phase is worth 25% of your final grade.** It will comprise of:
-- Goal setting and preparing application material (5% )
-- Practicing behavioral and technical interviews(10%)
-- Applying for internships (5%)
-- Completing technical preparation modules (5%)
-
-The table below provides further details of each requirement along with the due date. 
+This course requires you to work independently to achieve your goals. You will be assessed on accomplishing preparation and reflection tasks in a timeline manner. The table below provides further details of each requirement along with the due date. 
 
 | Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
-| :---                                                |    :----:                     |  :----:                   
+| :---                                                |    :----:                     |  :----: 
+| *Preparation phase (25% of total grade)*
 | Goal Setting                                        | 2.5%                          | Sun April 16 
 | Application Materials                               | 2.5%                          | Sun April 23
 | Applications #1-5                                   | 2.5%                          | Sun May 7
@@ -29,23 +21,13 @@ The table below provides further details of each requirement along with the due 
 | Technical Interview #4                              | 1.25%                         | Mon May 29
 | Behavioral Interview #4                             | 1.25%                         | Mon May 29
 | Applications #6-10                                  | 2.5%                          | Mon June 5
-| Technical prep modules                              | 5%                            | Mon June 19       
-
-### Work Phase
-
-**The work phase is worth 75% of your final grade.** It will comprise of:
-- Completing your industry experience and reflecting on your work (25%)
-- A written evaluation from your supervisor (20%)
-- A final report showcasing your experience and learning (20%)
-
-The table below provides further details of each requirement along with the due date. 
-
-
-| Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
-| :---                                                |    :----:                     |  :----:                   
+| Technical prep modules                              | 5%                            | Mon June 19  
+| *Work phase (75% of total grade)*
 | Work reflections                                    | 25%                           | Mon September 11
 | Supervisor evaluation                               | 20%                           | Mon September 11          
 | Final presentation                                  | 20%                           | Fri September 15 
+
+
 
 #### Late submissions
  
