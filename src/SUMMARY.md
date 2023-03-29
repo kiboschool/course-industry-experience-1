@@ -5,11 +5,43 @@
 
 ## Lessons
 
-### Week 1
+### Goal Setting
+- [Goal Setting](lessons/goal-setting/intro.md)
+    - [Your Why](#)
+    - [Your Reality](#)
+    - [Your Destination](#)
+    - [Assignment](lessons/goal-setting/assignment.md)
 
-- [Week 1](lessons/week-1.md)
-    - [Example Lesson](lessons/week-1/example.md)
+### Applying
+- [Preparing to Apply](lessons/application-materials/intro.md)
+    - [Resume](#)
+    - [Portfolio](#)
+    - [Web Profiles](#)
+    - [Assignment](lessons/application-materials/assignment.md)
+    
 
-### Week 2
+### Behavioral Interviews
+- [Behavioral Interviews](lessons/behavioral-interviews/intro.md)
+    - [Fit Interview](#)
+    - [Informational Interview](#)
+    - [Assignment](lessons/behavioral-interviews/assignment.md)
+
+### Technical Interviews
+- [Technical Interviews](lessons/technical-interviews/intro.dm)
+    [Assignment](lessons/technical-interviews/assignment.md)
+
+### Applying
+- [Applying for Opportunities](lessons/applying/intro.md)
+    - [Sourcing opportunities](#)
+    - [Answering Questions](#)
+    - [Assignment](lessons/applying/assignment.md)
+
+### Work and Reflection
+- [Working effectively](lessons/work-reflections/intro.md)
+    - [Assignment: work reflections](lessons/work-reflections/assignment.md)
+    - [Assignment: supervisor evaluation](lessons/work-reflections/assignment-eval.md)
+
+### Final Report
+- [Final Report](lessons/final-report.md)
 
 ...
