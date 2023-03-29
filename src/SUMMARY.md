@@ -17,6 +17,7 @@
     - [Resume](lessons/applying/resume.md)
     - [Portfolio](lessons/applying/portfolio.md)
     - [Web Profiles](lessons/applying/webprofiles.md)
+    - [Assignment](lessons/applying/assignment.md)
     
 
 ### Behavioral Interviews
