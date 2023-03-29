@@ -8,7 +8,7 @@ This course requires you to work independently to achieve your goals. You will b
 
 | Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
 | :---                                                |    :----:                     |  :----: 
-| *Preparation phase (25% of total grade)*
+| *Preparation phase*
 | Goal Setting                                        | 2.5%                          | Sun April 16 
 | Application Materials                               | 2.5%                          | Sun April 23
 | Applications #1-5                                   | 2.5%                          | Sun May 7
@@ -22,7 +22,7 @@ This course requires you to work independently to achieve your goals. You will b
 | Behavioral Interview #4                             | 1.25%                         | Mon May 29
 | Applications #6-10                                  | 2.5%                          | Mon June 5
 | Technical prep modules                              | 5%                            | Mon June 19  
-| *Work phase (75% of total grade)*
+| *Work phase*   
 | Work reflections                                    | 25%                           | Mon September 11
 | Supervisor evaluation                               | 20%                           | Mon September 11          
 | Final presentation                                  | 20%                           | Fri September 15 
