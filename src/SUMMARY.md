@@ -27,6 +27,8 @@
     - [Assignment](lessons/behavioral-interviews/assignment.md)
 
 ### Technical Interviews
+- [Technical Interviews](lessons/technical-interviews/intro.dm)
+    [Assignment](lessons/technical-interviews/assignment.md)
 
 ### Applying
 - [Applying for Opportunities](lessons/applying/intro.md)
@@ -34,8 +36,12 @@
     - [Answering Questions](#)
     - [Assignment](lessons/applying/assignment.md)
 
-### Feedback and Reflection
+### Work and Reflection
+- [Working effectively](lessons/work-reflections/intro.md)
+    - [Assignment: work reflections](lessons/work-reflections/assignment.md)
+    - [Assignment: supervisor evaluation](lessons/work-reflections/assignment-eval.md)
 
-### Final Presentation
+### Final Report
+- [Final Report](lessons/final-report.md)
 
 ...
