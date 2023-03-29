@@ -19,11 +19,11 @@ The table below provides further details of each requirement along with the due 
 | Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
 | :---                                                |    :----:                     |  :----: 
 | *Preparation phase*
-| Goal Setting                                        | 2.5%                          | Sun April 16 
-| Application Materials                               | 2.5%                          | Sun April 23
-| Applications #1-5                                   | 2.5%                          | Sun May 7
+| Goal Setting                                        | 2%                            | Mon April 17 
+| Application Materials                               | 4%                            | Mon April 24
 | Technical Interview #1                              | 1.5%                          | Mon May 8
 | Behavioral Interview #1                             | 1.5%                          | Mon May 8
+| Applications #1-5                                   | 2.5%                          | Mon May 15
 | Technical Interview #2                              | 1.5%                          | Mon May 22
 | Behavioral Interview #2                             | 1.5%                          | Mon May 22
 | Technical Interview #3                              | 1.5%                          | Mon May 29
