@@ -16,20 +16,20 @@ The preparation phase which will account for 25% of your total grade. Your grade
 
 The table below provides further details of each requirement along with the due date. 
 
-| Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
-| :---                                                |    :----:                     |  :----: 
-| *Preparation phase*
-| Goal Setting                                        | 2%                            | Mon April 17 
-| Application Materials                               | 4%                            | Mon April 24
-| Technical Interview #1                              | 1.5%                          | Mon May 8
-| Behavioral Interview #1                             | 1.5%                          | Mon May 8
-| Applications #1-5                                   | 2.5%                          | Mon May 15
-| Technical Interview #2                              | 1.5%                          | Mon May 22
-| Behavioral Interview #2                             | 1.5%                          | Mon May 22
-| Technical Interview #3                              | 1.5%                          | Mon May 29
-| Behavioral Interview #3                             | 1.5%                          | Mon May 29
-| Applications #6-10                                  | 1.5%                          | Mon May 29
-| Technical prep modules                              | 5%                            | Mon June 19  
+| Assessments                                       | Due Date (by 11pm GMT)    
+| :---                                              |  :----: 
+| Goal Setting                                      | Mon April 17 
+| Application Materials                             | Mon April 24
+| Technical Interview #1                            | Mon May 8
+| Behavioral Interview #1                           | Mon May 8
+| Applications #1-5                                 | Mon May 15
+| Behavioral Interview #2                           | Mon May 15
+| Technical Interview #2                            | Mon May 22
+| Behavioral Interview #3                           | Mon May 22
+| Technical Interview #3                            | Mon May 29
+| Behavioral Interview #4                           | Mon May 29
+| Applications #6-10                                | Mon May 29
+| Technical prep modules                            | Mon June 19  
 
 ### Work phase
 The work phase will account for 75% of your grade. You primary focus will be on completing your projects. As you do so, you will also:
@@ -40,11 +40,11 @@ The work phase will account for 75% of your grade. You primary focus will be on 
 The table below lists the due date for each requirement. 
 
 
-| Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
-| :---                                                |    :----:                     |  :----: 
-| Work reflections                                    | 25%                           | Mon September 11
-| Supervisor evaluation                               | 25%                           | Mon September 11          
-| Final report                                        | 25%                           | Fri September 15 
+| Assessments                                 | Due Date (by 11pm GMT)    
+| :---                                        |    :----: 
+| Work reflections                            | Mon September 11
+| Supervisor evaluation                       | Mon September 11          
+| Final report                                | Fri September 15 
 
 
 
@@ -52,7 +52,7 @@ The table below lists the due date for each requirement.
  
 - Late submissions will incur a 10% penalty for each week that the assignment is late
 - The last day of Term 3 is June 16 2023. The last day to submit any assignments for the preparation phase is Monday June 19 
-- The last day of Term 4 is September 15 2023. The last day to submit any assignments for the experience phase is Friday September 15.
+- The last day of Term 4 is September 15 2023. The last day to submit any assignments for the work phase is Friday September 15.
 
 
 ## How to Submit Your Assignments
@@ -66,4 +66,4 @@ All assignments must be submitted in Gradescope using online assessments. You wi
 </div>
 
 ## Academic Integrity
-TODO
+You are expected to do your work, and adhere to the highest level of personal and professional integrity. You must follow all the guidelines listed in Kibo's <a href="https://docs.google.com/document/d/1E41mBjSB8pTF8_kdUwnOVTScuP1fmBqQk3Gypo1y6YQ/preview#heading=h.syu8x8h230de" target="_blank">Academic Honesty & Integrity Policy</a>
