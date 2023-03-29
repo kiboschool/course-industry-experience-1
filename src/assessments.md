@@ -28,7 +28,7 @@ The table below provides further details of each requirement along with the due 
 | Behavioral Interview #2                             | 1.5%                          | Mon May 22
 | Technical Interview #3                              | 1.5%                          | Mon May 29
 | Behavioral Interview #3                             | 1.5%                          | Mon May 29
-| Applications #6-10                                  | 1.5%                          | Mon June 5
+| Applications #6-10                                  | 1.5%                          | Mon May 29
 | Technical prep modules                              | 5%                            | Mon June 19  
 
 ### Work phase
