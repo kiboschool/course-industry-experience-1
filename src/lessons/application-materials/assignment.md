@@ -32,3 +32,4 @@ Add links to each of the above in gradescope.
 - Upload a PDF version of your resume
 - Submit a link to your portfolio
 - Submit a link to your LinkedIn profile
+
