@@ -1,4 +1,4 @@
-# Applying
+# Preparing to apply
 
 *Estimated Time: 3 hours*
 
