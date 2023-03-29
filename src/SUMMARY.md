@@ -5,11 +5,18 @@
 
 ## Lessons
 
-### Week 1
+### Goal Setting
+- [Goal Setting](lessons/goal-setting-intro.md)
+    - [Assignment](lessons/goal-setting/assignment.md)
 
-- [Week 1](lessons/week-1.md)
-    - [Example Lesson](lessons/week-1/example.md)
+### Applying
 
-### Week 2
+### Behavioral Interviews
+
+### Technical Interviews
+
+### Feedback and Reflection
+
+### Final Presentation
 
 ...
