@@ -29,8 +29,9 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-Section 1
-Section 2
+[Your Why](lessons/goal-setting/why.md)
+[Your Reality](lessons/goal-setting/reality.md)
+[Your Destination](lessons/goal-setting/destination.md)
 [Assignment](lessons/goal-setting/assignment.md)
 
 ---
