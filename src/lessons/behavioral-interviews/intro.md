@@ -6,7 +6,7 @@
 
 ## Behaviorial Interviews
 <aside>
-  Instructor Ope Bukola introduces goal setting
+  Instructor Ope Bukola introduces behaviorial interviews
 </aside>
 
 TODO: Video
@@ -15,10 +15,11 @@ TODO: Video
 
 After completing this lesson, you will be able to:
 
-- Identify and prioritize your goals
-- Identify the steps you need to take to achieve your goals
-- Develop a S.M.A.R.T plan to achieve your goals
-
+- Make plans for before and during an interview to prepare for obstacles
+- Identify the do’s and don’ts for job interviewing 
+- Use the STAR method to respond effectively to behavioral interview questions
+- Prepare and deliver strong answers to common interview questions
+- Effectively ask questions of the interviewer
 
 
 ## Sections
@@ -28,13 +29,5 @@ After completing this lesson, you will be able to:
 👩🏿‍🏫 Complete this lesson by exploring each section
 
 </aside>
-
-[Your Why](lessons/goal-setting/why.md)
-
-[Your Reality](lessons/goal-setting/reality.md)
-
-[Your Destination](lessons/goal-setting/destination.md)
-
-[Assignment](lessons/goal-setting/assignment.md)
 
 ---
