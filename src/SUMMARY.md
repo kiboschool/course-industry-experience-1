@@ -7,16 +7,16 @@
 
 ### Goal Setting
 - [Goal Setting](lessons/goal-setting/intro.md)
-    - [Your Why](lessons/goal-setting/why.md)
-    - [Your Reality](lessons/goal-setting/reality.md)
-    - [Your Destination](lessons/goal-setting/destination.md)
+    - [Your Why](#)
+    - [Your Reality](#)
+    - [Your Destination](#)
     - [Assignment](lessons/goal-setting/assignment.md)
 
 ### Applying
 - [Preparing to Apply](lessons/applying/intro.md)
-    - [Resume](lessons/applying/resume.md)
-    - [Portfolio](lessons/applying/portfolio.md)
-    - [Web Profiles](lessons/applying/webprofiles.md)
+    - [Resume](#)
+    - [Portfolio](#)
+    - [Web Profiles](#)
     - [Assignment](lessons/applying/assignment.md)
     
 
@@ -27,6 +27,12 @@
     - [Assignment](lessons/behavioral-interviews/assignment.md)
 
 ### Technical Interviews
+
+### Applying
+- [Applying for Opportunities](lessons/applying/intro.md)
+    - [Sourcing opportunities](#)
+    - [Answering Questions](#)
+    - [Assignment](lessons/applying/assignment.md)
 
 ### Feedback and Reflection
 
