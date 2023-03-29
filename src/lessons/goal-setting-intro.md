@@ -6,7 +6,7 @@
 
 ## Welcome to Goal Setting
 <aside>
-  Instructor Ope Bukola introduces Goal Setting
+  Instructor Ope Bukola introduces goal setting
 </aside>
 
 TODO: Video
@@ -30,8 +30,11 @@ After completing this lesson, you will be able to:
 </aside>
 
 [Your Why](lessons/goal-setting/why.md)
+
 [Your Reality](lessons/goal-setting/reality.md)
+
 [Your Destination](lessons/goal-setting/destination.md)
+
 [Assignment](lessons/goal-setting/assignment.md)
 
 ---
