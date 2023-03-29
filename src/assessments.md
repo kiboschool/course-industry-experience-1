@@ -8,12 +8,10 @@ This course requires you to work independently to achieve your goals. You will b
 ### Preparation Phase
 
 **The preparation phase is worth 25% of your final grade.** It will comprise of:
-- Goal Setting (2.5% )
-- Preparing application materials (2.5%)
-- Practicing behavioral interviews (5%)
-- Practicing technical interviews (5%)
+- Goal setting and preparing application material (5% )
+- Practicing behavioral and technical interviews(10%)
 - Applying for internships (5%)
-- Completing technical preparation modules (10%)
+- Completing technical preparation modules (5%)
 
 The table below provides further details of each requirement along with the due date. 
 
@@ -30,8 +28,8 @@ The table below provides further details of each requirement along with the due 
 | Behavioral Interview #3                             | 1.25%                         | Mon May 22
 | Technical Interview #4                              | 1.25%                         | Mon May 29
 | Behavioral Interview #4                             | 1.25%                         | Mon May 29
-| Applications #6-10                                  | 1.25%                         | Mon June 5
-| Technical prep modules                              | 10%                           | Mon June 19       
+| Applications #6-10                                  | 2.5%                          | Mon June 5
+| Technical prep modules                              | 5%                            | Mon June 19       
 
 ### Work Phase
 
@@ -52,8 +50,8 @@ The table below provides further details of each requirement along with the due 
 #### Late submissions
  
 - Late submissions will incur a 10% penalty for each week that the assignment is late
-- **The last day of Term 3 is June 16 2023. The last day to submit any assignments for the preparation phase is Monday June 19 
-- **The last day of Term 4 is September 15 2023. The last day to submit any assignments for the experience phase is Friday September 15.
+- The last day of Term 3 is June 16 2023. The last day to submit any assignments for the preparation phase is Monday June 19 
+- The last day of Term 4 is September 15 2023. The last day to submit any assignments for the experience phase is Friday September 15.
 
 
 ## How to Submit Your Assignments
