@@ -22,22 +22,20 @@ The table below provides further details of each requirement along with the due 
 | Goal Setting                                        | 2.5%                          | Sun April 16 
 | Application Materials                               | 2.5%                          | Sun April 23
 | Applications #1-5                                   | 2.5%                          | Sun May 7
-| Technical Interview #1                              | 1.25%                         | Mon May 8
-| Behavioral Interview #1                             | 1.25%                         | Mon May 8
-| Technical Interview #2                              | 1.25%                         | Mon May 15
-| Behavioral Interview #2                             | 1.25%                         | Mon May 15
-| Technical Interview #3                              | 1.25%                         | Mon May 22
-| Behavioral Interview #3                             | 1.25%                         | Mon May 22
-| Technical Interview #4                              | 1.25%                         | Mon May 29
-| Behavioral Interview #4                             | 1.25%                         | Mon May 29
-| Applications #6-10                                  | 2.5%                          | Mon June 5
+| Technical Interview #1                              | 1.5%                          | Mon May 8
+| Behavioral Interview #1                             | 1.5%                          | Mon May 8
+| Technical Interview #2                              | 1.5%                          | Mon May 22
+| Behavioral Interview #2                             | 1.5%                          | Mon May 22
+| Technical Interview #3                              | 1.5%                          | Mon May 29
+| Behavioral Interview #3                             | 1.5%                          | Mon May 29
+| Applications #6-10                                  | 1.5%                          | Mon June 5
 | Technical prep modules                              | 5%                            | Mon June 19  
 
 ### Work phase
 The work phase will account for 75% of your grade. You primary focus will be on completing your projects. As you do so, you will also:
 - Submit bi-weekly reflections on your work (25%)
-- Receive a written evaluation from your supervisor (20%)
-- Prepare a final report of your industry experience (20%) 
+- Receive a written evaluation from your supervisor (25%)
+- Prepare a final report of your industry experience (25%) 
 
 The table below lists the due date for each requirement. 
 
@@ -45,8 +43,8 @@ The table below lists the due date for each requirement.
 | Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
 | :---                                                |    :----:                     |  :----: 
 | Work reflections                                    | 25%                           | Mon September 11
-| Supervisor evaluation                               | 20%                           | Mon September 11          
-| Final report                                        | 20%                           | Fri September 15 
+| Supervisor evaluation                               | 25%                           | Mon September 11          
+| Final report                                        | 25%                           | Fri September 15 
 
 
 
