@@ -15,9 +15,9 @@ TODO: Video
 
 After completing this lesson, you will be able to:
 
-- Thing 1
-- Thing 2
-- Thing 3
+- Identify and prioritize your goals
+- Identify the steps you need to take to achieve your goals
+- Develop a S.M.A.R.T plan to achieve your goals
 
 
 
