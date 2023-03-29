@@ -4,7 +4,17 @@
 
 ## Assessment and Grading Summary
 
-This course requires you to work independently to achieve your goals. You will be assessed on accomplishing preparation and reflection tasks in a timeline manner. The table below provides further details of each requirement along with the due date. 
+This course requires you to work independently to achieve your goals. You will be assessed on accomplishing preparation and reflection tasks in a timeline manner. 
+
+### Preparation phase
+
+The preparation phase which will account for 25% of your total grade. Your grades will consist of:
+- Setting goals and preparing your application materials (5%)
+- Conducting practice technical and behavioral interviews (10%)
+- Completing and submitting job applications (5%)
+- Completing technical preparation modules (5%)
+
+The table below provides further details of each requirement along with the due date. 
 
 | Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
 | :---                                                |    :----:                     |  :----: 
@@ -22,10 +32,21 @@ This course requires you to work independently to achieve your goals. You will b
 | Behavioral Interview #4                             | 1.25%                         | Mon May 29
 | Applications #6-10                                  | 2.5%                          | Mon June 5
 | Technical prep modules                              | 5%                            | Mon June 19  
-| *Work phase*   
+
+### Work phase
+The work phase will account for 75% of your grade. You primary focus will be on completing your projects. As you do so, you will also:
+- Submit bi-weekly reflections on your work (25%)
+- Receive a written evaluation from your supervisor (20%)
+- Prepare a final report of your industry experience (20%) 
+
+The table below lists the due date for each requirement. 
+
+
+| Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
+| :---                                                |    :----:                     |  :----: 
 | Work reflections                                    | 25%                           | Mon September 11
 | Supervisor evaluation                               | 20%                           | Mon September 11          
-| Final presentation                                  | 20%                           | Fri September 15 
+| Final report                                        | 20%                           | Fri September 15 
 
 
 
