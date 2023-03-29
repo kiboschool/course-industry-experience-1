@@ -20,6 +20,10 @@
     
 
 ### Behavioral Interviews
+- [Behavioral Interviews](lessons/behavioral-interviews/intro.md)
+    - [Fit Interview](#)
+    - [Informational Interview](#)
+    - [Assignment](lessons/behavioral-interviews/assignment.md)
 
 ### Technical Interviews
 
