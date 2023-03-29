@@ -42,6 +42,10 @@
     - [Answering Questions](#)
     - [Assignment](lessons/preparation/assignment.md)
 
+
+### Evaluation
+- [Course evaluation](lessons/preparation-evaluation.md)
+
 ### Work and Reflection
 - [Working effectively](lessons/work-reflections/intro.md)
     - [Assignment: work reflections](lessons/work-reflections/assignment.md)
