@@ -4,7 +4,7 @@
 
 ---
 
-## Behaviorial Interviews
+## Applying
 <aside>
   Instructor Ope Bukola introduces applying
 </aside>
