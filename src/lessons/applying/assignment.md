@@ -1,53 +1,45 @@
 
-# Assignment - Technical Interviews
+# Assignment - applying for opportunities
 -----
-For this assignment you will prepare for and conduct several technical interviews with professionals. At least one of your technical interviews must be a portfolio review interview. 
+For this assignment you will apply to technical roles. You are required to apply to at least 10 positions, but may apply to more if you wish. 
 
 ## First batch of applications
 <aside>
   
-  📝 **Due Dates: Monday May 15 at 11pm GMT**
+  📝 **Due Date: Monday May 15 at 11pm GMT**
  
 </aside>
 
-Conduct a practice technical interview. Your interviewer will submit an evaluation, and you will also submit an evaluation. Steps:
-- Click here to sign up for an interview session 
-- Before the interview, thoroughly read Kibo's <a href="http://www.example.com/" target="_blank">guide to practice interviews.</a> 
-- After the interview, make a copy of the <a href="http://www.example.com/" target="_blank">interviewee self evaluation</a> and complete it. 
+- Research and find available companies and roles
+- Apply through available job applications, or by sending an email expresing interest to the company  
 
 ## Second batch of applications
 <aside>
   
-  📝 **Due Dates: Monday May 29 at 11pm GMT**
+  📝 **Due Date: Monday May 29 at 11pm GMT**
  
 </aside>
 
 *See above for interview instructions.* 
 
 
-### Notes
+## Confirming industry experience
 <aside>
   
   🤔 What if you find an opportunity before you finish applying?
  
 </aside>
 
-If you find an approved industry experience opportunity before you finish the application, then you may skip the rest of the application. You must get official approval from course instructors. 
+- Once you find an internship, you should inform the course instructors for approval
+- If you find an approved industry experience opportunity before you finish the applications, then you do not need to continue applying
 
----
+
 
 ## Submission
 
-For each interview:
-
 #### (1) Submit your assignment in Gradescope
-- Update your job application tracker
-- Submit a link to your application tracker 
+- Submit a link to your job application tracker in Gradescope
 
 
 #### (2) Submit in Woolf
 - Submit a link to your application tracker in the Woolf Platform
-
-
-
-
