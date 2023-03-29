@@ -13,11 +13,11 @@
     - [Assignment](lessons/goal-setting/assignment.md)
 
 ### Applying
-- [Preparing to Apply](lessons/applying/intro.md)
+- [Preparing to Apply](lessons/application-materials/intro.md)
     - [Resume](#)
     - [Portfolio](#)
     - [Web Profiles](#)
-    - [Assignment](lessons/applying/assignment.md)
+    - [Assignment](lessons/application-materials/assignment.md)
     
 
 ### Behavioral Interviews
