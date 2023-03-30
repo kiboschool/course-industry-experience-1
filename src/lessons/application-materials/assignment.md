@@ -19,7 +19,7 @@ Create a portfolio website. We recommend hosting with Github pages, but you may 
 
 ### LinkedIn profile
 Update your LinkedIn profile. Your profile must include:
-- A legible photo of your
+- A legible photo 
 - A compelling headline, and brief summary
 - At least 2 relevant professional and academic experiences, with supporting links
 
