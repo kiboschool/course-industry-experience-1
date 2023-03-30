@@ -30,14 +30,10 @@
 
 ### Applying
 - [Applying for Opportunities](lessons/applying/intro.md)
-    - [Sourcing opportunities](#)
-    - [Answering Questions](#)
     - [Assignment](lessons/applying/assignment.md)
 
 ### Preparing for Work
 - [Technical preparation](lessons/preparation/intro.md)
-    - [Sourcing opportunities](#)
-    - [Answering Questions](#)
     - [Assignment](lessons/preparation/assignment.md)
 
 
