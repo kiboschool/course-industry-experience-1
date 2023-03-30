@@ -13,7 +13,6 @@ As you learned, self assessment is key to optimal performance. For this assignme
 To complete the assignment:
 - Make a copy of the <a href="https://docs.google.com/document/d/1MaUI5ZMGJ8cOdB_YbpRercHDEfUEBJAx2el818BWPMo/edit?usp=sharing" target="_blank"> self assessment document.</a>
 - Every other week, complete the self assessment thoroughly and honestly 
-- For the areas of growth, create an action plan to address 
 
 
 ## Submission
