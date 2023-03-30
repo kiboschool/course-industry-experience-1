@@ -11,9 +11,10 @@ For this assignment, you will prepare for and conduct several  interviews with p
 </aside>
 
 Conduct a practice interview. Your interviewer will submit an evaluation, and you will also submit an evaluation. Steps:
-- Click here to sign up for an interview session 
-- Before the interview, thoroughly read Kibo's <a href="http://www.example.com/" target="_blank">guide to practice interviews.</a> 
-- After the interview, make a copy of the <a href="http://www.example.com/" target="_blank">interviewee self evaluation</a> and complete it. 
+- Sign up for a mock interview session 
+- Before the interview, thoroughly read Kibo's <a href="https://docs.google.com/document/d/1vlXwta3dzq1zGFoY97t2HX7CvMFd8yF6pkhOWjH70Jc/edit?usp=sharing" target="_blank">guide to practice interviews.</a> 
+- After the interview, complete the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>. 
+
 
 ## Behavioral Interview 2
 <aside>
