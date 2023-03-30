@@ -7,16 +7,10 @@
 
 ### Goal Setting
 - [Goal Setting](lessons/goal-setting/intro.md)
-    - [Your Why](#)
-    - [Your Reality](#)
-    - [Your Destination](#)
     - [Assignment](lessons/goal-setting/assignment.md)
 
 ### Applying
 - [Preparing to Apply](lessons/application-materials/intro.md)
-    - [Resume](#)
-    - [Portfolio](#)
-    - [Web Profiles](#)
     - [Assignment](lessons/application-materials/assignment.md)
     
 
