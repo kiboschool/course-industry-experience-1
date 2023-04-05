@@ -1,51 +1,94 @@
-# Resume
+# Crafting a winning resume
 *Estimated Time: 30 minutes*
 
 ---
 
-This lesson introduces concept testing, a UX research method that allows you to validate early ideas and discern product direction. 
+This lesson will help you craft a resume that effectively describes your skills, experience, education and fit for a job. 
 
-
-## What is a concept test?
+## Why does your resume matter?
 <aside>
-  📺 Watch this video introduction to concept testing
+  📺 Watch this video on how to write a resume for software engineering (11:20
  </aside>
  
  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BuwzaiU9Uoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/J5gy9iqjwXM?start=85" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
   </div>
  
- <a href="https://docs.google.com/presentation/d/1FRk2L-6ge5Ni8pXElg4pxkQNEASqW4fai2ZmRIZosIw/edit?usp=sharing" target="_blank"> Access the slides from the video here</a>
+ As we learn in the video:
+ 
+- The goal of a resume is to stand out to a recruiter. Put yourself in the shoes of the person you are trying to appeal to, i.e., the recruiter. Consider what the recruiter is looking for?
+- Beyond what's written, the most important thng is readability
+- Your resume should be one page
+- When describing your expeirence, start with a "power verb"
  
  
+## Sections of a resume 
+
+Sections in a resume can vary but a strong resume generally includes a summary of your work experience, education, and skills. For this class, you will create a resume with:
+
+- Contact Information (name, email, city/state, links to github, LinkedIn and a portfolio)
+- Summary or tagline
+- Skills: programing langauges, technologies, tools
+- Experience
+- Education
+- Additional: Languages, Certifications & Training, Awards
+
+
+## Resume tips
+- Keep it concise. A resume should be one or two pages long, max.
+- Use keywords. When you're applying for jobs online, your resume will likely be scanned by an applicant tracking system (ATS) for keywords that match the job description. To make sure your resume makes it past the ATS, include relevant keywords throughout your resume, such as in your work experience, education, and skills sections.
+- Have a strong general resume, but try to tailor your resume to each job you apply for. Don't just send out the same resume for every job you apply for. Take the time to tailor your resume to each specific job by highlighting the skills and experience that are most relevant to the position.
+- Proofread your resume carefully. Typos and grammatical errors will make you look unprofessional and will hurt your chances of getting the job. _Remember don't knock yourself out. _
+- Get feedback. Once you've written your resume, ask a friend, family member, or career counselor to review it and give you feedback. They may be able to catch errors you missed or suggest ways to improve your resume.
+
+
+
+## Creating your resume 
+
+The first step to creating your resume is refining the content. At this stage, you should **not** focus on formatting. Formatting is a distraction!
+
+### Download the resume template document 
+This resume template is designed to get the basic information you need for you resume. Download the template, then:
+- Complete basic information
+- Complete education background 
+- Complete professional experience
+- Complete summary
+
+
+### Complete professional experience
+<aside>
+  📺 What if I don't have much professional experience?
+ </aside>
  
-## Benefits of concept testing
-- Deepen understanding: engage users to better understand the problem
-- Reduce risks: test ideas early and save time before full design 
-- Discover new insights and opportunities
+ That's ok. It's normal and customary that you migth not have a lot of paid expeirence starting out. If you have fewer than 3 past work experiences, you may use volunteer or university projects. You may also use those projects if they are particularly relevant to a position you are seeking. 
+The experience section shows potential employers what you have done in the past and what you are capable of. When approaching this section, it is important to be clear, concise, and to the point.
 
-## When to run a concept test
-Concept tests are useful in the discovery stage of product development, when you are trying to figure out which ideas are worth moving forward with. The slides format shown in the video is not the only way to do a concept test, but it's the one we'll use in this class. 
+Even if you don’t have an extensive work history, you’ve likely done internships, community service, and other projects that show who you are and where your strengths lie. Extracurricular activities can also tell recruiters that you’re driven, ambitious, and actively involved in your community.
 
-## How to run a concept test
-The steps to running a concept test are the same as the ones outlined in the previous lesson on conducting user reseach:
+Here are some tips for writing an effective experience section:
 
-1. Determine your goals 
-2. Recruit participants 
-3. Create an interview guide. <a href="https://docs.google.com/document/d/15Yrog_oAWJWPjYYlOXfOp8AzBl11bWHeihO5_b00TkE/edit?usp=sharing" target="_blank"> This </a> is a template for interviewing. 
-4. Conduct the test
-5. Analyze and summarize your results
+- Start with your most recent experience. Your most recent experience is the most relevant to your current job search, so it should be listed first.
+- Use strong action verbs. When describing your work experience, use strong action verbs to show what you accomplished. For example, instead of saying "I was responsible for developing marketing campaigns," say "I developed marketing campaigns that increased website traffic by 20%."
+- Quantify your results. Whenever possible, quantify the results of your work. This will help potential employers see the impact you have made in previous roles. For example, instead of saying "I increased sales," say "I increased sales by 15% in my first year."
+
+The goal of the experience section is to show your value. The title or role you held matters far less than demonstrating the impact you had. When writing about your expeirence, you want to answer the questions:
+- What did you do?
+- How did you do it?
+- What impact did it have?
+
+#### Good
+Built a user login integration with Facebook that increased sign-ups by 20%
+
+#### Bad
+I was an intern and completed many mission-critical features in the UI
+
+#### Good
+Implemented an electronic ticketing system which sped up operations and reduced ticketing errors
+
+#### Bad
+Helped the office become more efficient by going paperless
 
 
-
-## Optional Resources
-
-<details>
-<summary>Understanding UX Research Methods</summary>
-
-[How to Conduct a User Interview That Actually Uncovers Valuable Insights](https://www.shopify.com/partners/blog/user-interview)
-
-[Writing a discussion guide for user interviews](https://about.gitlab.com/handbook/product/ux/ux-research/discussion-guide-user-interviews/)
-</details>
+ 
 
 
