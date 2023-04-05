@@ -11,6 +11,7 @@
 
 ### Applying
 - [Preparing to Apply](lessons/application-materials/intro.md)
+    - [Resume](lessons/application-materials/resume.md)
     - [Assignment](lessons/application-materials/assignment.md)
     
 
