@@ -14,19 +14,20 @@
 
 ## Making your internship experience meaningful
 
-User experience (UX) research is the process of studying the behaviors, needs, attitudes and motivations of users in order to improve the design of software, services or products. UX researchers conduct various types of research, including interviews, surveys, usability tests in order to gather data from users and identifies opportunites for impact. 
+If someone were to walk up to you and ask: “Why are you planning to go through an internship experience?” Would you have an answer?
 
-  
+If you answered yes, is your answer more external focused or internal focused? An example of an external reason would be: “because the Kibo requirements dictate that I have to” while an internal reason could be: “because I want to utilize this experience to practice my ability to work well with others in a real work environment.”
 
-## Quantitative vs. qualitative research
-Two main types of UX research methods are quantitative and qualitative. 
+If you answered no, worry not. This lesson will help guide you through the process of establishing your why and setting the right foundations for your industry experience. 
+
+Whether you answered yes or no, the first step in this goal setting process is to determine what your goals REALLY are. What do you REALLY want to achieve? 
 
 <aside> 
-  📺 Watch this video to better understand the differences between qualitative and quantiative research
+  📺 Watch the following video by Luke Burgis to dig deeper into why we, as humans, need to identify the difference between thin and thick desires to achieve ultimate fulfillment. 
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/LmWPygSxMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dtBtov2f7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
 ></iframe>
 </div>
 
