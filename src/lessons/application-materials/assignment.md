@@ -26,7 +26,7 @@ Update your LinkedIn profile. Your profile must include:
 ## Submission
 
 #### (1) Submit youar assignment in Gradescope
-Add links to each of the above in gradescope. 
+Submit links to your materials in Gradescope. For your resume document, ensure that permissions are set so that anyone with a link can comment.  
 
 #### (2) Submit in Woolf
 - Upload a PDF version of your resume
