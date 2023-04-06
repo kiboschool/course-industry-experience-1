@@ -39,6 +39,7 @@ This exercise is for your eyes only so be as honest and candid with yourself as 
 
 <a href="https://docs.google.com/document/d/1k8OJFymVJ3eY-LAKGtXiW2e_jycf1nWCxBOtZpM2nyY/copy" target="_blank"> Make a copy of this document,</a> and use it to note down your reflections.
 
+
 ## REFERENCES
 
 Big Think. <a href="https://www.youtube.com/watch?v=dtBtov2f7e4" target="_blank"> How to know what you really want.</a>
