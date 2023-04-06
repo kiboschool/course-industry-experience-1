@@ -13,6 +13,7 @@
 
 
 ## Making your internship experience meaningful
+
 User experience (UX) research is the process of studying the behaviors, needs, attitudes and motivations of users in order to improve the design of software, services or products. UX researchers conduct various types of research, including interviews, surveys, usability tests in order to gather data from users and identifies opportunites for impact. 
 
   
