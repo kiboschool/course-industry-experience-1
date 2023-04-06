@@ -44,15 +44,23 @@ Sections in a resume can vary but a strong resume generally includes a summary o
 
 ## Creating your resume 
 
-The first step to creating your resume is refining the content. At this stage, you should **not** focus on formatting. Formatting is a distraction!
+The first step to creating your resume is refining the content. At this stage, you should **not** focus on formatting. 
+As you update the inofrmation, the formatting will get thrown off -- that's ok. Do not spend time trying to fix the formatting. Formatting is a distraction!
 
 ### Download the resume template document 
-This resume template is designed to get the basic information you need for you resume. Download the template, then:
-- Complete basic information
-- Complete education background 
-- Complete experience
-- Complete summary or tagline
+This resume template is designed to get the basic information you need for you resume. <a href="https://docs.google.com/document/d/12wrJ0G0TDPCXE3AZidtZXPwyeo0NSYBDq38ZLrj0Qps/copy" target="_blank"> Make a copy of this template,</a> then complete the sections in this order:
+- Basics and contact information
+- Education  
+- Experience
+- Additional
+- Summary
 
+### Update name and contact information
+
+Replace the name, phone number, location, linkedin and github address. If you have a separate portfolio website, add that as well. 
+
+### Education experience
+Add your 2-3 most recent education experiences. You should not add anything before secondary school. 
 
 ### Complete professional experience
 
@@ -68,28 +76,40 @@ The experience section shows potential employers what you have done in the past 
 That's ok! It's expected that you won't have much experience at the beginning of your career. Even if you don’t have an extensive work history, you may have done volunteer, community service, and other projects that show your strengths. Extracurricular activities can also tell recruiters that you’re driven, ambitious, and actively involved in your community. If you have fewer than 3 past work experiences, you may add volunteer or university projects. You may also use those projects if they are particularly relevant. 
 
 
-#### Tips for writing an effective experience section
+When writing bullet points for your experience
+
+#### Use strong action verbs and explain how you did the work
+The video calls these "power verbs." They help convey what you accomplished _and_ are easier to read and more concise.
+
+🛑 As an intern at the company, I completed many mission-critical features in the UI 
+
+✅ Built a user login integration with Facebook that increased sign-ups by 20%
+
+🛑 Helped the office become more efficient by going paperless
+
+✅ Implemented an electronic ticketing system which sped up operations and reduced ticketing errors
 
 
-- **Start with your most recent experience.** Your most recent experience is the most relevant to your current job search, so it should be listed first.
-- **Use strong action verbs.** The video calls these "power verbs." They help convey what you accomplished _and_ are easier to read and more concise . For example, instead of saying "I was responsible for developing marketing campaigns," say "Developed marketing campaigns that increased website traffic by 20%."
-- **Show impact and quantify your results.** You need to explain why your work matters. Whenever possible, quantify the results of your work. This will help potential employers see the impact you have made in previous roles. For example, instead of saying "I increased sales," say "I increased sales by 15% in my first year."
+#### Show impact and quantify your results
+Explain _why_ your work matters. Whenever possible, quantify the results of your work. 
+
+
+🛑 I increased sales
+
+✅ I increased sales by 15% in my first year
+
+🛑 I was responsible for developing marketing campaigns
+
+✅ Developed marketing campaigns that increased website traffic
 
 
 
-#### Good
-Built a user login integration with Facebook that increased sign-ups by 20%
+### Include additional information
+- Add a list of relevant technical skills (e.g., programming languages) and tools you are comfortable with
+- If you have relevant certifications and trainings, add them 
+- Optionally, you may add languages you speak and your interests/hobb
 
-#### Bad
-I was an intern and completed many mission-critical features in the UI
+### Add your summary 
+Once you have finished adding all of the sections, update the summary. 
 
-#### Good
-Implemented an electronic ticketing system which sped up operations and reduced ticketing errors
-
-#### Bad
-Helped the office become more efficient by going paperless
-
-
- 
-
-
+### Trim as needed 
