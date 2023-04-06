@@ -30,41 +30,11 @@ Whether you answered yes or no, the first step in this goal setting process is t
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dtBtov2f7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
   </div>
 
+In this video, Luke asserts that if we take the time to dig deep and listen to what our life experiences so far have taught us we will be able to determine which desires are from within and which ones are influenced by what other people have determined as worthy of desire.
 
-### Quantitative research 
-Quantiative UX research collects and analyzes numerical data. This can include surveys, A/B testing, usage logs, or other methods that provide data for statistical analysis. Quantitative research is useful to 
-- Generate data from a large sample size
-- Make generalizations about a large population
-- Test hypotheses and identify trends or patterns in user behavior 
+In the document below **(make a copy)**, take time to list down 3-5 instances where you have felt the most fulfilled in your work/school life. What were the drivers of the feeling of fulfillment? How do you want your upcoming internship to feed the feeling of fulfillment and maybe even help you discover new ones? What steps do you intend to take?
 
-Some questions a researcher might answer with quantiative research include:
-- How many active users does the product have each day or each month?
-- What share of people find the call to action on the page?
-- What is the average satisfaction level of users with the product or service?
-
-### Qualitative research
-Qualitative research is less focused on collecting and analyzing numerical data. Instead, the goal of qualitative research is to understand the underlying reasons behind user behavior and preferences, and  explore the subjective experiences of users. This type of research is often used to:
-- Identify trends or patterns that may not be immediately apparent from numerical data
-- Gain a deeper understanding of user motivations and behaviors
-
-Qualitative research typically involves conducting interviews, focus groups, observations, or other activities that allow researchers to probe users' thoughts and experiences in greater detail. Qualitative research often involves smaller sample sizes and is used to generate detailed insights into user behavior and preferences.
-
-
-
-
-## Attitudinal vs. behaviorial research
-
-Another set of research methods is attitudinal vs. behaviorial. The difference in these two approaches draws from the insight that what people say and believe (their attitudes) are often different from what they actually do (their behavior). To _build the right thing_, it's important to understand both what users believe and how they behave. 
-
-![image](https://user-images.githubusercontent.com/1774663/205453222-f7e80444-0b86-4601-89ad-499d4e69334a.png)
-
-
-
-### Attitudinal research 
-Attitudinal research aims to understand the attitudes and beliefs of a user. It typically involves conducting surveys, interviews, or other methods that allow researchers to explore people's attitudes and beliefs in greater detail. This type of research is often used to:
-- Identify potential problems or issues with a product or service
-- Gauge the effectiveness of marketing campaigns
-- Understand the underlying reasons behind user attitudes and beliefs
+This exercise is for your eyes only so be as honest and candid with yourself as possible and ensure that you take some minutes to think about it before jotting down your responses.
 
 ### Behaviorial research
 
