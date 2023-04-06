@@ -37,7 +37,7 @@ In the document below **(make a copy)**, take time to list down 3-5 instances wh
 
 This exercise is for your eyes only so be as honest and candid with yourself as possible and ensure that you take some minutes to think about it before jotting down your responses.
 
-<a href="https://docs.google.com/document/d/12wrJ0G0TDPCXE3AZidtZXPwyeo0NSYBDq38ZLrj0Qps/copy" target="_blank"> Make a copy of this document,</a> and use it to note down your reflections.
+<a href="https://docs.google.com/document/d/1k8OJFymVJ3eY-LAKGtXiW2e_jycf1nWCxBOtZpM2nyY/copy" target="_blank"> Make a copy of this document,</a> and use it to note down your reflections.
 
 ### Behaviorial research
 
