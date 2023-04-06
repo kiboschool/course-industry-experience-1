@@ -1,12 +1,12 @@
 # Establish Your Why
 
-*Estimated Time: 30 minutes*
+*Estimated Time: 45 minutes*
 
 ---
 
 <aside>
   
-  🗣 **"'Build it and they will come,' is not a strategy; it’s a prayer."** <br>
+  🗣 **“If we want to feel an undying passion for our work, if we want to feel we are contributing to something bigger than ourselves, we all need to know our WHY.”** <br>
   — Steve Blank, The Four Steps to the Epiphany: Successful Strategies for Startups That Win
 
 </aside>
