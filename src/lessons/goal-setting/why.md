@@ -7,12 +7,12 @@
 <aside>
   
   🗣 **“If we want to feel an undying passion for our work, if we want to feel we are contributing to something bigger than ourselves, we all need to know our WHY.”** <br>
-  — Steve Blank, The Four Steps to the Epiphany: Successful Strategies for Startups That Win
+  — Simon Sinek, Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team
 
 </aside>
 
 
-## What is User Experience Research?
+## Making your internship experience meaningful
 User experience (UX) research is the process of studying the behaviors, needs, attitudes and motivations of users in order to improve the design of software, services or products. UX researchers conduct various types of research, including interviews, surveys, usability tests in order to gather data from users and identifies opportunites for impact. 
 
   
