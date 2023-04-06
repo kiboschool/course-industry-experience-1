@@ -30,11 +30,14 @@ Whether you answered yes or no, the first step in this goal setting process is t
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dtBtov2f7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
   </div>
 
+
 In this video, Luke asserts that if we take the time to dig deep and listen to what our life experiences so far have taught us we will be able to determine which desires are from within and which ones are influenced by what other people have determined as worthy of desire.
 
 In the document below **(make a copy)**, take time to list down 3-5 instances where you have felt the most fulfilled in your work/school life. What were the drivers of the feeling of fulfillment? How do you want your upcoming internship to feed the feeling of fulfillment and maybe even help you discover new ones? What steps do you intend to take?
 
 This exercise is for your eyes only so be as honest and candid with yourself as possible and ensure that you take some minutes to think about it before jotting down your responses.
+
+<a href="https://docs.google.com/document/d/12wrJ0G0TDPCXE3AZidtZXPwyeo0NSYBDq38ZLrj0Qps/copy" target="_blank"> Make a copy of this document,</a> and use it to note down your reflections.
 
 ### Behaviorial research
 
