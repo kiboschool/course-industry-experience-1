@@ -39,30 +39,8 @@ This exercise is for your eyes only so be as honest and candid with yourself as 
 
 <a href="https://docs.google.com/document/d/1k8OJFymVJ3eY-LAKGtXiW2e_jycf1nWCxBOtZpM2nyY/copy" target="_blank"> Make a copy of this document,</a> and use it to note down your reflections.
 
-### Behaviorial research
+## REFERENCES
 
-Behavioral research aims to understand the actions and behaviors of users in relation to a particular product or service. It typically includes studies of how users interact with the product or service, how they navigate through different features or pages, or how they respond to different design elements. Behavioral research might involve using tools like heat maps or click tracking software. This type of research is often used to:
-- Inform the design of specific user flows, e.g., onboarding 
-- Personalize product experience, e.g., by providing user-specific recommendations
-- Identify areas for improvement in a product or service
-
-
-<aside>
-🤔 Which types of research should you use and when?
-</aside>
-
-## UX Design principle: Mix it up!
-💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavioral approaches. This enables you to get the clearest and most naunced view of a design problem. 
-
-
-
-
-## Optional Resources
-
-<details>
-<summary>UX Research at real companies</summary>
-  <a href="https://www.answerlab.com/insights/takeaways-forrester-sf" target="_blank"> How instagram's culture of ux research positively impacts customer experience: takeaways from forrester cxsf</a><br />
-  <a href="https://about.gitlab.com/handbook/product/ux/ux-research/" target="_blank">UX Reseaarch at Gitlab</a>
-</details>
+Big Think. <a href="https://www.youtube.com/watch?v=dtBtov2f7e4" target="_blank"> How to know what you really want.</a>
 
 
