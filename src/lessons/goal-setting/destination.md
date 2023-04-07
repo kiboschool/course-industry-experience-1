@@ -37,5 +37,4 @@ By taking these steps, you can increase your chances of achieving your goal and 
 
 ## References 
 
-The Art of Improvement and Jack Heimbigner: A Complete Guide to Goal Setting
-Big Think. <a href="https://www.youtube.com/watch?v=XpKvs-apvOs&t=13s" target="_blank"> How to know what you really want.</a>
+The Art of Improvement and Jack Heimbigner: <a href="https://www.youtube.com/watch?v=XpKvs-apvOs&t=13s" target="_blank">  A Complete Guide to Goal Setting</a>
