@@ -10,7 +10,9 @@ _12 ECTS Credits_
  A welcome message from your instructors, Ope Bukola and Robb Cobb
 </aside>
 
-TODO: add video
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/c_dRJb1tjFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## What you'll learn
 
@@ -51,6 +53,9 @@ There are no set class meetings. Instead, you will complete lessons and submit a
 
 Ope Bukola, ope@kibo.school<br>
 Rob Cobb, rob@kibo.school
+
+**Teaching Assistant**<br>
+Leila Chibole, leila@kibo.school
 
 
 ## Topics
