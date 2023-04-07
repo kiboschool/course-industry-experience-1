@@ -27,7 +27,7 @@ Whether you answered yes or no, the first step in this goal setting process is t
 </aside>
 
  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=dtBtov2f7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dtBtov2f7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
   </div>
 
 
@@ -40,7 +40,7 @@ This exercise is for your eyes only so be as honest and candid with yourself as 
 <a href="https://docs.google.com/document/d/1k8OJFymVJ3eY-LAKGtXiW2e_jycf1nWCxBOtZpM2nyY/copy" target="_blank"> Make a copy of this document,</a> and use it to note down your reflections.
 
 
-## REFERENCES
+## References
 
 Big Think. <a href="https://www.youtube.com/watch?v=dtBtov2f7e4" target="_blank"> How to know what you really want.</a>
 
