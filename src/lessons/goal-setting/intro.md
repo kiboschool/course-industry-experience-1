@@ -19,7 +19,9 @@ After completing this lesson, you will be able to:
 - Identify the steps you need to take to achieve your goals
 - Develop a S.M.A.R.T plan to achieve your goals
 
+## **Focus Mode**
 
+This lesson will require you to think deeply, analyze critically and plan accordingly. As such, ensure that you are in a quiet environment with no distractions and optimum conditions to facilitate the reflection and planning exercises.
 
 ## Sections
 

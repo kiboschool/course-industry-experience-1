@@ -1,94 +1,47 @@
 # Establish Your Why
 
-*Estimated Time: 30 minutes*
+*Estimated Time: 45 minutes*
 
 ---
 
 <aside>
   
-  🗣 **"'Build it and they will come,' is not a strategy; it’s a prayer."** <br>
-  — Steve Blank, The Four Steps to the Epiphany: Successful Strategies for Startups That Win
+  🗣 **“If we want to feel an undying passion for our work, if we want to feel we are contributing to something bigger than ourselves, we all need to know our WHY.”** <br>
+  — Simon Sinek, Find Your Why: A Practical Guide for Discovering Purpose for You and Your Team
 
 </aside>
 
 
-## What is User Experience Research?
-User experience (UX) research is the process of studying the behaviors, needs, attitudes and motivations of users in order to improve the design of software, services or products. UX researchers conduct various types of research, including interviews, surveys, usability tests in order to gather data from users and identifies opportunites for impact. 
+## Making your internship experience meaningful
 
-  
+If someone were to walk up to you and ask: “Why are you planning to go through an internship experience?” Would you have an answer?
 
-## Quantitative vs. qualitative research
-Two main types of UX research methods are quantitative and qualitative. 
+If you answered yes, is your answer more external focused or internal focused? An example of an external reason would be: “because the Kibo requirements dictate that I have to” while an internal reason could be: “because I want to utilize this experience to practice my ability to work well with others in a real work environment.”
+
+If you answered no, worry not. This lesson will help guide you through the process of establishing your why and setting the right foundations for your industry experience. 
+
+Whether you answered yes or no, the first step in this goal setting process is to determine what your goals REALLY are. What do you REALLY want to achieve? 
 
 <aside> 
-  📺 Watch this video to better understand the differences between qualitative and quantiative research
+  📺 Watch the following video by Luke Burgis to dig deeper into why we, as humans, need to identify the difference between thin and thick desires to achieve ultimate fulfillment. 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/LmWPygSxMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-></iframe>
-</div>
+ <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dtBtov2f7e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  </div>
 
 
-### Quantitative research 
-Quantiative UX research collects and analyzes numerical data. This can include surveys, A/B testing, usage logs, or other methods that provide data for statistical analysis. Quantitative research is useful to 
-- Generate data from a large sample size
-- Make generalizations about a large population
-- Test hypotheses and identify trends or patterns in user behavior 
+In this video, Luke asserts that if we take the time to dig deep and listen to what our life experiences so far have taught us we will be able to determine which desires are from within and which ones are influenced by what other people have determined as worthy of desire.
 
-Some questions a researcher might answer with quantiative research include:
-- How many active users does the product have each day or each month?
-- What share of people find the call to action on the page?
-- What is the average satisfaction level of users with the product or service?
+In the document below **(make a copy)**, take time to list down 3-5 instances where you have felt the most fulfilled in your work/school life. What were the drivers of the feeling of fulfillment? How do you want your upcoming internship to feed the feeling of fulfillment and maybe even help you discover new ones? What steps do you intend to take?
 
-### Qualitative research
-Qualitative research is less focused on collecting and analyzing numerical data. Instead, the goal of qualitative research is to understand the underlying reasons behind user behavior and preferences, and  explore the subjective experiences of users. This type of research is often used to:
-- Identify trends or patterns that may not be immediately apparent from numerical data
-- Gain a deeper understanding of user motivations and behaviors
+This exercise is for your eyes only so be as honest and candid with yourself as possible and ensure that you take some minutes to think about it before jotting down your responses.
 
-Qualitative research typically involves conducting interviews, focus groups, observations, or other activities that allow researchers to probe users' thoughts and experiences in greater detail. Qualitative research often involves smaller sample sizes and is used to generate detailed insights into user behavior and preferences.
+<a href="https://docs.google.com/document/d/1k8OJFymVJ3eY-LAKGtXiW2e_jycf1nWCxBOtZpM2nyY/copy" target="_blank"> Make a copy of this document,</a> and use it to note down your reflections.
 
 
+## References
 
-
-## Attitudinal vs. behaviorial research
-
-Another set of research methods is attitudinal vs. behaviorial. The difference in these two approaches draws from the insight that what people say and believe (their attitudes) are often different from what they actually do (their behavior). To _build the right thing_, it's important to understand both what users believe and how they behave. 
-
-![image](https://user-images.githubusercontent.com/1774663/205453222-f7e80444-0b86-4601-89ad-499d4e69334a.png)
-
-
-
-### Attitudinal research 
-Attitudinal research aims to understand the attitudes and beliefs of a user. It typically involves conducting surveys, interviews, or other methods that allow researchers to explore people's attitudes and beliefs in greater detail. This type of research is often used to:
-- Identify potential problems or issues with a product or service
-- Gauge the effectiveness of marketing campaigns
-- Understand the underlying reasons behind user attitudes and beliefs
-
-### Behaviorial research
-
-Behavioral research aims to understand the actions and behaviors of users in relation to a particular product or service. It typically includes studies of how users interact with the product or service, how they navigate through different features or pages, or how they respond to different design elements. Behavioral research might involve using tools like heat maps or click tracking software. This type of research is often used to:
-- Inform the design of specific user flows, e.g., onboarding 
-- Personalize product experience, e.g., by providing user-specific recommendations
-- Identify areas for improvement in a product or service
-
-
-<aside>
-🤔 Which types of research should you use and when?
-</aside>
-
-## UX Design principle: Mix it up!
-💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavioral approaches. This enables you to get the clearest and most naunced view of a design problem. 
-
-
-
-
-## Optional Resources
-
-<details>
-<summary>UX Research at real companies</summary>
-  <a href="https://www.answerlab.com/insights/takeaways-forrester-sf" target="_blank"> How instagram's culture of ux research positively impacts customer experience: takeaways from forrester cxsf</a><br />
-  <a href="https://about.gitlab.com/handbook/product/ux/ux-research/" target="_blank">UX Reseaarch at Gitlab</a>
-</details>
+Big Think. <a href="https://www.youtube.com/watch?v=dtBtov2f7e4" target="_blank"> How to know what you really want.</a>
 
 
