@@ -7,6 +7,9 @@
 
 ### Goal Setting
 - [Goal Setting](lessons/goal-setting/intro.md)
+    - [Your Why](lessons/goal-setting/why.md)
+    - [Your Destination](lessons/goal-setting/destination.md)
+    - [Your Reality](lessons/goal-setting/reality.md)
     - [Assignment](lessons/goal-setting/assignment.md)
 
 ### Applying
