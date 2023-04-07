@@ -19,7 +19,7 @@
     - [Portfolio](lessons/application-materials/portfolio.md)
     - [Assignment](lessons/application-materials/assignment.md)
     
-
+<!--
 ### Behavioral Interviews
 - [Behavioral Interviews](lessons/behavioral-interviews/intro.md)
     - [Informational Interviews](lessons/behavioral-interviews/informational-interviews.md) 
@@ -51,4 +51,5 @@
 ### Final Report
 - [Final Report](lessons/final-report.md)
 
+-->
 ...
