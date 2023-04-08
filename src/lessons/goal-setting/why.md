@@ -14,16 +14,15 @@
 
 ## Making your industry experience meaningful
 
-If someone asked you, _“Why are you planning to go through an industry experience?,”_ What would you say?
+If someone asked you, “Why are you planning to go through an industry experience?,” What would you say? Perhaps:
 
-Perhaps your answer would be _“because the Kibo requirements dictate that I have to”_ or maybe _“because I want to utilize this experience to practice my ability to work well with others in a real work environment.”_
+- “Because the Kibo requirements dictate that I have to” or..
+- "Because I want to to practice in a real work environment"
 
-The next few months of preparing and applying for opportunities will be challenging. To perservere, you need a reason that you are doing this beyond the Kibo requirements. You need a _thick_ desire  to succeed. This lesson will help guide you through the process of establishing your why and setting the right foundations for your industry experience. 
-
-Whether you answered yes or no, the first step in this goal setting process is to determine what your goals REALLY are. What do you REALLY want to achieve? 
+The next few months of preparing for industry experience will be challenging. To perservere, you need a reason that you are doing this beyond the Kibo requirements. You need a _thick_ desire  to succeed. This lesson will help guide you through the process of establishing your why and setting the right foundations for your industry experience. 
 
 <aside> 
-  📺 Watch the video to understand how to identify the difference between thin and thick desires to achieve ultimate fulfillment (5:08)
+  📺 Watch the video to understand how to identify the difference between thin and thick desires (5:08)
 </aside>
 
  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
@@ -31,15 +30,15 @@ Whether you answered yes or no, the first step in this goal setting process is t
   </div>
 
 The video asserts that:
-- Each of us is the product of other people's desire
-- We must dig deep and examine our life experiences to determine which desires are from within and which ones are influenced by others
+- Each of us is the product of other people's desires
+- We must examine our life experiences to determine which desires are from within and which ones are influenced by others
 
 ## Reflecting on your fulfillment stories
 
 In this exercise, you will reflect on a few experiences where you have felt most fulfilled in your work or school life.  
 
 <aside>
-  ℹ️ This reflection and document is for your eyes only so be as honest and candid. Take some time to think deeply before jotting down your responses.
+  ℹ️ This reflection document is for your eyes only! Be honest and candid, and take some time to think deeply before jotting down your responses.
 </aside>
 
 **To complete the exercise:** 
