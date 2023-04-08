@@ -6,8 +6,10 @@
  
 </aside>
 
-As you learned in this lesson, setting and prioritizing your goals is critical to professional success. To complete this assignment, you will reflect on your goals then submit a goal-setting form. You will answer questions about
-- Your industry experience wishes
+To complete this assignment, you will submit a goal-setting form. This form will help you consolidate your reflections from the lessons, and provide your instructors and advisors key information to support you on the path toward industry experience. 
+
+You will answer questions about
+- Your preferences for industry experience 
 - Your academic and technical goals
 - Your human skills goals
 - Your personal development goals
@@ -16,11 +18,11 @@ As you learned in this lesson, setting and prioritizing your goals is critical t
 ## Submission
 
 #### (1) Submit the form
-Access and submit the form <a href="https://forms.gle/Tku1UwVa6UNBzana7" target="_blank"> here. </a>
+Access and submit the form <a href="https://forms.gle/Tku1UwVa6UNBzana7" target="_blank"> here. </a> 
 
 #### (2) Download and submit a PDF copy of your goals in Woolf
-Upon submission of the form, you will receive an email with your results. You should:
-- Save a PDF copy of your goals by selecting Print then Save as PDF
+You will receive an email with your form responses. You should:
+- Save a PDF copy of your results. Open the email, then select **Print** and **Save as PDF**
 - Upload the PDF copy of your goals to the Woolf Platform. 
 
 
