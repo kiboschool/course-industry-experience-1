@@ -5,19 +5,21 @@
 ---
 
 ## Welcome to Goal Setting
-<aside>
-  Instructor Ope Bukola introduces goal setting
+<aside> 
+  📺 Instructor Ope Bukola introduces Goal Setting lesson (2:34)
 </aside>
 
-TODO: Video
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NGGbsB9Oa7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 ## **Learning Outcomes**
 
 After completing this lesson, you will be able to:
 
-- Identify and prioritize your goals
-- Identify the steps you need to take to achieve your goals
-- Develop a S.M.A.R.T plan to achieve your goals
+- Reflect on your prior experiences and moments you have felt fulfilled
+- Identify and prioritize S.M.A.R.T.E.R goals
+- Identify the systems you need to build to to achieve your goals
 
 
 ## Sections
