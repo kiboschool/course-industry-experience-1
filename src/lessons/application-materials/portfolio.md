@@ -53,6 +53,12 @@ On any portfolio, there are some features that need to be there!
 - Links to social, linkedin, github, blog, or anything else you want people to see
 - How to get in touch
 
+You should confirm that there are no errors:
+
+- check that your links work
+- check your spelling
+- check that the formatting and presentation look the way you intend
+
 ## How to build your portfolio
 
 There are several options for building a portfolio. You should start by writing a Github Readme, then if you have time, add a personal site, potentially using a portfolio template or portfolio tool.
