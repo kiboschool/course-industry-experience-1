@@ -28,10 +28,10 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[Your Why](lessons/goal-setting/why.md)
+[Your Why](/lessons/goal-setting/why.md)
 
-[Your Destination](lessons/goal-setting/destination.md)
+[Your Destination](/lessons/goal-setting/destination.md)
 
-[Assignment](lessons/goal-setting/assignment.md)
+[Assignment](/lessons/goal-setting/assignment.md)
 
 ---
