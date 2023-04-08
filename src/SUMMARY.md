@@ -18,7 +18,6 @@
     - [LinkedIn Profile](lessons/application-materials/webprofiles.md)
     - [Portfolio](lessons/application-materials/portfolio.md)
     - [Assignment](lessons/application-materials/assignment.md)
-    
 
 ### Behavioral Interviews
 - [Behavioral Interviews](lessons/behavioral-interviews/intro.md)
