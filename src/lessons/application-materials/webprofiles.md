@@ -1,4 +1,4 @@
-# LinkedIn and Web Profiles
+# LinkedIn Profile
 *Estimated Time: 30 minutes*
 
 ---
