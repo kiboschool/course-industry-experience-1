@@ -15,7 +15,7 @@
 ### Applying
 - [Preparing to Apply](lessons/application-materials/intro.md)
     - [Resume](lessons/application-materials/resume.md)
-    - [Web Profiles](lessons/application-materials/webprofiles.md)
+    - [LinkedIn Profile](lessons/application-materials/webprofiles.md)
     - [Portfolio](lessons/application-materials/portfolio.md)
     - [Assignment](lessons/application-materials/assignment.md)
     
