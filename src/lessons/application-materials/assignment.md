@@ -8,28 +8,31 @@
 
 For this assignment you will prepare and submit three key artifacts to support your application. 
 
-### Resume
-Using the format and guidance provided in the lesson, create an updated resume.
+### Create a resume
+Follow the steps in the [lesson](/lessons/application-materials/resume.md) and:
+- Create your resume 
+- Complete your resume self-evaluation
+- Complete peer evaluation for a classmate
 
-### Portfolio
-Create a portfolio website. We recommend hosting with Github pages, but you may also use another hosting site. Your portfolio must include:
-- A brief description of who you are and your photo
-- Links to at least 2 projects and their repository
-- For each project, a brief (1 paragraph max) description of the project 
+### Build a portfolio
+Follow the steps in the [lesson](/lessons/application-materials/portfolio.md) to:
+- Create a mini-portfoio by updating your Github profile readme 
+- (Optionally) create a personal portfolio website
 
 ### LinkedIn profile
-Update your LinkedIn profile. Your profile must include:
-- A legible photo 
-- A compelling headline, and brief summary
-- At least 2 relevant professional and academic experiences, with supporting links
+Follow the steps in the [lesson](/lessons/application-materials/webprofiles.md) to update your LinkedIn profile. It shoud include:
+- Your name, profile photo, and professional headline
+- A customized URL 
+- Your professional and educational background
 
 ## Submission
 
 #### (1) Submit youar assignment in Gradescope
-Submit links to your materials in Gradescope. For your resume document, ensure that permissions are set so that anyone with a link can comment.  
+Submit links to your materials in Gradescope. For any links to documents, ensure that permissions are set so that anyone with a link can comment.  
 
 #### (2) Submit in Woolf
 - Upload a PDF version of your resume
+  - You can download a PDF from Google Docs by selecting **File** then **Download** then **PDF**
 - Submit a link to your portfolio
 - Submit a link to your LinkedIn profile
 
