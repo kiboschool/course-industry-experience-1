@@ -42,7 +42,7 @@ Sections in a resume can vary but a strong resume generally includes a summary o
 
 
 
-## Creating your resume 
+## Create your resume 
 
 The first step to creating your resume is refining the content. At this stage, you should **not** focus on formatting. 
 As you update the inofrmation, the formatting will get thrown off -- that's ok. Do not spend time trying to fix the formatting. Formatting is a distraction!
@@ -113,3 +113,34 @@ Explain _why_ your work matters. Whenever possible, quantify the results of your
 Once you have finished adding all of the sections, update the summary. 
 
 ### Trim as needed 
+Finally, edit your writing to get your resume to fit on one page 
+
+## Submission and Feedback
+In this part of the lesson, you will be reviewing your own resume, then providing feedback on a classmate's resume. 
+
+### Self evaluation
+- Make a copy of the <a href="https://docs.google.com/document/d/1weU7AgOFH9YRlwrebWAMsFOIB2v1GwqtDBaEariksXw/copy" target="_blank"> evaluation document</a>, then evaluate your resume using the rubric. 
+
+### Submit your resume
+- Open <a href="https://docs.google.com/spreadsheets/d/1HzJIUcRPkmjnvMNbhQBjXepz6B-tVQqkjZTTzTOl4-I/edit#gid=0" target="_blank">this spreadsheet</a>
+- Find your name 
+- Add a link to your resume in Column C. Ensure that the document is set so that anyone at kibo school with the link can comment
+
+
+### Peer evaluation
+<aside>
+  ⚠️ Before proceeding to the next section, make sure you have submitted your resume and self evaluation. 
+</aside>
+
+- Open <a href="https://docs.google.com/spreadsheets/d/1HzJIUcRPkmjnvMNbhQBjXepz6B-tVQqkjZTTzTOl4-I/edit#gid=0" target="_blank">this spreadsheet</a>
+- Look for a row without a value in Column D (Peer Reviewer Name) then add your first and last name. You will be conducting a review for this resume
+- Open the link in Column C  
+- Make a copy of the <a href="https://docs.google.com/document/d/1weU7AgOFH9YRlwrebWAMsFOIB2v1GwqtDBaEariksXw/copy" target="_blank"> evaluation document</a>, then evaluate your peer's resume
+- When you are finished, you need to share the evaluation with the person
+  - Click the "Share" button
+  - Share the resume with your classmate via email
+  
+
+  
+  
+
