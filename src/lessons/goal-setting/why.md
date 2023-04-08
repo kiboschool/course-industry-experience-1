@@ -16,9 +16,9 @@
 
 If someone asked you, _“Why are you planning to go through an industry experience?,”_ What would you say?
 
-Perhaps your answer would be “because the Kibo requirements dictate that I have to” or maybe “because I want to utilize this experience to practice my ability to work well with others in a real work environment.”
+Perhaps your answer would be _“because the Kibo requirements dictate that I have to”_ or maybe _“because I want to utilize this experience to practice my ability to work well with others in a real work environment.”_
 
-The next few months of preparing and applying for opportunities will be challenging. To perservere, you need to understand _why_ you are doing this beyond the Kibo requirements. You need a _thick_ desire  to succeed. This lesson will help guide you through the process of establishing your why and setting the right foundations for your industry experience. 
+The next few months of preparing and applying for opportunities will be challenging. To perservere, you need a reason that you are doing this beyond the Kibo requirements. You need a _thick_ desire  to succeed. This lesson will help guide you through the process of establishing your why and setting the right foundations for your industry experience. 
 
 Whether you answered yes or no, the first step in this goal setting process is to determine what your goals REALLY are. What do you REALLY want to achieve? 
 
