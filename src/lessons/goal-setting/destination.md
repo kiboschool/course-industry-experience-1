@@ -1,11 +1,13 @@
 # Reaching your Destination
 
-*Estimated Time: 45 minutes*
+*Estimated Time: 1 hour*
 
 ---
-<aside> 
-  🗣 **"You You can't go back and change the beginning, but you can start where you are and change the ending"** <br>
+<aside>
+  
+  🗣 **“You can't go back and change the beginning, but you can start where you are and change the ending”** <br>
   — C.S. Lewis
+
 </aside>
 
 
@@ -37,33 +39,35 @@ As the video asserts:
 
 ### Create your goals
 
-In the assignment for this lesson, you will need to submit your learning goals and preferences for industry experience. To help you identify your goals, you should
+In the assignment for this lesson, you will need to submit your learning goals and preferences for industry experience. To help you identify your goals, 
 
-- Create a new Google doc (type "doc.new" into your browser) to use for brainstorming
-- Take a few minutes to answer each of the questions below. For each question, set a timer for 5 minutes, then list down as many goals as you can think of. Don't worry about writing them perfectly, the goal is to get a big list. 
-  - What are you technical learning goals? How do you want your industry experience to improve your technical skills and build on what you have learned in your classes?
-  - What are you human skills development goals? How will your industry experience help you develop the human/employability skills required in the workplace (e.g. communication, teamwork, time management, planning, etc.)?
-  - What are your personal development goals? How will your industry experience help you to grow as a person, develop your brand and build your network? What do you want to be known for?
+#### (1) Create a new Google doc (type "doc.new" into your browser) to use for brainstorming
+
+#### (2) For each question below, set a timer fo 5 minutes, then list down as many goals as you can think of. 
+
+1. What are you technical learning goals? How do you want your industry experience to improve your technical skills and build on what you have learned in your classes?
+2. What are you human skills development goals? How do you wnat your industry experience help you develop the employability skills (e.g. communication, teamwork, time management, planning, etc.)?
+3. What are your personal development goals? How will your industry experience help you to grow as a person, develop your brand, and build your network? What do you want to be known for?
 
 
 ### Prioritize your goals
 
-Now that you have a "laundry list" of goals, it is time to reduce and prioritize. For each group of goals, review the list then put them in priority order. To prioritize you should consider:
-- Impact: which of these is most important to you, and how does achieving them align with your values and overall objectives? Which goals have the potential to have the greatest impact on your learning or career?
-- Timeline: are some goals more time-sensitive than others? 
-- Feasibility: prioritize goals that are most feasible and achievable with the resources and support available to you
-- Determine potential impact: Prioritize goals that have the potential to have the greatest impact on your life or career
-- Evaluate trade-offs: Consider the trade-offs between different goals and prioritize those that align with your overall priorities and objectives
+Now that you have a list of goals, it is time to reduce and prioritize. Reduce and prioritize each list of goals until you have 3-5 remaining. To prioritize, consider the following:
 
-After prioritizing, reduce your list of goals to the top 3-5 in each category (technical, human skills, personal development)
+- **Impact:** which of these is most important to you, and how does achieving them align with your values and overall objectives? Which goals have the potential to have the greatest impact on your learning or career?
+- **Timeline:** are some goals more time-sensitive than others? 
+- **Feasibility:** prioritize goals that are most achievable with the resources and support available to you
+- **Trade-offs:** consider the trade-offs between different goals
 
+## Creating Systems
 
-## Creating systems
+<aside>
+  
+  🗣 **“We do not rise to the level of our goals, we fall to the level of our systems.”** <br>
+  — James Clear
 
-<aside> 
-  🗣 **"We do not rise to the level of our goals, we fall to the level of our systems."** <br>
-  — James Clear, Atomic Habits
 </aside>
+
 
 
 <aside> 
@@ -77,12 +81,15 @@ After prioritizing, reduce your list of goals to the top 3-5 in each category (t
 
 ### What systems do you need to do well in Industry Experience?
 
-Unlike classes you've taken previously, industry experience is largely self-paced. While there are deadlines along the way, YOU will need to determine what to do and when. Go back to your goal setting document, and answer the following questions:
+Industry experience is largely self-paced. While there are deadlines along the way, YOU will need to determine what to do and when. Go back to your goal setting document, and answer the following questions:
 
-- What changes, if any, will you need to make to your physical environment to succeed?
-- What changes, if any, do you need to make to your social environment to succeed?
-- What changes, if any, do you need to make to your approach?
-- What strategy fits well with your personality and circumstances?
-  - What types of companies are the right fit? What do you enjoy or dislike? Though you may want to work at your dream company now, you may need to have a few years of experience and education under your belt to qualify. 
-  - What environment do you need to work well? For example, if you do not have access to a quiet and reliable working environment, you may want to prioritize opportunities that have an office over remote roles.
-  - What type of work can you take on? For example, if you are working or in school full-time, taking on a full-time industry experience may not be realistic as you won't be available during traditional work hours. 
+#### (1) What changes, if any do you need to make to your physical or social environment?
+Do you need to better optimizie your study environment to enable you to do well in interviews? Should you consider working from a library or shared study space? Should you form a study group with peers to practice interviews, and give each other feedback?
+
+#### (2) What changes, if any, do you need to make to your study approach?
+Are there certain habits (e.g., procrastination) that you may need to change to secure an experience on time? Are there new habits (e.g., reading technical blogs) that might help you better prepare and succeed at work?
+
+#### (3) What search strategy fits well with your personality and circumstances?
+- What types of companies are the right fit? What do you enjoy or dislike? Though you may want to work at your dream company now, you may need to have a few years of experience and education under your belt to qualify. 
+- What environment do you need to work well? For example, if you do not have access to a quiet and reliable working environment, you may want to prioritize opportunities that have an office over remote roles.
+- What type of work can you take on? For example, if you are working or in school full-time, it may not be reaslitic for you to take on a full-time industry experience if you won't be available during traditional work hours. 
