@@ -126,20 +126,38 @@ In this part of the lesson, you will be reviewing your own resume, then providin
 - Find your name 
 - Add a link to your resume in Column C. Ensure that the document is set so that anyone at kibo school with the link can comment
 
-
-### Peer evaluation
 <aside>
   ⚠️ Before proceeding to the next section, make sure you have submitted your resume and self evaluation. 
 </aside>
 
+### Peer evaluation
+<aside>
+  📺 Watch the video below for instructions on conducting peer evaluations
+ </aside>
+ <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/zpHVPenqaDk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+
+  </div>
+
+The final step is to conduct a peer review. This is an opportunity to get #BetterTogether and provide thoughtful and honest feedback to your classmates. Giving useful and constructive feedback is a critical workplace skill, so this will also help _you_ grow as a professional.  
+
+To complete the peer evaluation:
+
 - Open <a href="https://docs.google.com/spreadsheets/d/1HzJIUcRPkmjnvMNbhQBjXepz6B-tVQqkjZTTzTOl4-I/edit#gid=0" target="_blank">this spreadsheet</a>
-- Look for a row without a value in Column D (Peer Reviewer Name) then add your first and last name. You will be conducting a review for this resume
+- Look for a row with a **resume link in column C but without a value in Column D** (Peer Reviewer Name)
+- Add your first and last name to Column D. You will be conducting a review for this resume
 - Open the link in Column C  
-- Make a copy of the <a href="https://docs.google.com/document/d/1weU7AgOFH9YRlwrebWAMsFOIB2v1GwqtDBaEariksXw/copy" target="_blank"> evaluation document</a>, then evaluate your peer's resume
-- When you are finished, you need to share the evaluation with the person
+- Make another copy of the <a href="https://docs.google.com/document/d/1weU7AgOFH9YRlwrebWAMsFOIB2v1GwqtDBaEariksXw/copy" target="_blank"> evaluation document</a>, then evaluate your peer's resume
+- When you are finished, share the evaluation with the person
   - Click the "Share" button
-  - Share the resume with your classmate via email
-  
+  - Type the name of the person whose resume you reviewed
+  - Share the evaluation with your classmate via email
+
+### Responding to feedback
+After receiving feedback on your resume, you should review the feedback and make necessary changes. 
+- If you have questions or need clarification, you can drop a comment in the document for the reviewer or reach out to them on Discord 
+- Once you have made improvements based on your peer feedback, you may submit your resume for instructor review by following the steps on the [assignment](/lessons/application-materials/assigmnent.md) page.
+
 
   
   
