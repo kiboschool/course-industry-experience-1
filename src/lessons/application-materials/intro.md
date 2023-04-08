@@ -36,6 +36,9 @@ After completing this lesson, you will be able to:
 
 [Portfolio](/lessons/application-materials/portfolio.md)
 
+[Assignment](/lessons/application-materials/assignment.md)
+
+
 
 
 ---
