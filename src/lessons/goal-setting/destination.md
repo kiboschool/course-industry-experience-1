@@ -28,14 +28,14 @@ Although goals are not sufficient for success, they are necessary! As you embark
 
 As the video asserts:
 - Goals give us momentum to push through the adversities we experience while chasing our dreams
-- The best goals are SMARTER, i.e., 
-  - Specific, so that you can quantify whether or not you've hit the goal
-  - Measurable, so that you can track it over time 
-  - Actionable, by beginning with a doable verb
-  - Relatable, and realistic for your current situaton
-  - Time-bound, so you are forced to take action toward it in a specific timeframe
-  - Evaluate your progress regularly, and read them at least weekly
-  - Reward yourself for hitting milestones
+- The best goals are SMARTER:
+  - **Specific**, so that you can quantify whether or not you've hit the goal
+  - **Measurable**, so that you can track it over time 
+  - **Actionable**, by beginning with a doable verb
+  - **Relatable**, and realistic for your current situaton
+  - **Time-bound**, so you are forced to take action toward it in a specific timeframe
+  - **Evaluate** your progress regularly, and read them at least weekly
+  - **Reward** yourself for hitting milestones
 
 ### Create your goals
 
@@ -46,9 +46,8 @@ In the assignment for this lesson, you will need to submit your learning goals a
 #### (2) For each question below, set a timer fo 5 minutes, then list down as many goals as you can think of. 
 
 1. What are you technical learning goals? How do you want your industry experience to improve your technical skills and build on what you have learned in your classes?
-2. What are you human skills development goals? How do you wnat your industry experience help you develop the employability skills (e.g. communication, teamwork, time management, planning, etc.)?
+2. What are you human skills development goals? How do you want your industry experience help you develop the employability skills (e.g. communication, teamwork, time management, planning, etc.)?
 3. What are your personal development goals? How will your industry experience help you to grow as a person, develop your brand, and build your network? What do you want to be known for?
-
 
 ### Prioritize your goals
 
@@ -67,8 +66,6 @@ Now that you have a list of goals, it is time to reduce and prioritize. Reduce a
   — James Clear
 
 </aside>
-
-
 
 <aside> 
   📺 Watch the video below on using habits and systems to achieve your goals. (4:16)
