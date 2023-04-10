@@ -57,6 +57,12 @@ Rob Cobb, rob@kibo.school
 **Teaching Assistant**<br>
 Leila Chibole, leila@kibo.school
 
+## Meeting Times
+There are no regular or required meetings for this class. Optional office hours will be held each week. Office hours times are:
+- Office hours with Ope: Tuesdays 5-6pm GMT
+- Office hours with Rob: Mondays 3-4pm GMT
+
+Office hours are _subject to change_ so please check the weekly Discord events for the exact times that week. 
 
 ## Topics
 
