@@ -43,11 +43,11 @@ In the assignment for this lesson, you will need to submit your learning goals a
 
 #### (1) Create a new Google doc (type "doc.new" into your browser) to use for brainstorming
 
-#### (2) For each question below, set a timer fo 5 minutes, then list down as many goals as you can think of. 
+#### (2) For each question below, set a timer for 5 minutes, then list down as many goals as you can think of. 
 
-1. What are you technical learning goals? How do you want your industry experience to improve your technical skills and build on what you have learned in your classes?
-2. What are you human skills development goals? How do you want your industry experience help you develop the employability skills (e.g. communication, teamwork, time management, planning, etc.)?
-3. What are your personal development goals? How will your industry experience help you to grow as a person, develop your brand, and build your network? What do you want to be known for?
+1. What are you technical learning goals? How do you want your industry experience to improve your technical skills and build on what you have learned in class?
+2. What are you human skills development goals? How do you want your industry experience help you develop employability skills (e.g. communication, teamwork, time management, planning, etc.)?
+3. What are your personal development goals? How will your industry experience help you to grow as a person, develop your brand, and build your network? 
 
 ### Prioritize your goals
 
@@ -84,7 +84,7 @@ Industry experience is largely self-paced. While there are deadlines along the w
 Do you need to better optimizie your study environment to enable you to do well in interviews? Should you consider working from a library or shared study space? Should you form a study group with peers to practice interviews, and give each other feedback?
 
 #### (2) What changes, if any, do you need to make to your study approach?
-Are there certain habits (e.g., procrastination) that you may need to change to secure an experience on time? Are there new habits (e.g., reading technical blogs) that might help you better prepare and succeed at work?
+Are there certain habits (e.g., procrastination) that you need to change to secure an experience on time? Are there new habits (e.g., reading technical blogs) that might help you better prepare and succeed at work?
 
 #### (3) What search strategy fits well with your personality and circumstances?
 - What types of companies are the right fit? What do you enjoy or dislike? Though you may want to work at your dream company now, you may need to have a few years of experience and education under your belt to qualify. 
