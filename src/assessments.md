@@ -55,15 +55,10 @@ The table below lists the due date for each requirement.
 - The last day of Term 4 is September 15 2023. The last day to submit any assignments for the work phase is Friday September 15.
 
 
-## How to Submit Your Assignments
+## Submitting Assignments
 
 All assignments must be submitted in Gradescope using online assessments. You will also need to submit a copy in the Woolf platform for your academic record.
 
-<aside> Watch the video below to learn how to submit your assignment in Gradescope</aside>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/HrYJGTnNnzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-></iframe>
-</div>
 
 ## Academic Integrity
 You are expected to do your work, and adhere to the highest level of personal and professional integrity. You must follow all the guidelines listed in Kibo's <a href="https://docs.google.com/document/d/1E41mBjSB8pTF8_kdUwnOVTScuP1fmBqQk3Gypo1y6YQ/preview#heading=h.syu8x8h230de" target="_blank">Academic Honesty & Integrity Policy</a>
