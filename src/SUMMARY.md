@@ -8,18 +8,16 @@
 ### Goal Setting
 - [Goal Setting](lessons/goal-setting/intro.md)
     - [Your Why](lessons/goal-setting/why.md)
-    - [Your Reality](lessons/goal-setting/reality.md)
     - [Your Destination](lessons/goal-setting/destination.md)
     - [Assignment](lessons/goal-setting/assignment.md)
 
 ### Applying
 - [Preparing to Apply](lessons/application-materials/intro.md)
     - [Resume](lessons/application-materials/resume.md)
-    - [Web Profiles](lessons/application-materials/webprofiles.md)
+    - [LinkedIn Profile](lessons/application-materials/webprofiles.md)
     - [Portfolio](lessons/application-materials/portfolio.md)
     - [Assignment](lessons/application-materials/assignment.md)
-    
-<!--
+
 ### Behavioral Interviews
 - [Behavioral Interviews](lessons/behavioral-interviews/intro.md)
     - [Informational Interviews](lessons/behavioral-interviews/informational-interviews.md) 

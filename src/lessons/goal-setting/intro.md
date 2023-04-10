@@ -1,42 +1,33 @@
-
 # Goal Setting
+
 *Estimated Time: 4 hours*
 
 ---
 
 ## Welcome to Goal Setting
-<aside>
-  Instructor Ope Bukola introduces goal setting
-</aside>
 
-TODO: Video
+>  📺 Instructor Ope Bukola introduces Goal Setting lesson (2:34)
 
-## **Learning Outcomes**
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NGGbsB9Oa7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+## Learning Outcomes
 
 After completing this lesson, you will be able to:
 
-- Identify and prioritize your goals
-- Identify the steps you need to take to achieve your goals
-- Develop a S.M.A.R.T plan to achieve your goals
-
-## **Focus Mode**
-
-This lesson will require you to think deeply, analyze critically and plan accordingly. As such, ensure that you are in a quiet environment with no distractions and optimum conditions to facilitate the reflection and planning exercises.
+- Reflect on your prior experiences and moments you have felt fulfilled
+- Identify and prioritize S.M.A.R.T.E.R goals
+- Identify the systems you need to build to to achieve your goals
 
 ## Sections
 
-<aside>
+> 👩🏿‍🏫 Complete this lesson by exploring each section
 
-👩🏿‍🏫 Complete this lesson by exploring each section
+[Your Why](/lessons/goal-setting/why.md)
 
-</aside>
+[Your Destination](/lessons/goal-setting/destination.md)
 
-[Your Why](lessons/goal-setting/why.md)
-
-[Your Reality](lessons/goal-setting/reality.md)
-
-[Your Destination](lessons/goal-setting/destination.md)
-
-[Assignment](lessons/goal-setting/assignment.md)
+[Assignment](/lessons/goal-setting/assignment.md)
 
 ---
