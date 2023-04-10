@@ -58,7 +58,7 @@ You should customize this URL so that it's easier to deduce your first and last 
 Your LinkedIn headline is a brief description that is shown at the top of your profile page. It also appears next to your name in the search results. Your professional headline can be:
 
 - Your current position or title, e.g., "Computer science student at Kibo School" or "Aspiring software developer and computer science student", similar to <a href="https://www.linkedin.com/in/ebunoluwa-amoo-1557a522a/" target="_blank">Ebun</a> or <a href="https://www.linkedin.com/in/ovecjoe/" target="_blank">Victor</a>
-- A description of your skills and interested, e.g., <a href="https://www.linkedin.com/in/oluwafunminiyioladapo/" target="_blank">Funmi</a> has: "IoT and TinyML Developer | Program Manager | C/C++ * Pythonista | Creating Opportunities with Artificial Intelligenc"
+- A description of your skills and interested, e.g., <a href="https://www.linkedin.com/in/oluwafunminiyioladapo/" target="_blank">Funmi</a> has: "IoT and TinyML Developer | Program Manager | C/C++ * Pythonista | Creating Opportunities with Artificial Intelligence"
 
 **5. Update your experience and education**
 Update this section to include jobs, volunteer, and work experience you've had recently. Use similar language to your resume.
@@ -84,7 +84,7 @@ Once you have created a solid profile, you should seek relevant connections. Acc
 
 - **Ask people you know**: you should connect to your Kibo classmates, staff, mentors and others you know
 - **Don't ask people you don't know**: while you may want to connect with well-known people, you should only request connections from people you actually know. I get many connection requests and say no to the majority of them because I want my network to be meaningful. I consider connection requests from people I've never interacted with and who have no meaningful connection to me to be rude. Don't be that person!
-- **Ask wisely**: don't assume everyone you interact with remembers you. When making a connection request to a weak tie (someone do not know well), it's helpful to use the connection message to send a _brief_ message on why you want to be connected. For example:
+- **Ask wisely**: don't assume everyone you interact with remembers you. When making a connection request to a weak tie (someone do not know well), include a _brief_ reminder message on why you want to be connected. For example:
   - _"Thank you for speaking at the fireside chat. I appreciated your insight on building soft skills. I'd like to be added to your network."_
   - _"It was a pleasure to meet you at XYZ conference, and chat briefly about education in Africa. I'd like to stay in touch."_
 
@@ -100,7 +100,7 @@ I personally think recommendations are not very valuable, and they can sometimes
 
 ## (Optional) Making your profile stand out 
 
-If you follow the steps above, your profile will be in solid shape. That said, LinkedIn has many additional features that you can use to optimize your profile and grow your brand. You should only do these once the rest of our app
+If you follow the steps above, your profile will be in solid shape. That said, LinkedIn has many additional features that you can use to optimize your profile and grow your brand. You should only do these once you finish the rest of the lessons in this section and submit your assignment.
 
 >  📺 Watch this video on making your LinkedIn profile stand out (10:03)
  
