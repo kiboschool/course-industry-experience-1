@@ -31,6 +31,7 @@
 
 ### Applying
 - [Applying for Opportunities](lessons/applying/intro.md)
+    - [Open Opportunities](lessons/applying/opportunities.md)
     - [Assignment](lessons/applying/assignment.md)
 
 ### Preparing for Work
