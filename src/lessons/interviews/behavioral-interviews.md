@@ -1,4 +1,4 @@
-# Fit Interviews
+# Behavioral Interviews
 
 *Estimated Time: 30 minutes*
 
@@ -13,66 +13,77 @@
 
 
 
-## Build, Measure, Learn
-
-
-![image](https://user-images.githubusercontent.com/1774663/210020049-d4bf0208-eace-4fc1-aa35-2575522fa1f4.png)
-
-
-When we think of successful products like Google Search, Facebook or Spotify, it's easy to forget their modest beginnings. The first version of Facebook, then called "The facebook" launched in 2004 and was restricted to students at Harvard. Its only feature was a profile page and the ability to friend someone. Many of the features we now associate with social networking, from photo sharing to News Feed or status updates, only came many years after the original launch. 
-
-**Figuring out what should go in the first version of a product can be daunting.** 
-
-Around 2008, Eric Reis proposed the "lean startup methodology." This approach helps startups use rapid experiments to validate their assumptions about their customers and markets. One of its key principles is the "Build, measure, learn" cycle. 
+## What Is A Behavioral Interview
+A behavioral interview is a type of interview where the interviewer asks you questions about your past behavior. They are trying to assess your skills and abilities by asking you to provide specific examples of times when you have used those skills in the past.
 
 
 <aside> 
-  📺 Watch the video below for an introduction to build, measure, learn
+  📺 Watch the video below for an introduction to behavioral interviews and the STAR method
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FI3_1VTxohg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2EbgsRHLF9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-### How Build, Measure Learn works
+As the video notes and we've said repeatedly, pratice is key! The rest of this lesson walks you through tips for practing. In particular, we will be using the STAR method. The STAR method is a helpful way to structure your answers to behavioral interview questions. STAR stands for:
+- Situation: Describe the situation you were in.
+- Task: What was your role in the situation?
+- Action: What steps did you take to address the situation?
+- Result: What was the outcome of your actions?
 
--  **Build:** create a product or feature.  The idea is to get something tangible to test as quickly as possible, even if it is not fully polished or complete
--  **Measure:** After building, the next step is to measure how well the product performs by gathering data on how users interact with the product, and getting feedback from users or customers
--  **Learn:** Use the data and feedback to make changes. This can involve making improvements, abandoning ideas that aren't working, or pivoting to a different product. 
 
-The "build, measure, learn" cycle is repeated continuously to build a product that meets the needs of users as effectively as possible.
+## Acing the Behavioral Interview
+
+### Research the company 
+Like all interviews, the first step is to research the company. Take some time to research the company and the position you are interviewing for. This will help you to identify the skills and abilities that are important for the job.
+
+### Gather anecdotes
+Think about your past experiences, and create some anecdotes. While each job is unique, there are certain skills and traits that employers will look for. You will want to reflect on your past experiences, and find experiences that demonstrate these skills including: communication, teamwork, conflict management, decision making, and self-improvement. 
+
 
 <aside>
-🤔 Though it is popularly called "Build, Measure, Learn," a good way to think about this framework is actually "Learn, Build, Measure." Why?
+  Make a copy <a href="https://docs.google.com/document/d/11MCf32eQpzDGiOAxF_39BGctWAEPXQFElXKDWBgoEBI/copy" target="_blank">of this document.</a> Fill out the document with example situations for each scenario. This document is yours to keep, so feel free to include additional scenarios or questions.
+  </aside>
+
+
+
+### Practice answers
+Once you have a list of experiences, practice answering common interview questions. This will help you to feel more confident and prepared when you are asked these questions in your interview. You can find many lists of interview questions on the internet. Focus on the ones below. 
+
+Below are some common interview questions that you should have an answer to. You can practice answering each one to yourself.
+- Start a zoom call and record 
+- For each question, look into the camera and practice answering 
+
+Practice answering these 10 questions
+
+1. Tell me about a time when you experienced a conflict with a coworker or teammate. What strategies did you use to resolve the situation?
+2. Describe a time when you had to work under pressure to meet a deadline. How did you manage your time and prioritize?
+3. Give me an example of a project you worked on that required you to collaborate with others. What was your role in the project, and how did you contribute to its success?
+4.  Describe a time when you had to give constructive feedback to a coworker or team member. How did you approach the conversation, and what was the outcome?
+5. Tell me about a time when you had to overcome a challenge.
+6. Describe a time when you had to make a difficult decision.
+7. Give me an example of a time when you had to go above and beyond your job duties.
+8. Tell me about a time when you made a bad decision. What did you learn from the situation?
+9. Give me an example of a time when you had to learn something new.
+10. Tell me about a time when you had to improve your performance.
+
+The questions above point to common skills for professional success: communication, teamwork, conflict management, decision making, and self-improvements. Even if you have not had a job, you've likely demonstrated and evolved these skills through your classwork, volunteering, or other projects. 
+
+
+### During the interview
+<aside> 
+  📺 Watch the video below for tips on acing an entry level interview
 </aside>
 
-<details>
-<summary>The case for "Learn, Measure, Build"</summary>
-  User-centric design starts with learning about users, before building and testing prototypes. By starting with learning, you can ensure that you are building and measuring the right things. That's why the design thinking process begins with empathizing with the user and defining the problem. 
-  
-Moreover, the "learn, build, measure" sequence aligns more closely with the scientific method, which involves making observations, forming hypotheses, testing hypotheses, then analyzing results. This can help to make the process of product development more systematic and structured, and lead to more reliable and accurate results.  That being said, there is no one "right" way to think about the "build, measure, learn" cycle, and the sequence of steps can vary depending on the specific needs and goals of a business or product.
-</details>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0MprWWQILbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
+As explained in the video:
+- Be confident and show genuine interest in the role
+- Be specific. Use anecdotes and 
+- Communicate your relevant experiences _and_ transferable skills
 
-## The danger of big bang delivery
-What's wrong with buiding out an entire product, then launching the final version? This approach, sometimes called "big bang delivery" _might_ seem reasonable. 
-
-Using the big bang approach, all of the features of a software product are delivered to the user at once, rather than being released in stages. There are some _potential_ advantages to big bang delivery, including:
-
-1. Reduced development time: by delivering everything at once, there is less time spent on development
-
-2. Reduced costs: reduce costs by eliminating the need for multiple releases, which can involve additional development and testing
-
-3. Improved user experience: by delivering everything that the user needs all at once, there is less waiting and fewer interruptions to the user's workflow.
-
-🛑🛑🛑🛑🛑
-
-While the benefits above are theoretically nice,  they rarely materialize in real life. Lean methodology is hugely popular because most of the time, there are major drawbacks to big bang delivery, including:
-
-- Deployment risk: the larger the feature set beging delivered, the greater the chance of encountering bugs or other issues that negatively impact the user's experience <br />
-- Estimation/prediction risk: predicting how long it will take to build software is hard. It's also hard to figure out all the features/functionality users will need, which can lead to missed opportunities or an incomplete product <br />
-- Concentrated risk: if everything is delivered at once, there is no opportunity to course correct or pivot 
-
-As a result, big bang delivery is not generally a good approach for software development. Instead, modern teams use iterative development and phased rollouts. They focus on first delivering a "minimum viable product" or MVP, i.e., a  stripped-down version of a product that can be released to users to gather data and feedback as quickly as possible. It is not intended to be a fully-fledged product, but rather a means of testing and gathering data on the product's core value proposition.
-
-In the next lesson, we'll explore one of the trickiest parts of lean software development: crafting the ideal MVP. 
+### After
+- Follow up with your interviewer 
+- 
