@@ -22,12 +22,20 @@ As explained in the video:
 
 
 ## Before the Interview
+Three key steps to take before the interview are:
+1. Research the company and role
+2. Plan for logistics
+3. Master your emotions 
+
+Let's explore each in more detail. 
 
 ### Research
-Before an interview, research the company. To do so:
-- Visit the company's website and read their blog and social media pages.
-- Look for news articles about the company.
-- Use online resources like Glassdoor, Indeed, LinkedIn, and Vault.
+Before an interview, research the company and the role. To do so:
+
+- Read the job description thoroughly and note the skills and attributes required
+- Visit the company's website and read their blog and social media pages
+- Look for news articles about the company
+- Use online resources like Glassdoor, Indeed, and LinkedIn to read about the company
 
 Your aim is to understand, as much as possible, the company's milestones, priorities, mission and values
 
@@ -35,6 +43,8 @@ Your aim is to understand, as much as possible, the company's milestones, priori
 ### Plan the logistics
 
 Arrange all the details of the experience. If you are traveling to a physical location, plan how you will get there and leave ample time for diversions. For a Zoom meeting, decide where you will conduct the interview, which machine you will use, identify and practice with your headphones, determine what you will wear and which, if any, background you will use. Also make sure you have a backup source of internet data. 
+
+<a href="https://www.youtube.com/shorts/HZpM-tZZQSo" target="_blank">Watch this short video</a> for some tips on setting up a virtual interview.
 
 Planning the logistics, will make your interview process run more smoothly, freeing up more energy to focus on your career goals.
 
@@ -51,10 +61,49 @@ Anticipating a job interview can be stressful. The best way to alleviate this st
 
 
 ## During the Interview
+<aside>
+  
+  🗣 **"You never get a second chance to make a great first impression."** — Will Rogers
+
+</aside>
+
 
 ### Introduce yourself well
+The beginning of the interview is critical, and a well-crafted introduction can set a positive tone for the rest of the interview. At the beginning of your interview, you should:
+- Greet the interviewer 
+- Clearly say your name. This is especially important in the African context! Your interviewers may not be familiar with your name 
+  - Share your first name only. While it's common in some cultures to share first and last name, it's often easier to share just your first name.
+- Have a strong elevator pitch, and be able to answer the most common introduction questions such as:
+  - Tell me about yourself
+  - Why do you want to work at our company?
+
+<aside>
+  If there is a short version of your name or nickname that you prefer to use, share that with your interviewer. For example, I usually introduce myself as "Ope" instead of "Opeyemi" since the former is a bit easier to say. That said -- go with what youa re comfortable being called, and do not change your name to suit anyone. 
+  </aside>
+
+
 
 ### Speak confidently, calmly, and clearly 
+<img width="591" alt="image" src="https://user-images.githubusercontent.com/1774663/233859364-a9945dd0-5e55-4526-b309-57db71b4a5d4.png">
+<a href="https://twitter.com/markessien/status/1634084076624699393" target="_blank">Source</a>
+
+The quote above is by Mark Essien, a software engineer and founder of Hotels.ng, Nigeria's leading hotel booking website. The reality is that _how_ you say it matters as much as what you say. 
+
+<aside> 
+  📺 Watch the video below for tips on how to speak with confidence and authority 
+</aside>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0MprWWQILbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/vjdNewrG20E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
+
+The video is about general speaking, but also applies to speaking well in interviews.
+
+As the video says:
+- **Stop making your statements sound like a question!** Speak with conviction, and drop your tonality
+- **Drop the truth bomb!** Speak with convinction and believe in yourself and your message
+- **Use the power of the pause!** It's ok to take a break which lets you think about what you'll say next, and allows the audience to think about what you just said 
 
 
 ### Listen
