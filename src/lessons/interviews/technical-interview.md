@@ -13,17 +13,14 @@
 
 
 
-## Build, Measure, Learn
+## What You Will Do
 
 
-![image](https://user-images.githubusercontent.com/1774663/210020049-d4bf0208-eace-4fc1-aa35-2575522fa1f4.png)
+After completing this lesson, you will be able to:
 
-
-When we think of successful products like Google Search, Facebook or Spotify, it's easy to forget their modest beginnings. The first version of Facebook, then called "The facebook" launched in 2004 and was restricted to students at Harvard. Its only feature was a profile page and the ability to friend someone. Many of the features we now associate with social networking, from photo sharing to News Feed or status updates, only came many years after the original launch. 
-
-**Figuring out what should go in the first version of a product can be daunting.** 
-
-Around 2008, Eric Reis proposed the "lean startup methodology." This approach helps startups use rapid experiments to validate their assumptions about their customers and markets. One of its key principles is the "Build, measure, learn" cycle. 
+- Conduct a coding interview and write code real-time in an editor
+- Communicate your problem-solving approach effectively in a live interview 
+- Prepare and deliver strong self introductions
 
 
 <aside> 
