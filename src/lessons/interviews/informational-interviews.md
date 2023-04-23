@@ -4,14 +4,6 @@
 
 ---
 
-<aside>
-  
-  🗣 **"If you are not embarrassed by the first version of your product, you've launched too late."** — Reid Hoffman, CEO of LinkedIn
-
-</aside>
-
-
-
 An informational interview is a conversation with someone who is working in an industry or company that interests you. It is a chance to learn more about the industry, the company, and the person's career path. Informational interviews are **not** job interviews, so there is no pressure to sell yourself or to get a job offer. That said, informational interviews can be a powerful interaction for building your network and finding opportunities. 
 
 <aside> 
