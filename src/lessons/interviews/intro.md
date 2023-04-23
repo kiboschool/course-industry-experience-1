@@ -1,12 +1,11 @@
 
-# Goal Setting
+# Interviewing
 *Estimated Time: 4 hours*
 
 ---
 
-## Behaviorial Interviews
 <aside>
-  Instructor Ope Bukola introduces behaviorial interviews
+  Instructor Ope Bukola introduces practice interviews
 </aside>
 
 TODO: Video
