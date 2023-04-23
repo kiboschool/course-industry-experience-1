@@ -28,23 +28,31 @@ As the video explains, informational interviews can be helpful to build and stre
 ## (1) Identify and reach out to professionals
 
 ### Ask people you know
-Reach out to people you know. One of the best ways to find someone to interview is to reach out to people you already know. This could include friends, family, former classmates, or former colleagues. If you don't know anyone who works in the field you're interested in, you can also try reaching out to people you admire on social media.
+Reach out to friends, family, former classmates, or former colleagues. 
 
 ### Ask for introductions
 Ask your mentors or professors for introductions to people in their network. When asking for introductions, remember that professionals are busy and most people will not get back to you -- that's ok! 
 
 ### Do cold outreach
-Ask your mentors or professors for introductions to people in their network. When asking for introductions, remember that professionals are busy and most people will not get back to you -- that's ok! 
+Use online resources (e.g., LinkedIn, Twitter) to find people to interview. 
 
-Use online resources. There are a number of online resources that can help you find people to interview. Some of these resources include:
+<aside> 
+  📺 Watch the video below on how to ask for an informational interview
+</aside>
 
-LinkedIn
-Indeed
-Glassdoor
-AngelList
-Quora
-Twitter
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/h408ivG4mDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
+The video suggests including possible times. Instead of specific times, I recommend you include a link to a booking website (try free version of <a href="https://calendly.com/" target="_blank">Calendly</a>) or leave out times entirely and ask when they are free. So, For example:
+
+<aside> 
+  Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you.<br />
+</aside>
+  
+  <aside> 
+  Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you. If it's easier for you, here is my availability. 
+  </aside>
 
 
 ## (2) Prepare the questions you're going to ask 
