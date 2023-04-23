@@ -21,8 +21,8 @@
 ### Interviews
 - [Interviews](lessons/interviews/intro.md)
     - [Behavioral Interviews](lessons/interviews/behavioral-interviews.md) 
-    - [Technical Interviews](lessons/technical-interviews/intro.md)
-    - [Informational Interviews](#)
+    - [Technical Interviews](lessons/interviews/technical-interviews.md)
+    - [Informational Interviews](lessons/interviews/informational-interviews.md)
     - [Assignment](lessons/interviews/assignment.md)
 
 ### Applying
