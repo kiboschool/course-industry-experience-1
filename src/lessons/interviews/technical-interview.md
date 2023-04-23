@@ -1,75 +1,40 @@
-# Technical Interviews 
+# Technical Interviews
 
 *Estimated Time: 30 minutes*
 
 ---
 
-<aside>
-  
-  🗣 **"If you are not embarrassed by the first version of your product, you've launched too late."** — Reid Hoffman, CEO of LinkedIn
+A technical interview for software engineering is a type of interview where the interviewer asks you questions about your technical skills and knowledge. The interviewer is trying to assess your ability to do the job and your potential for growth.
 
-</aside>
-
-
-
-
-## What You Will Do
-
-
-After completing this lesson, you will be able to:
-
-- Conduct a coding interview and write code real-time in an editor
-- Communicate your problem-solving approach effectively in a live interview 
-- Prepare and deliver strong self introductions
+The interviewer may ask you to write code, solve problems, or design systems. They may also ask you questions about your experience and knowledge. The interviewer may ask you to write code on a whiteboard or computer, discuss your portfolio or previous projects, or completing a coding challenge.
 
 
 <aside> 
-  📺 Watch the video below for an introduction to build, measure, learn
+  📺 Watch the video below for an introduction to technical interviews
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FI3_1VTxohg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2EbgsRHLF9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-### How Build, Measure Learn works
+As the video notes and we've said repeatedly, pratice is key! The rest of this lesson walks you through tips for practing. In particular, we will be using the STAR method. The STAR method is a helpful way to structure your answers to behavioral interview questions. STAR stands for:
+- Situation: Describe the situation you were in.
+- Task: What was your role in the situation?
+- Action: What steps did you take to address the situation?
+- Result: What was the outcome of your actions?
 
--  **Build:** create a product or feature.  The idea is to get something tangible to test as quickly as possible, even if it is not fully polished or complete
--  **Measure:** After building, the next step is to measure how well the product performs by gathering data on how users interact with the product, and getting feedback from users or customers
--  **Learn:** Use the data and feedback to make changes. This can involve making improvements, abandoning ideas that aren't working, or pivoting to a different product. 
 
-The "build, measure, learn" cycle is repeated continuously to build a product that meets the needs of users as effectively as possible.
+## Acing the Coding Interview
+
+### Research the company 
+Like all interviews, the first step is to research the company. Take some time to research the company and the position you are interviewing for. This will help you to identify the skills and abilities that are important for the job.
 
 <aside>
-🤔 Though it is popularly called "Build, Measure, Learn," a good way to think about this framework is actually "Learn, Build, Measure." Why?
-</aside>
-
-<details>
-<summary>The case for "Learn, Measure, Build"</summary>
-  User-centric design starts with learning about users, before building and testing prototypes. By starting with learning, you can ensure that you are building and measuring the right things. That's why the design thinking process begins with empathizing with the user and defining the problem. 
+   Some companies have engineering blogs where they discuss their technical stack, e.g., <a href="https://paystack.com/engineering" target="_blank">Paystak</a> or <a href="https://engineering.atspotify.com/" target="_blank">Spotify.</a> You may want to search for "Company Name" + "Engineering blog" to see if you can learn more about the company's technology team before your interview.
+  </aside>
   
-Moreover, the "learn, build, measure" sequence aligns more closely with the scientific method, which involves making observations, forming hypotheses, testing hypotheses, then analyzing results. This can help to make the process of product development more systematic and structured, and lead to more reliable and accurate results.  That being said, there is no one "right" way to think about the "build, measure, learn" cycle, and the sequence of steps can vary depending on the specific needs and goals of a business or product.
-</details>
+### Practice 
+The best way to prepare for technical interviews is to practice! You will be practing in your Data Structures & Algorithms class, as well as through the code practice channel in Discord. 
 
-
-## The danger of big bang delivery
-What's wrong with buiding out an entire product, then launching the final version? This approach, sometimes called "big bang delivery" _might_ seem reasonable. 
-
-Using the big bang approach, all of the features of a software product are delivered to the user at once, rather than being released in stages. There are some _potential_ advantages to big bang delivery, including:
-
-1. Reduced development time: by delivering everything at once, there is less time spent on development
-
-2. Reduced costs: reduce costs by eliminating the need for multiple releases, which can involve additional development and testing
-
-3. Improved user experience: by delivering everything that the user needs all at once, there is less waiting and fewer interruptions to the user's workflow.
-
-🛑🛑🛑🛑🛑
-
-While the benefits above are theoretically nice,  they rarely materialize in real life. Lean methodology is hugely popular because most of the time, there are major drawbacks to big bang delivery, including:
-
-- Deployment risk: the larger the feature set beging delivered, the greater the chance of encountering bugs or other issues that negatively impact the user's experience <br />
-- Estimation/prediction risk: predicting how long it will take to build software is hard. It's also hard to figure out all the features/functionality users will need, which can lead to missed opportunities or an incomplete product <br />
-- Concentrated risk: if everything is delivered at once, there is no opportunity to course correct or pivot 
-
-As a result, big bang delivery is not generally a good approach for software development. Instead, modern teams use iterative development and phased rollouts. They focus on first delivering a "minimum viable product" or MVP, i.e., a  stripped-down version of a product that can be released to users to gather data and feedback as quickly as possible. It is not intended to be a fully-fledged product, but rather a means of testing and gathering data on the product's core value proposition.
-
-In the next lesson, we'll explore one of the trickiest parts of lean software development: crafting the ideal MVP. 
+## Portfolio and personal experience
+As part of your technical interview, you may be asked questions about your past experience and projects you've built. This is where having a strong portfolio comes in handly. Providing your interviewer with a first-hand look at the programs you’ve created (or are currently working on) gives them insight into your skills, passions, and creative visions. Before a technical interview, ensure that your portfolio is handy, and you have prepared a brief (few minute) intro to one or more projects. 
