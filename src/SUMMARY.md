@@ -20,6 +20,7 @@
 
 ### Interviews
 - [Interviews](lessons/interviews/intro.md)
+    - [Basics](lessons/interviews/interviewing-basics.md) 
     - [Behavioral Interviews](lessons/interviews/behavioral-interviews.md) 
     - [Technical Interviews](lessons/interviews/technical-interviews.md)
     - [Informational Interviews](lessons/interviews/informational-interviews.md)
