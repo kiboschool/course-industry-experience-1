@@ -36,14 +36,14 @@ Use online resources (e.g., LinkedIn, Twitter) to find people to interview.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/h408ivG4mDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-The video suggests including possible times. Instead of specific times, I recommend you include a link to a booking website (try free version of <a href="https://calendly.com/" target="_blank">Calendly</a>) or leave out times entirely and ask when they are free. So, For example:
+The video suggests including possible times. Instead of specific times, I recommend you include a link to a booking website (try free version of <a href="https://calendly.com/" target="_blank">Calendly</a>) or leave out times entirely and ask when they are free. For example:
 
 <aside> 
-  Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you.<br />
+  _Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you._
 </aside>
   
   <aside> 
-  Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you. If it's easier for you, here is my availability. 
+  _Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you. If it's easier for you, <a href="http://www.example.com/" target="_blank">here</a> is my availability. _
   </aside>
 
 
