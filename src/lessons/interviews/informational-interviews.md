@@ -33,7 +33,7 @@ Use online resources (e.g., LinkedIn, Twitter) to find people to interview.
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/h408ivG4mDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/h408ivG4mDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
 The video suggests including possible times. Instead of specific times, I recommend you include a link to a booking website (try free version of <a href="https://calendly.com/" target="_blank">Calendly</a>) or leave out times entirely and ask when they are free. So, For example:
