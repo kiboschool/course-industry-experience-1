@@ -4,16 +4,6 @@
 
 ---
 
-<aside>
-  
-  🗣 **"If you are not embarrassed by the first version of your product, you've launched too late."** — Reid Hoffman, CEO of LinkedIn
-
-</aside>
-
-
-
-
-## What Is A Behavioral Interview
 A behavioral interview is a type of interview where the interviewer asks you questions about your past behavior. They are trying to assess your skills and abilities by asking you to provide specific examples of times when you have used those skills in the past.
 
 
@@ -67,23 +57,4 @@ Practice answering these 10 questions
 9. Give me an example of a time when you had to learn something new.
 10. Tell me about a time when you had to improve your performance.
 
-The questions above point to common skills for professional success: communication, teamwork, conflict management, decision making, and self-improvements. Even if you have not had a job, you've likely demonstrated and evolved these skills through your classwork, volunteering, or other projects. 
-
-
-### During the interview
-<aside> 
-  📺 Watch the video below for tips on acing an entry level interview
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/0MprWWQILbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-</div>
-
-As explained in the video:
-- Be confident and show genuine interest in the role
-- Be specific. Use anecdotes and 
-- Communicate your relevant experiences _and_ transferable skills
-
-### After
-- Follow up with your interviewer 
-- 
+The questions above point to common skills for professional success: communication, teamwork, conflict management, decision making, and self-improvements.
