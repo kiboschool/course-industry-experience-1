@@ -20,10 +20,9 @@
 
 ### Interviews
 - [Interviews](lessons/interviews/intro.md)
-    - [Informational Interviews](lessons/behavioral-interviews/informational-interviews.md) 
-    - [Fit Interviews](lessons/behavioral-interviews/fit-interviews.md) 
-    - [Portfolio Reviews](lessons/behavioral-interviews/portfolio-review.md) 
+    - [Behavioral Interviews](lessons/interviews/behavioral-interviews.md) 
     - [Technical Interviews](lessons/technical-interviews/intro.md)
+    - [Informational Interviews](#)
     - [Assignment](lessons/interviews/assignment.md)
 
 ### Applying
