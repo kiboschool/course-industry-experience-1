@@ -85,9 +85,9 @@ The beginning of the interview is critical, and a well-crafted introduction can 
 
 ### Speak confidently, calmly, and clearly 
 <img width="591" alt="image" src="https://user-images.githubusercontent.com/1774663/233859364-a9945dd0-5e55-4526-b309-57db71b4a5d4.png">
-<a href="https://twitter.com/markessien/status/1634084076624699393" target="_blank">Source</a>
 
-The quote above is by Mark Essien, a software engineer and founder of Hotels.ng, Nigeria's leading hotel booking website. The reality is that _how_ you say it matters as much as what you say. 
+
+The <a href="https://twitter.com/markessien/status/1634084076624699393" target="_blank">tweet</a> above is by Mark Essien, a software engineer and founder of Hotels.ng, Nigeria's leading hotel booking website. The reality is that _how_ you say it matters as much as what you say. 
 
 <aside> 
   📺 Watch the video below for tips on how to speak with confidence and authority 
@@ -126,7 +126,7 @@ Thank you for taking the time to interview me for the Software Engineering inter
   
 My extensive experience building software in teams make me a great fit for Kibo. I look forward to continuing the conversation, and showing you what I can offer. Please let me know if there is anything else I can send to enhance my application. Otherwise, I am looking forward to hearing from you in the coming week.
 
-All my best,
+Regards,<br />
 Seun
 
   </aside>
