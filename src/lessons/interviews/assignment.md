@@ -94,9 +94,15 @@ The table below includes the due dates for each. You may submit earlier if you f
 For each interview:
 
 #### (1) Submit your assignment in Gradescope
+For technical and behavioral interviews:
 - Upload a copy of your reviewer evaluation
 - Upload a copy of your self evaluation
 
+For informational interviews:
+- Write a one page summary of the interview. It should include who you interviewed (with links to their LinkedIn profile), when, the questions you asked, and what you learned. Draft the summary in a Google Doc and ensure anyone at Kibo can view it 
+
 
 #### (2) Submit in Woolf
-- Upload PDF versions of your reviewer evaluation and self evaluation in the Woolf Platform
+- For technical and behavioral interviews, upload PDF versions of your reviewer evaluation and self evaluation in the Woolf Platform
+- For the informational interview, upload a PDF version of your interview summary in the Woolf Platform
+
