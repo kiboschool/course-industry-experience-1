@@ -1,9 +1,7 @@
 
 # Assignment - Mock Interviews
 -----
-For this assignment, you will conduct several mock (or practice) interviews with peers and professionals. 
-
-Mock interviews help you practice, receive feedback and improve your skills. With adequate practice, you will: 
+For this assignment, you will conduct several mock (or practice) interviews. Mock interviews help you practice, receive feedback and improve your skills. With adequate practice, you will: 
 
 - Better understand yourself, and your strengths and weaknesses
 - Develop greater comfort and confidence speaking with unfamiliar people
@@ -17,7 +15,7 @@ Mock interviews will be conducted by your peers, Kibo staff, and professional vo
 
 ## Conducting Mock Interviews
 
-### Part 1: Find interviewers
+### Step 1: Find interviewers
 
 #### Professional mock interviews
 Sign up for a mock interview with a professional here: <a href="https://lu.ma/kibo-mockinterviews" target="_blank">Professional Mock Interview Signup</a>
@@ -47,7 +45,7 @@ For this interview, you will reach out to professionals via LinkedIn or your net
 
 
 
-### Part 2: Prepare 
+### Step 2: Prepare 
 Review the lesson pages to prepare. The interview confirmation will include the name of the company you are interviewing for. _Because this is a mock interview, you should not do a lot of company research, but do ensure you know what they company builds._ 
 
 **Expectations**
@@ -66,7 +64,7 @@ Review the lesson pages to prepare. The interview confirmation will include the 
   ❗ Remember that you are representing Kibo in your mock interviews (as you will be on the job market). Be timely, courteous and professional.
   </aside>
 
-### Part 3: Interview and Reflect
+### Step 3: Interview and Reflect
 - After the interview, complete the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>. 
 - Reflect on your performance, and practice improvements you want to make for next time
 
