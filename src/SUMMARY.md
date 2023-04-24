@@ -18,6 +18,7 @@
     - [Portfolio](lessons/application-materials/portfolio.md)
     - [Assignment](lessons/application-materials/assignment.md)
 
+<!---
 ### Interviewing
 - [Interviewing](lessons/interviews/intro.md)
     - [Basics](lessons/interviews/interviewing-basics.md) 
