@@ -85,7 +85,7 @@ The table below includes the due dates for each. You may submit earlier if you f
 | Technical Interview #3                            | Mon May 29
 | Informational Interview                           | Mon May 29
 
-
+The deadline for booking the first phase of the mock interviews (at least 1 technical interview and 1 behavioral interview) is **Friday 28th April**. The second link for sign ups will be shared by **May 15th** on the course channel on Discord.
 
 ## Submission
 
