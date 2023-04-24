@@ -4,7 +4,7 @@
 
 ---
 
-An informational interview is a conversation with someone who is working in an industry or company that interests you. It is a chance to learn more about the industry, the company, and the person's career path. Informational interviews are **not** job interviews, so there is no pressure to sell yourself or to get a job offer. That said, informational interviews can be a powerful interaction for building your network and finding opportunities. 
+An informational interview is a conversation with someone who is working in an industry or company that interests you. It is a chance to learn more about the industry, the company, and the person's career path. Informational interviews are **not** job interviews, so there is no pressure to sell yourself or to get a job offer. That said, informational interviews can be a powerful interaction for building your network and finding opportunities.
 
 <aside> 
   📺 Watch the video below for an introduction to informational interview
@@ -15,7 +15,6 @@ An informational interview is a conversation with someone who is working in an i
 </div>
 
 As the video explains, informational interviews can be helpful to build and strengthen your professional network, and get valuable information. The video describes 5 steps to conducing informational interviews: 
-
 
 ## (1) Identify and reach out to professionals
 
@@ -41,11 +40,10 @@ The video suggests including possible times. Instead of specific times, I recomm
 <aside> 
   _Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you._
 </aside>
-  
-  <aside> 
-  _Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you. If it's easier for you, <a href="http://www.example.com/" target="_blank">here</a> is my availability. _
-  </aside>
 
+<aside> 
+  _Would you be open to a 30-minute conversation in the next few weeks? If so, please suggest a few times that work for you. If it's easier for you, <a href="http://www.example.com/" target="_blank">here</a> is my availability._
+</aside>
 
 ## (2) Prepare the questions you're going to ask 
 Like all interviews, the first step is research! 
@@ -56,8 +54,6 @@ Like all interviews, the first step is research!
   - What has been a favorite project you work on?
   - What's something you wish you could change about your role or job?
 
-
-
 ## (3) Conduct the interview
 - Show up early
 - Thank the professional, _briefly_ re-introduce yourself, and what you hope to gain from the interview
@@ -66,15 +62,13 @@ Like all interviews, the first step is research!
 - Wrap up, and express gratitude 
 
 <aside>
-  ⏰ Time is valuable! Professionals are busy, and doing you a favor. So, show up early, and do not go over time allotted for the interview.
-  </aside>
-
+⏰ Time is valuable! Professionals are busy, and doing you a favor. So, show up early, and do not go over time allotted for the interview.
+</aside>
 
 ## (4) Follow up 
 - Send a follow up email to thank the interviewee
 - Connect with the interviewee on a professional social platform (e.g. LinkedIn)
 
-
 ## (5) Reflect on the conversation
-Reflect on the conversation and how they relate to your career goals.
+Reflect on the conversation and how it relates to your career goals.
 

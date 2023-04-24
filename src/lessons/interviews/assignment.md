@@ -1,6 +1,5 @@
-
 # Assignment - Mock Interviews
------
+
 For this assignment, you will conduct several mock (or practice) interviews. Mock interviews help you practice, receive feedback and improve your skills. With adequate practice, you will: 
 
 - Better understand yourself, and your strengths and weaknesses
@@ -11,7 +10,6 @@ Mock interviews will be conducted by your peers, Kibo staff, and professional vo
 - At least 1 technical interview and 1 behavioral interview must be conducted with a classmate
 - At least 1 technical interview and 1 behavioral interview must be conducted with a professional
 - The informational interview must be conducted with a professional
-
 
 ## Conducting Mock Interviews
 
@@ -25,7 +23,7 @@ Sign up for a mock interview with a professional here: <a href="https://lu.ma/ki
 - After the inteview, you should submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
 
 <aside> 
-  ❗❗ To enable your classmates to have practice slots, you should sign up for no more than 2 interviews (1 technical, 1 behavioral) at a time. Once you have finished an interview, you may schedule another one. 
+❗❗ To enable your classmates to have practice slots, you should sign up for no more than 2 interviews (1 technical, 1 behavioral) at a time. Once you have finished an interview, you may schedule another one. 
 </aside>
 
 
@@ -36,17 +34,14 @@ Use the class Discord channel to find a classmate to conduct the interview with.
 - After the interview, your peer interviewer should submit the <a href="https://forms.gle/WLLEVSoir9dhRHhR9" target="_blank">interviewer evaluation</a>
 - After the interview, you should submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
 
-
 #### Informational interviews
 For this interview, you will reach out to professionals via LinkedIn or your network to request an informational interview. You should:
 
 - Begin outreach as soon as possible as it may take a few weeks to secure an interview 
-- Consider asking your mentor and instructor for introductions to people in their network
-
-
+- Consider asking your mentor and instructor for introductions to specific people in their network
 
 ### Step 2: Prepare 
-Review the lesson pages to prepare. The interview confirmation will include the name of the company you are interviewing for. _Because this is an informational interview, you should not do a lot of company research, but do ensure you know what they company builds._ 
+Review the lesson pages to prepare. The interview confirmation will include the name of the company you are interviewing for. _Because this is an informational interview, you should not do a lot of company research, but do ensure you know what the company builds._ 
 
 **Expectations**
 
@@ -61,13 +56,12 @@ Review the lesson pages to prepare. The interview confirmation will include the 
   - Mock interviews will be conducted by technical professionals who are volunteering to help you build your interview skills. They may also be conducted by Kibo staff members.
 
 <aside>
-  ❗ Remember that you are representing Kibo in your mock interviews (as you will be on the job market). Be timely, courteous and professional.
-  </aside>
+❗ Remember that you are representing Kibo in your mock interviews (as you will be on the job market). Be timely, courteous and professional.
+</aside>
 
 ### Step 3: Interview and Reflect
 - After the interview, complete the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>. 
 - Reflect on your performance and practice improvements you want to make for next time.
-
 
 
 ## Due Dates
@@ -75,7 +69,7 @@ You must conduct 3 practice technical interviews, 3 practice behavioral intervie
 
 The table below includes the due dates for each. You may submit earlier if you finish the interview before the due date. 
 
-| Type                                      | Due Date (by 11pm GMT)    
+| Type                                      | Due Date (by 11pm GMT)
 | :---                                              |  :----: 
 | Technical Interview #1                            | Mon May 8
 | Behavioral Interview #1                           | Mon May 8
