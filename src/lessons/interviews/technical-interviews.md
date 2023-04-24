@@ -25,7 +25,7 @@ Some helpful advice from the video:
 - Follow a well-structured plan, and aim to solve 2-3 coding interview questions per day 
 
 <aside>
-  The video above is focused on full-time roles, so some of the advice (e.g., start 3 months ahead) may not apply to you now. But it is generally good practice
+  The video above is focused on full-time roles so some of the advice (e.g., start 3 months ahead) may not apply to you now but it is generally good practice.
   </aside>
 
 
