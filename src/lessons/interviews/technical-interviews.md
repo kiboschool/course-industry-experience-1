@@ -10,18 +10,23 @@ The interviewer may ask you to write code, solve problems, or design systems. Th
 
 
 <aside> 
-  📺 Watch the video below for an introduction to technical interviews
+  📺 Watch the video below for one engineer's perspective on preparing for coding interviews
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/2EbgsRHLF9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/htT1bhFSNxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-As the video notes and we've said repeatedly, pratice is key! The rest of this lesson walks you through tips for practing. In particular, we will be using the STAR method. The STAR method is a helpful way to structure your answers to behavioral interview questions. STAR stands for:
-- Situation: Describe the situation you were in.
-- Task: What was your role in the situation?
-- Action: What steps did you take to address the situation?
-- Result: What was the outcome of your actions?
+Some helpful advice from the video:
+- Practice in a simple language like Python. Try to understand the standards library and syntax well
+- Learn the fundamentals of Data Structures & Algorithms 
+- Start with easy problems
+- Don't spend too much time on one problem. If you can't solve a problem within 30 minutes, look at the solution, try to understand it then try to implement it yourself 
+- Follow a well-structured plan, and aim to solve 2-3 coding interview questions per day 
+
+<aside>
+  The video above is focused on full-time roles, so some of the advice (e.g., start 3 months ahead) may not apply to you now. But it is generally good practice
+  </aside>
 
 
 ## Acing the Coding Interview
