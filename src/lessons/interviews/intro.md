@@ -8,7 +8,7 @@
   Instructor Ope Bukola introduces practice interviews
 </aside>
 
-TODO: Video
+TO DO: Video
 
 ## **Learning Outcomes**
 
