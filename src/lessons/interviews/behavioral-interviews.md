@@ -44,7 +44,7 @@ Below are some common interview questions that you should have an answer to. You
 - Start a zoom call and record 
 - For each question, look into the camera and practice answering 
 
-Practice answering these 10 questions
+Practice answering these 10 questions:
 
 1. Tell me about a time when you experienced a conflict with a coworker or teammate. What strategies did you use to resolve the situation?
 2. Describe a time when you had to work under pressure to meet a deadline. How did you manage your time and prioritize?
