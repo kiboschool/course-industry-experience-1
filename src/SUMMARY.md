@@ -26,6 +26,7 @@
     - [Informational Interviews](lessons/interviews/informational-interviews.md)
     - [Assignment](lessons/interviews/assignment.md)
 
+
 ### Applying
 - [Applying for Opportunities](lessons/applying/intro.md)
     - [Open Opportunities](lessons/applying/opportunities.md)
@@ -48,4 +49,4 @@
 - [Final Report](lessons/final-report.md)
 
 -->
-...
+
