@@ -8,8 +8,8 @@ For this assignment, you will conduct several mock (or practice) interviews. Moc
 
 Mock interviews will be conducted by your peers, Kibo staff, and professional volunteers. Please note:
 
-- At least 1 technical interview and 1 peer interview must be conducted with a classmate
-- At least 1 technical interview and 1 peer interview must be conducted with a professional
+- At least 1 technical interview and 1 behavioral interview must be conducted with a classmate
+- At least 1 technical interview and 1 behavioral interview must be conducted with a professional
 - The informational interview must be conducted with a professional
 
 
@@ -25,7 +25,7 @@ Sign up for a mock interview with a professional here: <a href="https://lu.ma/ki
 - After the inteview, you should submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
 
 <aside> 
-  ❗❗ To enable your classmates to have practice slots, you should sign up for no more than 2 interviews at a time. Once you have finished an interview, you may schedule another one. 
+  ❗❗ To enable your classmates to have practice slots, you should sign up for no more than 2 interviews (1 technical, 1 behavioral) at a time. Once you have finished an interview, you may schedule another one. 
 </aside>
 
 
