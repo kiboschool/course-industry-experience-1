@@ -14,7 +14,7 @@ An informational interview is a conversation with someone who is working in an i
   <iframe width="560" height="315" src="https://www.youtube.com/embed/wm5nhB0lYL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-As the video explains, informational interviews can be helpful to build and strengthen your professional network, and get valuable information. The video describes 5 steps to conducing informational interviews. 
+As the video explains, informational interviews can be helpful to build and strengthen your professional network, and get valuable information. The video describes 5 steps to conducing informational interviews: 
 
 
 ## (1) Identify and reach out to professionals
@@ -72,9 +72,9 @@ Like all interviews, the first step is research!
 
 ## (4) Follow up 
 - Send a follow up email to thank the interviewee
-- Connect with the interviewee on a professional social platform (e.g., LinkedIn)
+- Connect with the interviewee on a professional social platform (e.g. LinkedIn)
 
 
 ## (5) Reflect on the conversation
-Reflect on the conversation and how they relate to your career goals
+Reflect on the conversation and how they relate to your career goals.
 
