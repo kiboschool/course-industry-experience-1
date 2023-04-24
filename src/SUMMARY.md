@@ -11,27 +11,25 @@
     - [Your Destination](lessons/goal-setting/destination.md)
     - [Assignment](lessons/goal-setting/assignment.md)
 
-### Applying
+### Application Materials
 - [Preparing to Apply](lessons/application-materials/intro.md)
     - [Resume](lessons/application-materials/resume.md)
     - [LinkedIn Profile](lessons/application-materials/webprofiles.md)
     - [Portfolio](lessons/application-materials/portfolio.md)
     - [Assignment](lessons/application-materials/assignment.md)
 
-<!---
-### Behavioral Interviews
-- [Behavioral Interviews](lessons/behavioral-interviews/intro.md)
-    - [Informational Interviews](lessons/behavioral-interviews/informational-interviews.md) 
-    - [Fit Interviews](lessons/behavioral-interviews/fit-interviews.md) 
-    - [Portfolio Reviews](lessons/behavioral-interviews/portfolio-review.md) 
-    - [Assignment](lessons/behavioral-interviews/assignment.md)
+### Interviewing
+- [Interviewing](lessons/interviews/intro.md)
+    - [Basics](lessons/interviews/interviewing-basics.md) 
+    - [Behavioral Interviews](lessons/interviews/behavioral-interviews.md) 
+    - [Technical Interviews](lessons/interviews/technical-interviews.md)
+    - [Informational Interviews](lessons/interviews/informational-interviews.md)
+    - [Assignment](lessons/interviews/assignment.md)
 
-### Technical Interviews
-- [Technical Interviews](lessons/technical-interviews/intro.md)
-    - [Assignment](lessons/technical-interviews/assignment.md)
 
 ### Applying
 - [Applying for Opportunities](lessons/applying/intro.md)
+    - [Open Opportunities](lessons/applying/opportunities.md)
     - [Assignment](lessons/applying/assignment.md)
 
 ### Preparing for Work

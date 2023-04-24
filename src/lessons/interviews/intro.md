@@ -17,7 +17,7 @@ After completing this lesson, you will be able to:
 - Make plans for before, during, and after an interview
 - Use the STAR method to respond effectively to behavioral interview questions
 - Prepare and deliver strong answers to common interview questions
-- Conduct informational interviews, and effectively ask questions of professionalsa
+- Conduct informational interviews, and effectively ask questions of professionals
 - Reflect on and continously improve your interview performance
 
 
