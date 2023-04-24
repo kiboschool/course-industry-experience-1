@@ -1,48 +1,51 @@
 
-# Assignment - Behavioral Interviews
+# Assignment - Mock Interviews
 -----
-For this assignment, you will prepare for and conduct several mock (or practice) interviews with peers and professionals. 
+For this assignment, you will conduct several mock (or practice) interviews. Mock interviews help you practice, receive feedback and improve your skills. With adequate practice, you will: 
 
-Practice interviews help you practice, receive feedback and improve your skills. When you conduct a practice interview, you’re putting yourself in a situation that mirrors the feeling of an actual job interview. With adequate practice, you will: 
-- Better understand yourself and your strengths and weaknesses
+- Better understand yourself, and your strengths and weaknesses
 - Develop greater comfort and confidence speaking with unfamiliar people
 
-Mock interviews will be conducted by your peers, Kibo staff, and external professionals who are volunteering to help you build your interview skills. Please note:
+Mock interviews will be conducted by your peers, Kibo staff, and professional volunteers. Please note:
 
 - At least 1 technical interview and 1 peer interview must be conducted with a classmate
 - At least 1 technical interview and 1 peer interview must be conducted with a professional
 - The informational interview must be conducted with a professional
 
 
-## Conduct Mock Interviews
+## Conducting Mock Interviews
 
-### Part 1: Sign Up
+### Step 1: Find interviewers
 
 #### Professional mock interviews
 Sign up for a mock interview with a professional here: <a href="https://lu.ma/kibo-mockinterviews" target="_blank">Professional Mock Interview Signup</a>
-- Interview blocks will last one hour. You will practice for 30-minutes, then engage in discussion and evaluation
-- After the interview, your interview will submit an evaluation. You should also fill out and submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
 
-
-#### Peer interviews
-Use the class Discord channel to find a classmate to conduct the interview with. 
-- Set aside one hour (30-minutes to interview, 30-minutes to debrief) to conduct the interview
-- When you finish the interview, the interviewer should fill out and submit the <a href="https://forms.gle/WLLEVSoir9dhRHhR9" target="_blank">interviewer evaluation</a>
-- When you finish the interview, the interviewee should fill out and submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
-
-
-#### Informational interviews
-For this interview, you will reach out to professionals via LinkedIn or your network to request an informational interview. You should:
-- Begin outreach as soon as possible as it may take a few weeks to secure an interview 
-- Consider asking your mentor and instructor for introductions to people in their network
+- Interview blocks are one hour, and include a 30-minute practice as well as feedback and discussion
+- After the interview, your interviewer will submit an evaluation
+- After the inteview, you should submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
 
 <aside> 
   ❗❗ To enable your classmates to have practice slots, you should sign up for no more than 2 interviews at a time. Once you have finished an interview, you may schedule another one. 
 </aside>
 
 
+#### Peer interviews
+Use the class Discord channel to find a classmate to conduct the interview with. 
 
-### Part 2: Prepare 
+- Set aside one hour (30-minutes to interview, 30-minutes to debrief) to conduct the interview
+- After the interview, your peer interviewer should submit the <a href="https://forms.gle/WLLEVSoir9dhRHhR9" target="_blank">interviewer evaluation</a>
+- WAfter the interview, you should submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
+
+
+#### Informational interviews
+For this interview, you will reach out to professionals via LinkedIn or your network to request an informational interview. You should:
+
+- Begin outreach as soon as possible as it may take a few weeks to secure an interview 
+- Consider asking your mentor and instructor for introductions to people in their network
+
+
+
+### Step 2: Prepare 
 Review the lesson pages to prepare. The interview confirmation will include the name of the company you are interviewing for. _Because this is a mock interview, you should not do a lot of company research, but do ensure you know what they company builds._ 
 
 **Expectations**
@@ -58,12 +61,12 @@ Review the lesson pages to prepare. The interview confirmation will include the 
   - Mock interviews will be conducted by technical professionals who are volunteering to help you build your interview skills. They may also be conducted by Kibo staff members
 
 <aside>
-  ❗ Remember that you are representing Kibo in your mock interviews (as you will be on the job market). Please be timely, courteous and professional.
+  ❗ Remember that you are representing Kibo in your mock interviews (as you will be on the job market). Be timely, courteous and professional.
   </aside>
 
-### Part 3: Interview and Reflect
-- Conduct the mock interview
+### Step 3: Interview and Reflect
 - After the interview, complete the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>. 
+- Reflect on your performance, and practice improvements you want to make for next time
 
 
 
@@ -89,16 +92,15 @@ The table below includes the due dates for each. You may submit earlier if you f
 For each interview:
 
 #### (1) Submit your assignment in Gradescope
+For technical and behavioral interviews:
 - Upload a copy of your reviewer evaluation
 - Upload a copy of your self evaluation
 
+For informational interviews:
+- Write a one page summary of the interview. It should include who you interviewed (with links to their LinkedIn profile), when, the questions you asked, and what you learned. Draft the summary in a Google Doc and ensure anyone at Kibo can view it 
+
 
 #### (2) Submit in Woolf
-- Upload PDF versions of your reviewer evaluation and self evaluation in the Woolf Platform
-
-
-
-
-
-
+- For technical and behavioral interviews, upload PDF versions of your reviewer evaluation and self evaluation in the Woolf Platform
+- For the informational interview, upload a PDF version of your interview summary in the Woolf Platform
 
