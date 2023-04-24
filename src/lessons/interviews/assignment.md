@@ -18,7 +18,7 @@ Mock interviews will be conducted by your peers, Kibo staff, and professional vo
 ### Step 1: Find interviewers
 
 #### Professional mock interviews
-Sign up for a mock interview with a professional here: <a href="https://lu.ma/kibo-mockinterviews" target="_blank">Professional Mock Interview Signup</a>. The deadline for booking the first phase of these interviews (at least 1 technical interview and 1 behavioral interview) is **Friday 28th April**.
+Sign up for a mock interview with a professional here: <a href="https://lu.ma/kibo-mockinterviews" target="_blank">Professional Mock Interview Signup</a>. The deadline for booking the first phase of these interviews (at least 1 technical interview and 1 behavioral interview) is **Friday April 28**.
 
 - Interview blocks are one hour, and include a 30-minute practice as well as feedback and discussion
 - After the interview, your interviewer will submit an evaluation
@@ -85,7 +85,7 @@ The table below includes the due dates for each. You may submit earlier if you f
 | Technical Interview #3                            | Mon May 29
 | Informational Interview                           | Mon May 29
 
-The deadline for booking the first phase of the mock interviews (at least 1 technical interview and 1 behavioral interview) is **Friday 28th April**. The second link for sign ups will be shared by **May 15th** on the course channel on Discord.
+The deadline for booking the first phase of the mock interviews (at least 1 technical interview and 1 behavioral interview) is **Friday April 28**. Interview slots are currently availabe through May 15. Additional interview slots will be added and shared in the class Discord channel.
 
 ## Submission
 
