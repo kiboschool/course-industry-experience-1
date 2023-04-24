@@ -34,7 +34,7 @@ Use the class Discord channel to find a classmate to conduct the interview with.
 
 - Set aside one hour (30-minutes to interview, 30-minutes to debrief) to conduct the interview
 - After the interview, your peer interviewer should submit the <a href="https://forms.gle/WLLEVSoir9dhRHhR9" target="_blank">interviewer evaluation</a>
-- WAfter the interview, you should submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
+- After the interview, you should submit the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>
 
 
 #### Informational interviews
@@ -46,7 +46,7 @@ For this interview, you will reach out to professionals via LinkedIn or your net
 
 
 ### Step 2: Prepare 
-Review the lesson pages to prepare. The interview confirmation will include the name of the company you are interviewing for. _Because this is a mock interview, you should not do a lot of company research, but do ensure you know what they company builds._ 
+Review the lesson pages to prepare. The interview confirmation will include the name of the company you are interviewing for. _Because this is an informational interview, you should not do a lot of company research, but do ensure you know what they company builds._ 
 
 **Expectations**
 
@@ -57,8 +57,8 @@ Review the lesson pages to prepare. The interview confirmation will include the 
   - Bringing copies (links) of your resume and necessary materials
   - Conducting the interview the same way you would an actual professional interview, including demonstrating professionalism 
 - Engage in the evaluation
-  - Most interviews will be 30 minutes. After that time, the interviewer will have a discussion with you about how it went. This part is critical 
-  - Mock interviews will be conducted by technical professionals who are volunteering to help you build your interview skills. They may also be conducted by Kibo staff members
+  - Most interviews will be 30 minutes. After that time, the interviewer will have a discussion with you about how it went. This part is critical.
+  - Mock interviews will be conducted by technical professionals who are volunteering to help you build your interview skills. They may also be conducted by Kibo staff members.
 
 <aside>
   ❗ Remember that you are representing Kibo in your mock interviews (as you will be on the job market). Be timely, courteous and professional.
@@ -66,7 +66,7 @@ Review the lesson pages to prepare. The interview confirmation will include the 
 
 ### Step 3: Interview and Reflect
 - After the interview, complete the <a href="https://forms.gle/xzL6N7VKfpbLrn8y8" target="_blank">interviewee self evaluation</a>. 
-- Reflect on your performance, and practice improvements you want to make for next time
+- Reflect on your performance and practice improvements you want to make for next time.
 
 
 
@@ -97,10 +97,10 @@ For technical and behavioral interviews:
 - Upload a copy of your self evaluation
 
 For informational interviews:
-- Write a one page summary of the interview. It should include who you interviewed (with links to their LinkedIn profile), when, the questions you asked, and what you learned. Draft the summary in a Google Doc and ensure anyone at Kibo can view it 
+- Write a one page summary of the interview. It should include who you interviewed (with links to their LinkedIn profile), when, the questions you asked, and what you learned. Draft the summary in a Google Doc and ensure anyone at Kibo can view it. 
 
 
 #### (2) Submit in Woolf
-- For technical and behavioral interviews, upload PDF versions of your reviewer evaluation and self evaluation in the Woolf Platform
-- For the informational interview, upload a PDF version of your interview summary in the Woolf Platform
+- For technical and behavioral interviews, upload PDF versions of your reviewer evaluation and self evaluation in the Woolf Platform.
+- For the informational interview, upload a PDF version of your interview summary in the Woolf Platform.
 
