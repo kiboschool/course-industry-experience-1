@@ -18,7 +18,7 @@ Mock interviews will be conducted by your peers, Kibo staff, and professional vo
 ### Step 1: Find interviewers
 
 #### Professional mock interviews
-Sign up for a mock interview with a professional here: <a href="https://lu.ma/kibo-mockinterviews" target="_blank">Professional Mock Interview Signup</a>
+Sign up for a mock interview with a professional here: <a href="https://lu.ma/kibo-mockinterviews" target="_blank">Professional Mock Interview Signup</a>. The deadline for booking the first phase of these interviews (at least 1 technical interview and 1 behavioral interview) is **Friday 28th April**.
 
 - Interview blocks are one hour, and include a 30-minute practice as well as feedback and discussion
 - After the interview, your interviewer will submit an evaluation
