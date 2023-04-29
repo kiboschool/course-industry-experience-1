@@ -87,8 +87,7 @@ For each interview:
 
 #### (1) Submit your assignment in Gradescope
 For technical and behavioral interviews:
-- Upload a copy of your reviewer evaluation
-- Upload a copy of your self evaluation
+- Upload a copy of your self evaluation. You will receive a copy of your evaluation form via email. Open the email, then select **Print** and **Save as PD.F**
 
 For informational interviews:
 - Write a one page summary of the interview. It should include who you interviewed (with links to their LinkedIn profile), when, the questions you asked, and what you learned. Draft the summary in a Google Doc and ensure anyone at Kibo can view it. 
