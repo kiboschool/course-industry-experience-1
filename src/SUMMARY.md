@@ -28,7 +28,11 @@
 
 
 ### Applying
-- [Applying for Opportunities](lessons/applying/intro.md)
+- [Applying](lessons/applying/intro.md)
+    - [Identifying Good Opportunities](lessons/applying/good-opportunities.md)
+    - [Finding Opportunities](lessons/applying/finding-opportunities.md)
+    - [Applying for Opportunities](lessons/applying/applying.md)
+    - [Cold Emails](lessons/applying/cold-emails.md)
     - [Open Opportunities](lessons/applying/opportunities.md)
     - [Assignment](lessons/applying/assignment.md)
 
