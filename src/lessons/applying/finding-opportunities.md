@@ -3,8 +3,10 @@
 How do you actually find companies with internships to apply to?
 
 There are a few ways to search:
-- looking at specific companies
--
+
+- Find a role at a company you've already identified
+- Get a referral or pointer from your network
+- Search on job platforms
 
 ## Finding jobs at a particular company
 
@@ -66,7 +68,7 @@ Select your city or enter "Remote" for the location to filter for only positions
 
 **Keep a list**
 
-Keep track of the links of the companies and roles you want to apply to.
+Keep track of the links of the companies and roles you want to apply to. For your assignment, you will need to keep a tracker with all the jobs you have applied to. You can use that to track the companies you intend to apply to as well.
 
 **Switch platforms**
 

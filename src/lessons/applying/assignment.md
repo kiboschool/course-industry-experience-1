@@ -2,6 +2,16 @@
 
 For this assignment, you will apply to technical roles. You are required to apply to at least 10 positions, but may apply to more if you wish.
 
+## Application Tracker
+
+For both rounds of applications, you need to track the positions and application status in a tracker to submit for credit.
+
+If you have not already, make a [copy of the job application tracker](https://docs.google.com/spreadsheets/d/1UyblPl26CxdMDx8M8SxoEP-lcgHRGfTXvdGacnkIHMw/copy).
+
+* Add your name to the title
+* Add the positions you want to apply to as you find them
+* Update the status of the opportunities as you apply and hear back
+
 ## First batch of applications
 
 <aside>
@@ -40,7 +50,9 @@ For this assignment, you will apply to technical roles. You are required to appl
 ## Submission
 
 #### (1) Submit your assignment in Gradescope
+
 - Submit a link to your job application tracker in Gradescope
 
 #### (2) Submit in Woolf
+
 - Submit a link to your application tracker in the Woolf Platform

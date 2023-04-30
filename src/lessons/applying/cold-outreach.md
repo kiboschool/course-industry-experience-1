@@ -1,5 +1,12 @@
-# Cold Emails
+# Cold Outreach
 
+## Warm outreach: Referrals
+
+
+## Who to reach out to
+
+
+## Cold Emails
 How to cold email someone 
 
 https://joinhandshake.com/blog/students/cold-outreach-in-job-search/
@@ -10,3 +17,9 @@ https://joinhandshake.com/blog/students/cold-outreach-in-job-search/
 - How to get help drafting?
   - (bcc: industry-experience@ / ask in the class Discord channel)
 - What to expect from a response
+
+## LinkedIn Messages
+
+## Other Platforms
+
+
