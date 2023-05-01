@@ -27,7 +27,6 @@
     - [Informational Interviews](lessons/interviews/informational-interviews.md)
     - [Assignment](lessons/interviews/assignment.md)
 
-<!---
 ### Applying
 - [Applying](lessons/applying/intro.md)
     - [Identifying Good Opportunities](lessons/applying/good-opportunities.md)
