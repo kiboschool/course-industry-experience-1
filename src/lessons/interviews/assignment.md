@@ -43,7 +43,7 @@ For this interview, you will reach out to professionals via LinkedIn or your net
 #### Talk Hiring
 
 <aside>
-  🆕 Automated Mock Interviews
+  🆕 We now have the option to have unlimited, automated mock interviews
   </aside>
   
 We've purchased a subscription to Talk Hiring, an automated mock interviewing tool that helps you become more effective. Talk Hiring generates instant feedback after every mock interview.  This tool is 100% automated, which means that you can interview whenever you want and as much as you want!
