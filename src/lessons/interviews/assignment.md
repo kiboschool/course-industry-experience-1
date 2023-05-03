@@ -49,7 +49,7 @@ For this interview, you will reach out to professionals via LinkedIn or your net
 We've purchased a subscription to Talk Hiring, an automated mock interviewing tool that helps you become more effective. Talk Hiring generates instant feedback after every mock interview.  This tool is 100% automated, which means that you can interview whenever you want and as much as you want!
 - You are **required** to conduct at least 2 interviews with Talk Hiring. This will count for one of your behavioral interview assignments. 
 - You are recommended to conduct at least 5 interviews
-- You have been assigned 2 interviews to complete, but can do as many as you'd like. To start a mock interview with Talk Hiring, go to <a href="talkhiring.com/practice" target="_blank">talkhiring.com/practice</a> and enter our class code which is **h9pj** 
+- You have been assigned 2 interviews to complete, but can do as many as you'd like. To start a mock interview with Talk Hiring, go to <a href="https://talkhiring.com/practice" target="_blank">talkhiring.com/practice</a> and enter our class code which is **h9pj** 
 - Each Talk Hiring interview takes about 10 minutes. You will receive feedback 
   - You can always view all of your feedback by going to <a href="http://talkhiring.com/interviewee" target="_blank">talkhiring.com/interviewee</a> and entering your email address
 
