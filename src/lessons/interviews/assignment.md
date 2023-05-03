@@ -53,6 +53,7 @@ We've purchased a subscription to Talk Hiring, an automated mock interviewing to
 - Each Talk Hiring interview takes about 10 minutes. You will be able to view written feedback and an interview score on the TalkHiring page a few minutes after your interview.
   - You can always view all of your feedback by going to <a href="http://talkhiring.com/interviewee" target="_blank">talkhiring.com/interviewee</a> and entering your email address.
 
+> If you want to count your TalkHiring interviews for your behavioral interview, be sure to fill out the self-evaluation and submit it to Gradescope, as with your other interviews. You can enter "Talk Hiring" as the interviewer name.
 
 ### Step 2: Prepare 
 Review the lesson pages to prepare. The interview confirmation will include the name of the company you are interviewing for. _Because this is an informational interview, you should not do a lot of company research, but do ensure you know what the company builds._ 
