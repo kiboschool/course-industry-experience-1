@@ -36,7 +36,7 @@
     - [Open Opportunities](lessons/applying/opportunities.md)
     - [Assignment](lessons/applying/assignment.md)
 
-<!--
+
 ### Preparing for Work
 - [Technical preparation](lessons/preparation/intro.md)
     - [Assignment](lessons/preparation/assignment.md)
@@ -53,5 +53,5 @@
 ### Final Report
 - [Final Report](lessons/final-report.md)
 
--->
+
 
