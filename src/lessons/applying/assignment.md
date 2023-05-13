@@ -51,7 +51,7 @@ If you have not already, make a [copy of the job application tracker](https://do
 
 Once you find an internship, you should inform the course instructors for approval. 
 
-Submit this form: [Industry Experience Confirmation](https://forms.gle/HHMMGzSG4ZoiN2dh8)
+Submit this form: <a href="https://forms.gle/HHMMGzSG4ZoiN2dh8" target="_blank"> Industry Experience Confirmation </a>
 
 _If you accept an approved industry experience opportunity before you finish all of the required applications, then you do not need to continue applying to additional positions._
 
