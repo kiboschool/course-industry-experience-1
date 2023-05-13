@@ -4,7 +4,7 @@ For this assignment, you will apply to technical roles. You are required to appl
 
 <aside>
   📢📢 Once you secure an industry experience, you do not need to continue applying. Before you stop applications, you must confirm your industry experience (see below)
-  <aside>
+  </aside>
     
 
 ## Application Tracker
