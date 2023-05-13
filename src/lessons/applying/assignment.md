@@ -2,6 +2,11 @@
 
 For this assignment, you will apply to technical roles. You are required to apply to at least 10 positions, but may apply to more if you wish.
 
+<aside>
+  📢📢 Once you secure an industry experience, you do not need to continue applying. Before you stop applications, you must confirm your industry experience (see below)
+  <aside>
+    
+
 ## Application Tracker
 
 For both rounds of applications, you need to track the positions and application status in a tracker to submit for credit.
@@ -46,7 +51,7 @@ If you have not already, make a [copy of the job application tracker](https://do
 
 Once you find an internship, you should inform the course instructors for approval. 
 
-Submit this form: [Industry Experience Confirmation](https://forms.gle/HHMMGzSG4ZoiN2dh8)
+Submit this form: <a href="https://forms.gle/HHMMGzSG4ZoiN2dh8" target="_blank"> Industry Experience Confirmation </a>
 
 _If you accept an approved industry experience opportunity before you finish all of the required applications, then you do not need to continue applying to additional positions._
 

@@ -47,7 +47,8 @@ A good industry experience opportunity means:
 >
 > So, what qualifies a position for credit at Kibo?
 >
-> - 280+ hours of work
+> - 225+ hours of work
+>   - The work may be spread out over any number of weeks (e.g., 30 hours for 8 weeks or 40 hours for 6 weeks). Your industry experience may be longer than the required minimum of 225 hours. You should aim to finish by **September 15, 2023** which is the last offical date of the term. If your experience will continue (e.g., you will keep working part-time), that is fine. But you must submit the evaluations and report for academic credit by September 15 in order to receive credit.
 > - Uses the skills you've learned in your coursework
 > - There is a mentor or supervisor who will give you feedback and evaluation
 >
