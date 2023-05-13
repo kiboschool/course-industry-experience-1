@@ -2,6 +2,11 @@
 
 For this assignment, you will apply to technical roles. You are required to apply to at least 10 positions, but may apply to more if you wish.
 
+<aside>
+  📢📢 Once you secure an industry experience, you do not need to continue applying. Before you stop applications, you must confirm your industry experience (see below)
+  <aside>
+    
+
 ## Application Tracker
 
 For both rounds of applications, you need to track the positions and application status in a tracker to submit for credit.
