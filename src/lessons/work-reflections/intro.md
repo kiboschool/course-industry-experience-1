@@ -23,7 +23,7 @@ After completing this lesson, you will be able to:
 
 <aside>
 
-👩🏿‍🏫 Complete this lesson by exploring each section
+👩🏿‍🏫 Complete this lesson by exploring each section:
 
 [Managing Yourself](lessons/work-reflections/managing yourself.md)
 
