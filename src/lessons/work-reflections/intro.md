@@ -32,6 +32,6 @@ After completing this lesson, you will be able to:
 [Planning for Success](lessons/work-reflections/planning for success.md)
 
 [Assignment: Work Reflections](lessons/work-reflections/assignment.md)
-
+  
 [Assignment: Supervisor Evaluation](lessons/work-reflections/assignment-eval.md)
 ---
