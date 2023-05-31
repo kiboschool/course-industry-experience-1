@@ -25,7 +25,7 @@ After completing this lesson, you will be able to:
 
 👩🏿‍🏫 Complete this lesson by exploring each section:
 
-[Managing Yourself](lessons/work-reflections/managing yourself.md)
+[Managing Yourself](lessons/work-reflections/managing-yourself.md)
 
 [Working with others](lessons/work-reflections/working with others.md)
 
