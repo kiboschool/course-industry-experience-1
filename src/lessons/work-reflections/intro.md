@@ -1,6 +1,6 @@
 
-# Evaluating your work
-*Estimated Time: 4 hours*
+# How to succeed in the world of work
+*Estimated Time: 2 hours*
 
 ---
 
@@ -15,11 +15,9 @@ TODO: Video
 
 After completing this lesson, you will be able to:
 
-- Conduct a self assessment of your work 
-- Create a plan for improvement at work
+- Create a plan for success and improvement at work
+- Conduct a self assessment of your work
 - Solicit and use feedback for professional and personal growth
-
-
 
 ## Sections
 
