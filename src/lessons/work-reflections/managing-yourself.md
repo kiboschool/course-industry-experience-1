@@ -18,7 +18,6 @@ Effective task management is critical for achieving success in any role, particu
   <iframe width="560" height="315" src="https://www.youtube.com/embed/88MjoZalHpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-
 As we learn in the video, these are some of the key things to remember/put in practice when it comes to effective task management:
 
 #### Breaking Down Tasks into Smaller Pieces
@@ -36,4 +35,10 @@ To-do lists are a classic tool for managing tasks, but not all to-do lists are c
 #### Using Technology to Manage Tasks
 
 There are many tools available to help you manage tasks, including project management software, to-do list apps, and time tracking tools. These tools can help you stay organized, prioritize tasks, and track your progress. Additionally, many of these tools offer collaboration features that can help you work effectively with your team and keep everyone on the same page.
+
+## Communication
+
+Communication is an essential aspect of our daily lives, and the workplace is no exception. In the world of work, developing effective communication skills is crucial to building positive relationships with colleagues, superiors, and clients.
+
+![image]([https://user-images.githubusercontent.com/1774663/230725833-adb05c18-8f41-40b0-994d-4f3004dea9d4.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatedsaid.wordpress.com%2F2009%2F11%2F01%2F231%2F&psig=AOvVaw1lTJ3BmNwECNDSdDWCSfmT&ust=1685784458119000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJja4M-ipP8CFQAAAAAdAAAAABAD))
 
