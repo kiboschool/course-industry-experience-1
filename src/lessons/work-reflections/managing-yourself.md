@@ -18,33 +18,22 @@ Effective task management is critical for achieving success in any role, particu
   <iframe width="560" height="315" src="https://www.youtube.com/embed/88MjoZalHpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-The video asserts that:
 
-Perhaps:
+As we learn in the video, these are some of the key things to remember/put in practice when it comes to effective task management:
 
-- "Because the Kibo requirements dictate that I have to" or..
-- "Because I want to to practice in a real work environment"
+#### Breaking Down Tasks into Smaller Pieces
 
-The next few months of preparing for industry experience will be challenging. To perservere, you need a reason that you are doing this beyond the Kibo requirements. You need a _thick_ desire  to succeed. This lesson will help guide you through the process of establishing your why and setting the right foundations for your industry experience. 
+When faced with a large project or assignment, it can be overwhelming to know where to start. A helpful strategy is to break down the task into smaller, more manageable pieces. This approach not only makes the task more approachable but also helps you stay motivated as you make progress. For example, if you have a research project to complete, you could break it down into smaller tasks such as conducting research, organizing your findings, and drafting your report.
 
->  📺 Watch the video to understand how to identify the difference between thin and thick desires (5:08)
+#### Prioritizing Tasks Based on Importance and Urgency
 
- <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/88MjoZalHpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+Not all tasks are created equal, and it's important to prioritize them based on their importance and urgency. A helpful tool for prioritizing tasks is the Eisenhower Matrix, which involves categorizing tasks into four quadrants: urgent and important, important but not urgent, urgent but not important, and neither urgent nor important. This approach can help you focus on the tasks that will have the most impact on your work and avoid getting bogged down by less important tasks.
 
-The video asserts that:
+#### Creating Effective To-Do Lists
 
-- Each of us is the product of other people's desires
-- We must examine our life experiences to determine which desires are from within and which ones are influenced by others
+To-do lists are a classic tool for managing tasks, but not all to-do lists are created equal. A helpful approach is to create a daily to-do list that includes no more than three to five high-priority tasks. This approach helps you stay focused on the most important tasks and avoid feeling overwhelmed by a long list of tasks. Additionally, you can use a to-do list to break down large tasks into smaller, more manageable pieces.
 
-## Reflecting on your fulfillment stories
+#### Using Technology to Manage Tasks
 
-In this exercise, you will reflect on a few experiences where you have felt most fulfilled in your work or school life.
-
->  ℹ️ This reflection document is for your eyes only! Be honest and candid, and take some time to think deeply before jotting down your responses.
-
-**To complete the exercise:** 
-- Make a copy of **<a href="https://docs.google.com/document/d/1k8OJFymVJ3eY-LAKGtXiW2e_jycf1nWCxBOtZpM2nyY/copy" target="_blank"> this document</a>**
-- Follow the instructions in the document
+There are many tools available to help you manage tasks, including project management software, to-do list apps, and time tracking tools. These tools can help you stay organized, prioritize tasks, and track your progress. Additionally, many of these tools offer collaboration features that can help you work effectively with your team and keep everyone on the same page.
 
