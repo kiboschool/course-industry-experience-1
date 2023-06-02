@@ -50,7 +50,11 @@ Building a strong professional network opens doors to new opportunities, helps y
 
 When it comes to networking, **_quality trumps quantity_**. It's not about collecting hundreds of LinkedIn connections; it's about nurturing meaningful relationships. Take the time to understand other people's perspectives, listen actively, and show genuine interest in their work. Networking is a two-way street, so remember to offer your help and support whenever possible. Building trust and rapport takes time, but the connections you make can be invaluable throughout your professional journey.
 
-Networking opportunities are everywhere, both online and offline. Attend industry events, join professional organizations, and participate in company-sponsored activities. Make the most of social media platforms like LinkedIn, where you can connect with professionals in your field and share insights. Remember to maintain a professional online presence by showcasing your skills, achievements, and passions. Lastly, don't underestimate the power of informal networking, such as grabbing coffee with colleagues or joining after-work activities. These casual interactions can often lead to unexpected opportunities.
+Networking opportunities are everywhere, both online and offline. To maximise on these opportunities, you should:
+ - Attend industry events, join professional organizations, and participate in company-sponsored activities.
+ - Make the most of social media platforms like LinkedIn, where you can connect with professionals in your field and share insights. 
+ - Maintain a professional online presence by showcasing your skills, achievements, and passions. 
+ - Make time for informal networking, such as grabbing coffee with colleagues or joining after-work activities. These casual interactions can often lead to unexpected opportunities.
 
 Networking is not just about exchanging business cards; it is **_a continuous process that requires effort and authenticity_**. By approaching it with a genuine desire to connect, learn, and support others, you'll build a strong network that can greatly contribute to your personal and professional growth. So, go out there, be yourself, and start forging those valuable relationships!
 </div>
