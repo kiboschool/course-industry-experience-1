@@ -7,7 +7,7 @@
 >  🗣 **“Self-management, therefore, is all about becoming your own leader by training your mental, physical, social and intellectual faculties in different ways.”**
 >
 >  — Dr Prem Jagyasi, _Carve Your Life: Live a great life with carvism_
-
+<div style='text-align: justify;'>
 ## Task Management and Time-Keeping
 
 Effective task management is critical for achieving success in any role, particularly for new interns who are often tasked with a wide range of responsibilities. For you to be successful and still get joy and fulfillment from your work it is important to implement different strategies that can help you be as productive as possible without burning out.
@@ -91,3 +91,4 @@ Adaptability and resilience are not solely about professional skills; they also 
 As you prepare for your industry experience, reflect on your own past experiences and consider how you can apply these concepts to your daily life. Developing adaptability and resilience is a lifelong journey, and by embracing change, navigating setbacks, cultivating flexibility, building a support network, and prioritizing self-care, you'll be well-equipped to thrive in any situation.
 
 ![image](https://user-images.githubusercontent.com/1774663/230725833-adb05c18-8f41-40b0-994d-4f3004dea9d4.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatedsaid.wordpress.com%2F2009%2F11%2F01%2F231%2F&psig=AOvVaw1lTJ3BmNwECNDSdDWCSfmT&ust=1685784458119000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJja4M-ipP8CFQAAAAAdAAAAABAD)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fquotefancy.com%2Fquote%2F1575455%2FJohn-Powell-Communication-works-for-those-who-work-at-it&psig=AOvVaw3mNfNwOkwjHpM1HB84s-25&ust=1685785782891000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCPDqj_unpP8CFQAAAAAdAAAAABAR)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quotespedia.org%2Fauthors%2Fc%2Fcharles-darwin%2Fit-is-not-the-strongest-of-the-species-that-survive-nor-the-most-intelligent-but-the-one-most-responsive-to-change-charles-darwin%2F&psig=AOvVaw2aax1KQI7mWXXbjyRZzmeJ&ust=1685786314860000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOCzvseppP8CFQAAAAAdAAAAABAD))
+</div>
