@@ -12,7 +12,7 @@
 
 Effective task management is critical for achieving success in any role, particularly for new interns who are often tasked with a wide range of responsibilities. For you to be successful and still get joy and fulfillment from your work it is important to implement different strategies that can help you be as productive as possible without burning out.
 
->  📺 Watch this video to understand how to how to be more organised, focused and productive at work (5:34)
+>  📺 Watch this video to understand how to be more organised, focused and productive at work (5:34)
 
  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/88MjoZalHpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
