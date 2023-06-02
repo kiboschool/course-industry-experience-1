@@ -27,7 +27,7 @@ After completing this lesson, you will be able to:
 
 [Managing Yourself](lessons/work-reflections/managing-yourself.md)
 
-[Working with others](lessons/work-reflections/working with others.md)
+[Working with others](lessons/work-reflections/working-with-others.md)
 
 [Planning for Success](lessons/work-reflections/planning-for-success.md)
 
