@@ -28,3 +28,29 @@ In summary, professionalism and workplace etiquette are essential skills to deve
 
 Professionalism is not just about following rules; it's about **_embodying values that contribute to a harmonious and productive work environment_**. So, embrace this learning experience, be authentic, and let your professionalism shine!
 </div>
+
+## Ethical and Legal Considerations
+<div style='text-align: justify;'>
+Ethics serve as the moral compass in any professional setting; shaping how we conduct ourselves and make decisions. As an intern, you'll encounter numerous situations where ethical judgment will be vital. Remember, acting ethically means doing what is right, even when it may be difficult or inconvenient. This involves treating colleagues, clients, and stakeholders with respect, honesty, and fairness. It is important to embody ethical values/principles, such as integrity, confidentiality, and transparency, which form the foundation of professional conduct. 
+
+Understanding the legal landscape in your industry is equally crucial to your success as an intern. Familiarize yourself with the laws and regulations relevant to your field, such as intellectual property rights, data privacy, and anti-discrimination laws. Ensure that you avoid conflicts of interest and the potential consequences they can have on your reputation and the organization as a whole.
+
+It is important to recognize that ignorance of the law is not a defense if legal issues arise. Be mindful of your responsibilities when handling sensitive information, both in terms of data protection and respecting the privacy rights of individuals. Acting in violation of ethical standards or laws not only damages your professional reputation but can also have severe legal repercussions for both you and the organization. This may include fines, legal penalties, loss of employment, and damage to personal and professional relationships.
+
+By adhering to legal standards, you contribute to a safe and compliant work environment; making ethical choices and complying with the law is not only the right thing to do but also protects your own future and the welfare of the organization you represent.
+</div>
+
+## Networking and Relationship Building
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1eHyQ19Q1c?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div style='text-align: justify;'>
+Building a strong professional network opens doors to new opportunities, helps you gain valuable insights, and enhances your personal growth. It's all about creating a community of individuals who can support and guide you throughout your career. So, don't be afraid to step out of your comfort zone, introduce yourself to new people, and engage in conversations that go beyond the surface level.
+
+When it comes to networking, quality trumps quantity. It's not about collecting hundreds of LinkedIn connections; it's about nurturing meaningful relationships. Take the time to understand other people's perspectives, listen actively, and show genuine interest in their work. Networking is a two-way street, so remember to offer your help and support whenever possible. Building trust and rapport takes time, but the connections you make can be invaluable throughout your professional journey.
+
+Networking opportunities are everywhere, both online and offline. Attend industry events, join professional organizations, and participate in company-sponsored activities. Make the most of social media platforms like LinkedIn, where you can connect with professionals in your field and share insights. Remember to maintain a professional online presence by showcasing your skills, achievements, and passions. Lastly, don't underestimate the power of informal networking, such as grabbing coffee with colleagues or joining after-work activities. These casual interactions can often lead to unexpected opportunities.
+
+Networking is not just about exchanging business cards; it is a continuous process that requires effort and authenticity. By approaching it with a genuine desire to connect, learn, and support others, you'll build a strong network that can greatly contribute to your personal and professional growth. So, go out there, be yourself, and start forging those valuable relationships!
+</div>
