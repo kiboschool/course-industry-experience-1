@@ -13,7 +13,6 @@
  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/kjLNpa--aX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 As the above video indicates, stepping into a professional environment can feel overwhelming at times. However, there are certain tips that will help you navigate your internship with confidence and make a positive impression on your colleagues and superiors.
 
 As you prepare, you should remember that **_first impressions matter_**; it's crucial to start off on the right foot. From the moment you walk through those office doors (or join the first virtual meeting), remember that you are representing both yourself and the organization you're interning for. Dress appropriately for the workplace, ensuring your attire is professional and aligns with the company's dress code. Remember, it's always better to be slightly overdressed than underdressed. Additionally, practice good hygiene and grooming habits to present yourself in a polished manner. A neat appearance will not only boost your confidence but also show that you take your role seriously.
