@@ -29,7 +29,7 @@ After completing this lesson, you will be able to:
 
 [Working with others](lessons/work-reflections/working with others.md)
 
-[Planning for Success](lessons/work-reflections/planning for success.md)
+[Planning for Success](lessons/work-reflections/planning-for-success.md)
 
 [Assignment: Work Reflections](lessons/work-reflections/assignment.md)
   
