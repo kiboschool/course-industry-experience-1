@@ -50,7 +50,7 @@
     - [Managing Yourself](lessons/work-reflections/managing-yourself.md)
     - [Working with others](lessons/work-reflections/working-with-others.md)
     - [Planning for Success](lessons/work-reflections/planning-for-success.md)
-    - [Assignment: work reflections](lessons/work-reflections/assignment.md)
+    - [Assignment: self evaluations](lessons/work-reflections/assignment.md)
     - [Assignment: supervisor evaluation](lessons/work-reflections/assignment-eval.md)
 
 ### Final Report
