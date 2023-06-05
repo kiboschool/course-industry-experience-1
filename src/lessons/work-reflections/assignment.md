@@ -8,7 +8,7 @@
  
 </aside>
 
-As you learned, self assessment is key to optimal performance. For this assignment, you will conduct regular self assessments to track your performance and plan for future growth. 
+As you learned, self assessment is key to optimal performance. During industry experience, you will conduct regular self assessments to track your performance and plan for future growth. 
 
 To complete the assignment:
 - Make a copy of the <a href="https://docs.google.com/document/d/1MaUI5ZMGJ8cOdB_YbpRercHDEfUEBJAx2el818BWPMo/edit?usp=sharing" target="_blank"> self assessment document.</a>
