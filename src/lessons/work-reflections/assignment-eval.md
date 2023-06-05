@@ -18,7 +18,7 @@ To complete the assignment:
 ## Submission
 
 #### (1) Submit your assignment in Gradescope
-- Ask your supervisor to email a copy of their evaluation to industry-experience@kibo.school and copy you on the email 
+- Ask your supervisor to email a copy of their evaluation to industry-experience-2023@kibo.school and copy you on the email 
 - Download and upload a copy of the evaluation to Gradescope
 
 
