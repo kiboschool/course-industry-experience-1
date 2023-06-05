@@ -10,9 +10,8 @@
 <div style='text-align: justify;'>
 
  ## Why Self-Management Matters
- When approaching school or work, we often place a lot of focus on "who's in charge." At school, this might be the instructor or at work, a manager. While it's important to understand what your higher-ups expect of you, your first and most important manager is yourself. 
- 
- To succeed at work, you need to become an effective self-manager. 
+ When approaching school or work, we often place a lot of focus on "who's in charge." At school, this might be the instructor or at work, a manager. While it's important to understand what your higher-ups expect of you, your first and most important manager is yourself. ** To succeed at work, you need to become an effective self-manager. 
+** 
  
  <aside>
   💡 Self-management means taking responsibility for your actions, emotions, and well-being. It means consciously directing and regulating your thoughts, feelings, and behaviors to achieve goals, maintain balance, and adapt to change.
