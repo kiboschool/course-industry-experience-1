@@ -58,10 +58,13 @@ Being an effective colleague is not only about getting work done. As you embark 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/2PTmPOY34dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
+
 In this video John English reveals the 4 keys to creating healthy work relationships with an emphasis on communication and establishing psychological safety. The keys are:
-1. Presence; each person has to be present in the interaction. 
-2. Clarity and understanding; we have to be clear about what we are saying/doing and the end goal.
-3. Respect and appreciation for one another.
+1. _Presence; each person has to be present in the interaction._ 
+
+2. _Clarity and understanding; we have to be clear about what we are saying/doing and the end goal._
+
+3. _Respect and appreciation for one another._
 
 Building a strong professional network opens doors to new opportunities, helps you gain valuable insights, and enhances your personal growth. It's all about creating a community of individuals who can support and guide you throughout your career. So, don't be afraid to step out of your comfort zone, introduce yourself to new people, and engage in conversations that go beyond the surface level.
 
