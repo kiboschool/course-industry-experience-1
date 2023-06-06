@@ -67,6 +67,7 @@ No one succeeds alone. Surround yourself with positive and supportive individual
 
 Engage in activities that rejuvenate you, such as exercise, hobbies, and spending time with loved ones. Take breaks when needed and practice mindfulness to stay grounded. Taking care of yourself allows you to better adapt to challenges and bounce back stronger.
 
+ 
 
 As you prepare for your industry experience, reflect on your own past experiences and consider how you can apply these concepts to your daily life. Developing adaptability and resilience is a lifelong journey, and by embracing change, navigating setbacks, cultivating flexibility, building a support network, and prioritizing self-care, you'll be well-equipped to thrive in any situation.
 
