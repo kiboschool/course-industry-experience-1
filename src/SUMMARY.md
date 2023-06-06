@@ -37,11 +37,6 @@
     - [Assignment](lessons/applying/assignment.md)
 
 
-### Preparing for Work
-- [Technical preparation](lessons/preparation/intro.md)
-    - [Assignment](lessons/preparation/assignment.md)
-
-
 ### Evaluation
 - [Course evaluation](lessons/preparation-evaluation.md)
 
