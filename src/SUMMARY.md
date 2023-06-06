@@ -38,9 +38,9 @@
 
 
 ### IE Confirmation
-- [Prep Course Wrap-Up](lessons/preparation/intro.md)
-    - [Confirming your match ](lessons/preparation/assignment.md) 
-    - [Course evaluation](lessons/preparation-evaluation.md)
+- [Preparation phase wrap-Up](lessons/preparation/intro.md)
+    - [Confirm your match](lessons/preparation/assignment.md) 
+    - [Course evaluation](lessons/preparation/course-eval.md)
 
 ### Work and Reflection
 - [Working effectively](lessons/work-reflections/intro.md)
