@@ -34,7 +34,7 @@ Self-management requires cultivating various skills and practices, including sel
  
 1. _**Keep it simple**_: have few steps in your plan; elaborate sytems are hard to maintain and most of the time they are not worth the effort.
  
-2. _**Develop routines**_: turn your import tasks into rutines to save yourself the mental energy of constant planning.
+2. _**Develop routines**_: turn your important tasks into routines to save yourself the mental energy of constant planning.
  
 3. _**Have a place for everything and put everything in place**_: take the time to put items where they belong to make it easier to track and save time trying to locate them.
  
