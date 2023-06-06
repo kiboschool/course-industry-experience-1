@@ -27,7 +27,7 @@ As the video explains, we often have to work with people we would not otherwise 
 ## Be professional
 Stepping into a professional environment may feel overwhelming. However, you can navigate work with confidence. 
 
-**_First impressions matter_**; it's crucial to start off on the right foot. From the moment you walk through those office doors (or join the first virtual meeting), remember that you are representing both yourself and the organization you're interning for. Dress appropriately for the workplace, ensuring your attire is professional and aligns with the company's dress code. Remember, it's always better to be slightly overdressed than underdressed. Practice good hygiene and grooming habits to present yourself in a polished manner. A neat appearance will not only boost your confidence but also show that you take your role seriously. **Your appeareance matters, even in a virtual workplace.** For video calls, you should be in a quiet place and test your audio and video connection. You should ensure your background is professional and does not distract from your work. 
+**_First impressions matter_**; from the moment you walk through those office doors (or join the first virtual meeting), remember that you are representing both yourself and the organization you're interning for. Dress appropriately for the workplace, ensuring your attire is professional and aligns with the company's dress code. Remember, it's always better to be slightly overdressed than underdressed. Practice good hygiene and grooming habits to present yourself in a polished manner. A neat appearance will not only boost your confidence but also show that you take your role seriously. **Your appeareance matters, even in a virtual workplace.** For video calls, you should be in a quiet place and test your audio and video connection. You should ensure your background is professional and does not distract from your work. 
 
 **_Time management and punctuality_** are key to demonstrating professionalism. Arrive at work and meetings on time, as this shows respect for other people's schedules. If you anticipate being late or unable to attend a meeting, notify the relevant parties in advance. Do what you say you will do, and meet deadlines. Refer to the previous lesson on staying organized.  
 
@@ -56,8 +56,13 @@ Being an effective colleague is not only about getting work done. As you embark 
  </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1eHyQ19Q1c?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2PTmPOY34dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+In this video John English reveals the 4 keys to creating healthy work relationships with an emphasis on communication and establishing psychological safety. The keys are:
+1. Presence; each person has to be present in the interaction. 
+2. Clarity and understanding; we have to be clear about what we are saying/doing and the end goal.
+3. Respect and appreciation for one another.
 
 Building a strong professional network opens doors to new opportunities, helps you gain valuable insights, and enhances your personal growth. It's all about creating a community of individuals who can support and guide you throughout your career. So, don't be afraid to step out of your comfort zone, introduce yourself to new people, and engage in conversations that go beyond the surface level.
 
