@@ -13,7 +13,7 @@ TODO: Video
 
 ## **Learning Outcomes**
 
-🎉🎉 Congratulations on nearning the end of the preparation phase of Industry Experience. In this lesson, you will: 
+🎉🎉 Congratulations on nearing the end of the preparation phase of Industry Experience. In this lesson, you will: 
 
 - Confirm your industry experience or submit your preferences to be match
 - Evaluate the preparation portion of industry experience
@@ -27,5 +27,9 @@ TODO: Video
 👩🏿‍🏫 Complete this lesson by exploring each section
 
 </aside>
+
+[Confirming your match](/lessons/preparation/assignment.md)
+
+[Course evaluation](/lessons/preparation/course-eval.md)
 
 ---
