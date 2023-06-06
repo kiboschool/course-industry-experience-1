@@ -36,7 +36,6 @@
     - [Open Opportunities](lessons/applying/opportunities.md)
     - [Assignment](lessons/applying/assignment.md)
 
-
 ### IE Confirmation
 - [Preparation phase wrap-up](lessons/preparation/intro.md)
     - [Confirm your match](lessons/preparation/assignment.md) 
@@ -53,5 +52,5 @@
 ### Final Report
 - [Final Report](lessons/final-report.md)
 
-
+-->
 
