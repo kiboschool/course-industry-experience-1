@@ -17,7 +17,7 @@
   💡 Self-management means taking responsibility for your actions, emotions, and well-being. It means consciously directing and regulating your thoughts, feelings, and behaviors to achieve goals, maintain balance, and adapt to change.
  </aside>
  
-Self-management requires cultivating various skills and practices, including self-awareness, goal setting, time management, emotional regulation, effective decision-making, adaptability, self-discipline, and self-care. In this lesson, we'll focus on two of those practices: time-management and adaptability. 
+Self-management requires cultivating various skills and practices, including self-awareness, goal setting, task management, emotional regulation, effective decision-making, adaptability, self-discipline, and self-care. In this lesson, we'll focus on two of those practices: task-management and adaptability. 
 
  
  ## Task Management 
