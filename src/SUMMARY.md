@@ -37,12 +37,10 @@
     - [Assignment](lessons/applying/assignment.md)
 
 
-### Preparing for Work
-- [Preparation](lessons/preparation/intro.md)
-    - [Assignment](lessons/preparation/assignment.md) 
-
-### Evaluation
-- [Course evaluation](lessons/preparation-evaluation.md)
+### IE Confirmation
+- [Prep Course Wrap-Up](lessons/preparation/intro.md)
+    - [Confirming your match ](lessons/preparation/assignment.md) 
+    - [Course evaluation](lessons/preparation-evaluation.md)
 
 ### Work and Reflection
 - [Working effectively](lessons/work-reflections/intro.md)
