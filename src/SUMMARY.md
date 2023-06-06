@@ -38,7 +38,7 @@
 
 
 ### IE Confirmation
-- [Preparation phase wrap-Up](lessons/preparation/intro.md)
+- [Preparation phase wrap-up](lessons/preparation/intro.md)
     - [Confirm your match](lessons/preparation/assignment.md) 
     - [Course evaluation](lessons/preparation/course-eval.md)
 
