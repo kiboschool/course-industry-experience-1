@@ -42,7 +42,7 @@ You will receive more information on your match via email by the end of next wee
 >
 > Otherwise, submit the **matching form**.
 
-### Confirm your industry experience
+### Submit the confirmation form
 
 If you have already secured an experience that meets the [criteria](https://industry-experience.vercel.app/lessons/applying/good-opportunities.html) for academic credit, then you should notify the course instructors. To do so:
 
