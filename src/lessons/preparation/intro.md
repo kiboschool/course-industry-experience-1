@@ -13,10 +13,10 @@ TODO: Video
 
 ## **Learning Outcomes**
 
-After completing this lesson, you will be able to:
+🎉🎉 Congratulations on nearning the end of the preparation phase of Industry Experience. In this lesson, you will: 
 
-- Use tools and programming languages relevant to your industry experience placement
-- Craft a plan to succeed in industry experience with a focus on onboarding and continous evaluation
+- Confirm your industry experience or submit your preferences to be match
+- Evaluate the preparation portion of industry experience
 
 
 
