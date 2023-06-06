@@ -32,7 +32,7 @@ Self-management requires cultivating various skills and practices, including sel
 
 ### The video shares 6 habits of highly organized people:
  
-1. Keep it simple: have as few steps as possible; elaborate sysytems are hard to maintain and most of the time they are not worth the effort.
+1. Keep it simple: have as few steps as possible in your plan; elaborate sysytems are hard to maintain and most of the time they are not worth the effort.
  
 2. Develop routines: turn your import tasks into rutines to save yourself the mental energy of constant planning.
  
