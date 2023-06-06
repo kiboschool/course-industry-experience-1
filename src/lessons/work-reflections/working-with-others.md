@@ -6,19 +6,19 @@
 
 >  🗣 **“A single leaf working alone provides no shade.”**
 >
->  Chuck Page, _American Politician_
+>  — Chuck Page, _American Politician_
 
 ## Social connection at work
 
 <aside> 
- 📺 Watch this video to understand the importance of cultivating quality relationships at work(2:23)
+ 📺 Watch this video to understand the importance of cultivating quality relationships at work (2:23)
  </aside>
 
  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/kjLNpa--aX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
  
-As the video explains, we often have to work with people we would not otherwise choose to spend time with. Interpersonal conflict is inevitable. In order to move through and learn from interpersonal conflict, you can focus on managing yourself and your reaction. In this lesson, we'll explore three key habit for working effectively with others: 
+As the video explains, we often have to work with people we would not otherwise choose to spend time with. Interpersonal conflict is inevitable. In order to move through and learn from interpersonal conflict, you can focus on managing yourself and your reaction. In this lesson, we'll explore three key habits for working effectively with others: 
 
 - Be professional
 - Be ethical 
@@ -36,7 +36,6 @@ Stepping into a professional environment may feel overwhelming. However, you can
 Lastly, **_maintaining a positive and professional attitude_** is crucial. Be proactive and demonstrate a willingness to learn and take on new challenges. Show enthusiasm for your work and be receptive to feedback and guidance from your mentors. Additionally, maintain a sense of professionalism in all your interactions, even in more casual settings. Avoid gossiping or engaging in negative conversations that can harm team dynamics. Treat everyone with kindness and respect, regardless of their position or role within the organization. 
 
 Professionalism is not just about following rules; it's about **_embodying values that contribute to a harmonious and productive work environment_**. So, embrace this learning experience, be authentic, and let your professionalism shine!
-</div>
 
 ## Be ethical
 Ethics serve as the moral compass in any professional setting. They shape how we conduct ourselves and make decisions. You'll encounter numerous situations where ethical judgment will be vital. Remember, acting ethically means **_doing what is right, even when it may be difficult or inconvenient_**. This involves treating colleagues, clients, and stakeholders with respect, honesty, and fairness. It is important to embody ethical principles, such as integrity, confidentiality, and transparency, which form the foundation of professional conduct. 
@@ -46,7 +45,6 @@ Understanding the legal landscape in your industry is  crucial to your success. 
 It is important to recognize that **_ignorance of the law is not a defense_** if legal issues arise. Be mindful of your responsibilities when handling sensitive information. Acting in violation of ethical standards or laws not only damages your professional reputation but can also have severe legal repercussions for both you and the organization. This may include fines, legal penalties, loss of employment, and damage to personal and professional relationships.
 
 By adhering to legal standards, you contribute to a safe and compliant work environment. Making ethical choices and complying with the law is not only the right thing to do but also protects your own future and the welfare of the organization you represent.
-</div>
 
 ## Build relationships
 
