@@ -4,46 +4,61 @@
 
 <aside>
   
-  📝 **Due Date: Monday June 19 at 11pm GMT**
+  📝 **Due Date: Thursday June 15 at 11pm GMT**
  
 </aside>
 
-🎉🎉 Congratulations on securing an industry experience placement. Now that you know what you will be working on, the next step is to prepare for success. In the assignment, you will complete technical preparation modules based on the type of role you will be performing. 
+As we near the end of the preparation phase, the next step is to confirm your industry experience. 
 
-To complete the assignment, select the appropriate module from the list below. You should choose a module based on your specific placement (e.g., if you will be doing web work on a team that uses Vue, do the Vue.js module). If there is an alternative module that you believe would better serve your needs, notify your course instructors. 
+## 🙋🏿 Key Questions
 
-## Choose one or more modules
+#### I have applied, but don't have an internship yet. What should I do?
+Don't worry. Internships are competitive and difficult to obtain as a first-year student. The time you've spent applying will benefit and prepare you for next year's industry experience. We have partnered with a few organizations to provide you an industry experience opportunity. All students will be placed in an industry experience with one of our partners. Completing industry experience is **mandatory** to earn your degree at Kibo. 
 
-### Front end web development
+#### What if I have another internship?
+If you have already secured an industry experience that meets the meets the [criteria](https://industry-experience.vercel.app/lessons/applying/good-opportunities.html) for academic credit, let us know about it by submitting the confirmation form: https://forms.gle/rX74x7K8xf64wTo88. All internships must be approved in order to obtain academic credit. 
 
-- Coursera's <a href="https://www.coursera.org/learn/react-basics#about" target="_blank">React Basics</a> will help you learn the React library and prepare you to contribute to front end teams building with React
+#### What if I'm waiting to hear back from an internship?
+You should still submit the matching form above: https://forms.gle/RDk6ZZTd4dEJiGW66
+We need to match you with an industry experience. If you get another internship later and are no longer able to complete your assigned industry experience, email your course instructors to discuss. 
+
+#### When and where will industry experience take place?
+Exact times and dates vary. Please note:
+- The majority of students will be working on CodeDay Labs projects which will take place from June 26 through August 18
+- You should plan to finish your industry experience by September 15, 2023 which is the last official day of the term. Regular classes will resume on October 9, 2023. 
+
+#### When will I receive information about my match? What time should I plan on being available?
+You will receive more information on your match via email by the end of next week. 
 
 
-- <a href="https://vuejs.org/tutorial/#step-1" target="_blank">Vue JS</a> tutorial will help you learn Vue, the JavaScript framework for building user interfaces.
 
-### Backend development
+## Assignment: confirming your industry experience
 
-- Real Python's <a href="https://realpython.com/tutorials/flask/" target="_blank"> Flask tutorials </a> cover key aspects of Flask development including templating, API design, caching and development. 
+### Confirm your industry experience
+If you have already secured an experience that meets the [criteria](https://industry-experience.vercel.app/lessons/applying/good-opportunities.html) for academic credit, then you should notify the course instructors. To do so:
 
-### Open source contributions
+**- Submit the <a href="https://forms.gle/HHMMGzSG4ZoiN2dh8" target="_blank">Industry Experience Confirmation form.</a>**
 
-- Coursera's <a href="https://www.coursera.org/learn/open-source-software-development-methods" target="_blank"> Open Source Software Development Methods
-</a> will teach you how to work in open source projects productively. 
+We will review your submission and confirm approval email. Approval is required in order for you to receive academic credit for industry experience. 
+
+### Submit the match form
+<aside>
+  💡 If you already secured an experience, do not submit this form. Instead submit the matching form above.
+  </aside>
+
+Industry experience is a critical part of learning at Kibo. Unless you secure another approved opportunity, all students will be placed in an industry experience with one of our partners. 
+
+We have partnered with a few organizations to provide you an industry experience opportunity. Our primary partner is <a href="https://labs.codeday.org/" target="_blank">CodeDay</a>, an organization that provides virtual internship experiences during which students contribute to open-source projects with the support of a mentor. The Kibo/CodeDay Labs virtual internship will take place from June 26 through August 18. We also have a limited number of partners who will provide other virtual internships, and 1 partner (in Accra, Ghana) that will support in-person internships. 
+
+Complete the form below to help us match you to an industry experience opportunity. 
+
+**- Submit the <a href="https://forms.gle/RDk6ZZTd4dEJiGW66" target="_blank">Industry Experience Matching Questionnaire</a>**
+
 
 
 
 ## Submission
-
-#### (1) Submit your assignment in Gradescope
-When you are finished with a module, upload a PDF copy of your proof of completion in Gradescope. Your proof of completion must show:
-- Your name or username
-- The name of the module
-- Your completion date
-
-
-#### (2) Submit in Woolf
-- Upload a PDF copy of your proof of completion in the Woolf Platform
-
+Submit either the industry experience confirmation form, or the matching form above. There is no additional submission required in Gradescope and/or Woolf. 
 
 
 
