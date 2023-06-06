@@ -1,15 +1,8 @@
 
 # Preparing for Work
-*Estimated Time: 4 hours*
+*Estimated Time: 1 hour*
 
 ---
-
-## Introduction
-<aside>
-  Instructor Ope Bukola introduces preparation
-</aside>
-
-TODO: Video
 
 ## **Learning Outcomes**
 
