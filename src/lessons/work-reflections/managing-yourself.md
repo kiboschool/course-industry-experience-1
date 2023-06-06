@@ -17,7 +17,7 @@
   💡 Self-management means taking responsibility for your actions, emotions, and well-being. It means consciously directing and regulating your thoughts, feelings, and behaviors to achieve goals, maintain balance, and adapt to change.
  </aside>
  
-Self-management requires cultivating various skills and practices, including self-awareness, goal setting, time management, emotional regulation, effective decision-making, adaptability, self-discipline, and self-care.. In this lesson, we'll focus on two of those practices: time-management and adaptability. 
+Self-management requires cultivating various skills and practices, including self-awareness, goal setting, time management, emotional regulation, effective decision-making, adaptability, self-discipline, and self-care. In this lesson, we'll focus on two of those practices: time-management and adaptability. 
 
  
  ## Task Management 
@@ -30,10 +30,14 @@ Self-management requires cultivating various skills and practices, including sel
   <iframe width="560" height="315" src="https://www.youtube.com/embed/88MjoZalHpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-### The video shares 6 habits of highly organized people
+### The video shares 6 habits of highly organized people:
  
-1. Keep it simple: description
-2. Keep it simple: .....
+1. Keep it simple: have as few steps as possible; elaborate sysytems are hard to maintain and most of the time they arenot worth the effort.
+2. Develop routines: turn your import task into rutines to save yourself the mental energy of constant planning.
+3. Have a place for everything and put everything in place: take the time to put items where they belong to make it easier to track and save time trying to locate them.
+4. Keep a current and detailed to-do list: work backwards by determining your end goal and then decide the steps you will follow to get there.
+5. Don't be a perfectionist: it's less about perfection and more about action and progress.
+6. Toss things and purge routinely: continously re-evaluate your tasks and only continue working on the relevant and important tasks.
 
 
 ## Adaptability and Resilience
