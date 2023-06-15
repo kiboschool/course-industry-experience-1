@@ -11,7 +11,7 @@
 ## Social connection at work
 
 <aside> 
- 📺 Watch this video to understand the importance of cultivating quality relationships at work (2:23)
+ 📺 Watch this video on the importance of cultivating quality relationships at work (2:23)
  </aside>
 
  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
@@ -27,15 +27,15 @@ As the video explains, we often have to work with people we would not otherwise 
 ## Be professional
 Stepping into a professional environment may feel overwhelming. However, you can navigate work with confidence. 
 
-**_First impressions matter_**; from the moment you walk through those office doors (or join the first virtual meeting), remember that you are representing both yourself and the organization you're interning for. Dress appropriately for the workplace, ensuring your attire is professional and aligns with the company's dress code. Remember, it's always better to be slightly overdressed than underdressed. Practice good hygiene and grooming habits to present yourself in a polished manner. A neat appearance will not only boost your confidence but also show that you take your role seriously. **Your appeareance matters, even in a virtual workplace.** For video calls, you should be in a quiet place and test your audio and video connection. You should ensure your background is professional and does not distract from your work. 
+**_First impressions matter._** From the moment you walk through the office doors (or join the first virtual meeting), remember that you are representing both yourself and the organization. Dress appropriately for the workplace, ensuring your attire is professional and aligns with the company's dress code. Remember, it's always better to be slightly overdressed than underdressed. Practice good hygiene and grooming habits to present yourself in a polished manner. A neat appearance will not only boost your confidence but also show that you take your role seriously. **Your appeareance matters, even in a virtual workplace.** For video calls, you should be in a quiet place and test your audio and video connection. You should ensure your background is professional and does not distract from your work. 
 
 **_Time management and punctuality_** are key to demonstrating professionalism. Arrive at work and meetings on time, as this shows respect for other people's schedules. If you anticipate being late or unable to attend a meeting, notify the relevant parties in advance. Do what you say you will do, and meet deadlines. Refer to the previous lesson on staying organized.  
 
-**_Collaboration and teamwork_** are essential skills in any professional setting. You will likely work alongside a diverse group of individuals with varying expertise and backgrounds. Embrace the opportunity to collaborate and contribute to team projects. Remember to actively participate in meetings, share your ideas, and listen to the perspectives of others. Respect different viewpoints and be open to constructive feedback.
+**_Collaboration and teamwork_** are essential skills. You will likely work alongside a diverse group of individuals with varying expertise and backgrounds. Embrace the opportunity to collaborate and contribute to team projects. Remember to actively participate in meetings, share your ideas, and listen to the perspectives of others. Respect different viewpoints and be open to constructive feedback.
 
-Lastly, **_maintaining a positive and professional attitude_** is crucial. Be proactive and demonstrate a willingness to learn and take on new challenges. Show enthusiasm for your work and be receptive to feedback and guidance from your mentors. Additionally, maintain a sense of professionalism in all your interactions, even in more casual settings. Avoid gossiping or engaging in negative conversations that can harm team dynamics. Treat everyone with kindness and respect, regardless of their position or role within the organization. 
+Lastly, **_maintain a positive and professional attitude._** Be proactive and demonstrate a willingness to learn and take on new challenges. Show enthusiasm for your work and be receptive to feedback and guidance. Additionally, maintain a sense of professionalism in all your interactions, even in more casual settings. Avoid gossiping or engaging in negative conversations that can harm team dynamics. Treat everyone with kindness and respect, regardless of their position or role within the organization. 
 
-Professionalism is not just about following rules; it's about **_embodying values that contribute to a harmonious and productive work environment_**. So, embrace this learning experience, be authentic, and let your professionalism shine!
+Professionalism is not just about following rules; it's about **_embodying values that contribute to a harmonious and productive work environment_**. 
 
 ## Be ethical
 Ethics serve as the moral compass in any professional setting. They shape how we conduct ourselves and make decisions. You'll encounter numerous situations where ethical judgment will be vital. Remember, acting ethically means **_doing what is right, even when it may be difficult or inconvenient_**. This involves treating colleagues, clients, and stakeholders with respect, honesty, and fairness. It is important to embody ethical principles, such as integrity, confidentiality, and transparency, which form the foundation of professional conduct. 
@@ -60,11 +60,11 @@ Being an effective colleague is not only about getting work done. As you embark 
 </div>
 
 In this video John English reveals the 4 keys to creating healthy work relationships with an emphasis on communication and establishing psychological safety. The keys are:
-1. _Presence; each person has to be present in the interaction._ 
+1. Presence; each person has to be present in the interaction.
 
-2. _Clarity and understanding; we have to be clear about what we are saying/doing and the end goal._
+2. Clarity and understanding; we have to be clear about what we are saying/doing and the end goal.
 
-3. _Respect and appreciation for one another._
+3. Respect and appreciation for one another.
 
 Building a strong professional network opens doors to new opportunities, helps you gain valuable insights, and enhances your personal growth. It's all about creating a community of individuals who can support and guide you throughout your career. So, don't be afraid to step out of your comfort zone, introduce yourself to new people, and engage in conversations that go beyond the surface level.
 
@@ -72,7 +72,7 @@ When it comes to networking, **_quality trumps quantity_**. Take the time to und
 
 During your industry experience, aim to network with your peers, supervisors, and colleagues. You can do this by:
  - Participating in company-sponsored activities
- - Reaching out to people you want to get to know, and asking for a coffee chat (in-person or virtual) or an informational interview 
+ - Reaching out to people you want to get to know, and asking for a coffee chat or an informational interview 
 
 Networking is not just about exchanging business cards; it is **_a continuous process that requires effort and authenticity_**. By approaching it with a genuine desire to connect, learn, and support others, you'll build a strong network that can greatly contribute to your personal and professional growth. 
 
