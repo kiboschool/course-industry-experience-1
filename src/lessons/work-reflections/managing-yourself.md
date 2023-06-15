@@ -45,30 +45,30 @@ Self-management requires cultivating various skills and practices, including sel
 
 
 ## Adaptability and Resilience
+![image](https://github.com/kiboschool/industry-experience/assets/1774663/2e5f781f-2b61-462c-a3f2-b80baaa9a386)
+
 
 Change is inevitable, and the ability to embrace it is critical at work. You may be asked to step into an unexpected role, a client might require substantial changes to something you're working on, or a colleague might leave your team. It's normal to feel uneasy during transitions, but by developing the ability to adjust your plans and strategy, you can transform uncertainty into possibility. Embracing change will not only help you thrive personally but also contribute to the success of your organization.
 
 A few things to remember when striving to be adaptable and flexible in the workplace:
 
-#### Navigating Setbacks
+#### Reframe Setbacks
 
 When faced with challenges, start by reframing setbacks as temporary roadblocks rather than permanent failures. Take a moment to acknowledge your emotions, but don't dwell on them. Instead, focus on analyzing the situation, identifying lessons learned, and adapting your approach.
 
-#### Cultivating Flexibility
+#### Cultivate Flexibility
 
 Embrace flexibility and be willing to step outside your comfort zone and explore different ways of doing things. As you encounter unexpected situations, remain calm, and assess the best course of action. Ultimately, flexibility is not about compromising your values or goals but rather finding creative solutions to overcome obstacles.
 
-#### Building a Support Network
+#### Build a Support Network
 
 No one succeeds alone. Surround yourself with positive and supportive individuals who can offer guidance, encouragement, and constructive feedback. Cultivate relationships with colleagues, mentors, and peers who inspire you to grow and develop.
 
-#### Self-Care and Well-being
+#### Practice Self Care
 
 Engage in activities that rejuvenate you, such as exercise, hobbies, and spending time with loved ones. Take breaks when needed and practice mindfulness to stay grounded. Taking care of yourself allows you to better adapt to challenges and bounce back stronger.
 
- 
 
 As you prepare for your industry experience, reflect on your own past experiences and consider how you can apply these concepts to your daily life. Developing adaptability and resilience is a lifelong journey, and by embracing change, navigating setbacks, cultivating flexibility, building a support network, and prioritizing self-care, you'll be well-equipped to thrive in any situation.
 
-![image](https://github.com/kiboschool/industry-experience/assets/1774663/2e5f781f-2b61-462c-a3f2-b80baaa9a386)
 
