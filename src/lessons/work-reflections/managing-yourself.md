@@ -45,8 +45,6 @@ Self-management requires cultivating various skills and practices, including sel
 
 
 ## Adaptability and Resilience
-![image](https://github.com/kiboschool/industry-experience/assets/1774663/a1fd4e91-a0ca-482a-b9fe-c46e4515ec08)
-
 
 Change is inevitable, and the ability to embrace it is critical at work. You may be asked to step into an unexpected role, a client might require substantial changes to something you're working on, or a colleague might leave your team. It's normal to feel uneasy during transitions, but by developing the ability to adjust your plans and strategy, you can transform uncertainty into possibility. Embracing change will not only help you thrive personally but also contribute to the success of your organization.
 
