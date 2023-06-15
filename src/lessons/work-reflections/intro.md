@@ -24,15 +24,16 @@ After completing this lesson, you will be able to:
 <aside>
 
 👩🏿‍🏫 Complete this lesson by exploring each section:
+</aside>
 
-[Managing Yourself](lessons/work-reflections/managing-yourself.md)
+[Managing Yourself](/lessons/work-reflections/managing-yourself.md)
 
-[Working with others](lessons/work-reflections/working-with-others.md)
+[Working with others](/lessons/work-reflections/working-with-others.md)
 
-[Planning for Success](lessons/work-reflections/planning-for-success.md)
+[Planning for Success](/lessons/work-reflections/planning-for-success.md)
 
-[Assignment: Work Reflections](lessons/work-reflections/assignment.md)
+[Assignment: Work Reflections](/lessons/work-reflections/assignment.md)
   
-[Assignment: Supervisor Evaluation](lessons/work-reflections/assignment-eval.md)
+[Assignment: Supervisor Evaluation](/lessons/work-reflections/assignment-eval.md)
   
 ---
