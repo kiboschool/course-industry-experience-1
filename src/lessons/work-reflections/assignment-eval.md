@@ -8,10 +8,14 @@
  
 </aside>
 
+<aside>
+ ‼️ If you are working on a CodeDay Labs internship, you do not need to share the evaluation on this page. CodeDay Labs will share an evaluation form with your mentor who will provide your evaluation.
+</aside>
+
 To close out your industry experience, you will obtain a written evaluation from your supervisor.
 
 To complete the assignment:
-- Share the <a href="https://docs.google.com/document/d/1k4CAKEqU6CU26PzQq9AlPT7a8VKCg_mR95XNqSVCwpw/edit?usp=sharing" target="_blank">evaluation rubric and instructions</a> with your supervisor 
+- Share the <a href="https://docs.google.com/document/d/1k4CAKEqU6CU26PzQq9AlPT7a8VKCg_mR95XNqSVCwpw/edit?usp=sharing" target="_blank">evaluation rubric and instructions</a> with your supervisor
 - Send your supervisor a brief self-evaluation describing your work and accomplishments
 - (If possible) request a synchronous meeting to discuss your performance
 
