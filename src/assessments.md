@@ -10,9 +10,8 @@ This course requires you to work independently to achieve your goals. You will b
 
 The preparation phase which will account for 25% of your total grade. Your grades will consist of:
 - Setting goals and preparing your application materials (5%)
-- Conducting practice technical and behavioral interviews (10%)
+- Conducting practice technical and behavioral interviews (15%)
 - Completing and submitting job applications (5%)
-- Completing technical preparation modules (5%)
 
 The table below provides further details of each requirement along with the due date. 
 
@@ -29,7 +28,7 @@ The table below provides further details of each requirement along with the due 
 | Technical Interview #3                            | Mon May 29
 | Behavioral Interview #4                           | Mon May 29
 | Applications #6-10                                | Mon May 29
-| Technical prep modules                            | Mon June 19  
+| Technical prep modules                            | Optional
 
 ### Work phase
 The work phase will account for 75% of your grade. You primary focus will be on completing your projects. As you do so, you will also:
