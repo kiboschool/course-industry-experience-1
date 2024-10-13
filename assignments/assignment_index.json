@@ -1,0 +1,279 @@
+{
+  "name": "Industry Experience 1",
+  "id": "762785",
+  "code": "CS250",
+  "assignments": [
+    {
+      "id": "4543618",
+      "name": "Final Report",
+      "course_id": "762785",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/762785/assignments/4543618",
+      "filename": "final_report.pdf"
+    },
+    {
+      "id": "4561216",
+      "name": "Mentor Evaluation",
+      "course_id": "762785",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/762785/assignments/4561216",
+      "filename": "mentor_evaluation.pdf"
+    },
+    {
+      "id": "4561217",
+      "name": "Work and reflection",
+      "course_id": "762785",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/762785/assignments/4561217",
+      "filename": "work_and_reflection.pdf"
+    },
+    {
+      "id": "2810741",
+      "name": "Application Materials",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2810741",
+      "filename": "application_materials.pdf"
+    },
+    {
+      "id": "2862479",
+      "name": "Applications Batch #1",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2862479",
+      "filename": "applications_batch_#1.pdf"
+    },
+    {
+      "id": "2862487",
+      "name": "Applications Batch #2",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2862487",
+      "filename": "applications_batch_#2.pdf"
+    },
+    {
+      "id": "2861533",
+      "name": "Behavioral Interview #1",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861533",
+      "filename": "behavioral_interview_#1.pdf"
+    },
+    {
+      "id": "2861539",
+      "name": "Behavioral Interview #2",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861539",
+      "filename": "behavioral_interview_#2.pdf"
+    },
+    {
+      "id": "2861541",
+      "name": "Behavioral Interview #3",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861541",
+      "filename": "behavioral_interview_#3.pdf"
+    },
+    {
+      "id": "2938305",
+      "name": "Final report",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2938305",
+      "filename": "final_report.pdf"
+    },
+    {
+      "id": "2810723",
+      "name": "Goal setting",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2810723",
+      "filename": "goal_setting.pdf"
+    },
+    {
+      "id": "2861544",
+      "name": "Informational Interview",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861544",
+      "filename": "informational_interview.pdf"
+    },
+    {
+      "id": "2938301",
+      "name": "Self evaluation",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2938301",
+      "filename": "self_evaluation.pdf"
+    },
+    {
+      "id": "2938303",
+      "name": "Supervisor evaluation",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2938303",
+      "filename": "supervisor_evaluation.pdf"
+    },
+    {
+      "id": "2861532",
+      "name": "Technical Interview #1",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861532",
+      "filename": "technical_interview_#1.pdf"
+    },
+    {
+      "id": "2861536",
+      "name": "Technical Interview #2",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861536",
+      "filename": "technical_interview_#2.pdf"
+    },
+    {
+      "id": "2861542",
+      "name": "Technical Interview #3",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861542",
+      "filename": "technical_interview_#3.pdf"
+    },
+    {
+      "id": "4543618",
+      "name": "Final Report",
+      "course_id": "762785",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/762785/assignments/4543618",
+      "filename": "final_report.pdf"
+    },
+    {
+      "id": "4561216",
+      "name": "Mentor Evaluation",
+      "course_id": "762785",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/762785/assignments/4561216",
+      "filename": "mentor_evaluation.pdf"
+    },
+    {
+      "id": "4561217",
+      "name": "Work and reflection",
+      "course_id": "762785",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/762785/assignments/4561217",
+      "filename": "work_and_reflection.pdf"
+    },
+    {
+      "id": "2810741",
+      "name": "Application Materials",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2810741",
+      "filename": "application_materials.pdf"
+    },
+    {
+      "id": "2862479",
+      "name": "Applications Batch #1",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2862479",
+      "filename": "applications_batch_#1.pdf"
+    },
+    {
+      "id": "2862487",
+      "name": "Applications Batch #2",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2862487",
+      "filename": "applications_batch_#2.pdf"
+    },
+    {
+      "id": "2861533",
+      "name": "Behavioral Interview #1",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861533",
+      "filename": "behavioral_interview_#1.pdf"
+    },
+    {
+      "id": "2861539",
+      "name": "Behavioral Interview #2",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861539",
+      "filename": "behavioral_interview_#2.pdf"
+    },
+    {
+      "id": "2861541",
+      "name": "Behavioral Interview #3",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861541",
+      "filename": "behavioral_interview_#3.pdf"
+    },
+    {
+      "id": "2938305",
+      "name": "Final report",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2938305",
+      "filename": "final_report.pdf"
+    },
+    {
+      "id": "2810723",
+      "name": "Goal setting",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2810723",
+      "filename": "goal_setting.pdf"
+    },
+    {
+      "id": "2861544",
+      "name": "Informational Interview",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861544",
+      "filename": "informational_interview.pdf"
+    },
+    {
+      "id": "2938301",
+      "name": "Self evaluation",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2938301",
+      "filename": "self_evaluation.pdf"
+    },
+    {
+      "id": "2938303",
+      "name": "Supervisor evaluation",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2938303",
+      "filename": "supervisor_evaluation.pdf"
+    },
+    {
+      "id": "2861532",
+      "name": "Technical Interview #1",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861532",
+      "filename": "technical_interview_#1.pdf"
+    },
+    {
+      "id": "2861536",
+      "name": "Technical Interview #2",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861536",
+      "filename": "technical_interview_#2.pdf"
+    },
+    {
+      "id": "2861542",
+      "name": "Technical Interview #3",
+      "course_id": "529775",
+      "course_code": "CS250",
+      "href": "https://gradescope.com/courses/529775/assignments/2861542",
+      "filename": "technical_interview_#3.pdf"
+    }
+  ]
+}

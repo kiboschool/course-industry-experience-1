@@ -1,0 +1,261 @@
+# Visit https://docs.google.com/document/d/1Hm41CGu0pZrGB7_XrPZR50DU7DXvqeC6aZuaTLpRLlo/edit 
+# for full details about the contents of the course.yml file. 
+# 
+# - Top level details of the course: 
+#     name: course name
+#     code: course code
+#     term: when is this offered
+#     about_path: the path to the course overview md file
+#     image_path: the path to an image to use as the course header
+#
+# - Units
+#     name: name of the unit (e.g. Week 1: Introduction)
+#     activities: list of the activities in the Unit
+# 
+# - Activities
+#     name: name of the activity
+#     path: where to find the file for the activity
+#     workload: how many minutes the activity is estimated to take
+#     type: `lesson` or `assignment`
+#     kind: airlock resource kind: 
+#       `GENERAL`, `MEETING`, `PUBLICATION`, `PUBLICATION_REVIEWED`, 
+#       `ASSIGNMENT`, `ASSIGNMENT_SUMMATIVE`
+#     publish: Is this ready, or still a draft? Publish can be set to:
+#       - `true` (publish to students now)
+#       - `false` (do not publish to students), default value if not specified
+#       - date, formatted like `2023-10-25` (publish to students on that date) 
+#     due: When is the due date for the activity (e.g. 2023-12-27)
+#     grade_weight: what percent of the course grade is this 
+#       (for now, only for assignments).  Must sum to 100.
+
+name: Industry Experience 1
+code: IDS001
+term: Apr-2024
+about_path: src/overview/introduction.md
+image_path: src/course-image.png
+units:
+  - name: Course Overview
+    activities:
+      - name: Introduction
+        path: src/overview/introduction.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: true
+      - name: Live Classes
+        path: src/overview/live-classes.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: true
+      - name: Assessments
+        path: src/overview/assessments.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: true
+      - name: Getting Help
+        path: src/overview/help.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: true
+      - name: Academic Integrity
+        path: src/overview/academic-integrity.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: true
+  - name: 'Week 1: Preparation'
+    activities:
+      - name: Introduction
+        path: src/lessons/preparation/intro.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: true
+        due: 2024-04-12
+      - name: What is Open Source
+        path: src/lessons/preparation/what-is-open-source.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-04-12
+      - name: Why Open Source?
+        path: src/lessons/preparation/why-open-source.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: true
+        due: 2024-04-12
+      - name: Tools to Be Successful
+        path: src/lessons/preparation/tools-to-be-successful.md
+        type: lesson
+        kind: GENERAL
+        workload: 120
+        publish: true
+        due: 2024-04-12
+      - name: Daily Standups
+        path: src/lessons/preparation/daily-standups.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-04-12
+      - name: Daily Checkins
+        path: src/lessons/preparation/daily-checkins.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: true
+        due: 2024-06-14
+      - name: Team Meetings with Mentor
+        path: src/lessons/preparation/team-meetings.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-06-14
+  - name: 'Week 2: Contributing to Open Source'
+    activities:
+      - name: Types of OS Contributions
+        path: src/lessons/contributing/types-of-os-contributions.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: true
+        due: 2024-04-19
+      - name: How to Contribute to Open Source
+        path: src/lessons/contributing/how-to-contribute.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-04-19
+      - name: Additional Resources
+        path: src/lessons/contributing/additional-resources.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: true
+        due: 2024-04-19
+  - name: 'Week 3: Professional Presence'
+    activities:
+      - name: Introduction
+        path: src/lessons/professionalism/overview.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: true
+        due: 2024-04-26
+      - name: Getting Hired is Just the Beginning
+        path: src/lessons/professionalism/motivation.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: true
+        due: 2024-04-26
+      - name: How Work Works
+        path: src/lessons/professionalism/workplace-expectations.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-04-26
+      - name: Managing Yourself
+        path: src/lessons/professionalism/clarity-coaching.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-04-26
+  - name: 'Week 4: Working Effectively'
+    activities:      
+      - name: Working With Others
+        path: src/lessons/professionalism/managing-conflict.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: true
+        due: 2024-05-03
+      - name: Peer Reviewed Resource
+        path: src/lessons/professionalism/peer-review-feedback.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 60
+        publish: true
+        due: 2024-05-03
+      - name: Feedback is a Gift
+        path: src/lessons/professionalism/feedback.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-05-03
+  - name: 'Week 5: Open Source History & Licensing'
+    activities:      
+      - name: Brief History of Open Source
+        path: src/lessons/open-source/brief-history.md
+        type: lesson
+        kind: GENERAL
+        workload: 30
+        publish: true
+        due: 2024-05-10
+      - name: Open Source Licensing
+        path: src/lessons/open-source/open-source-licensing.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-05-10
+      - name: Peer Reviewed Resource on OSS
+        path: src/lessons/open-source/peer-reviewed-open-source.md
+        type: lesson
+        kind: PUBLICATION_REVIEWED
+        workload: 60
+        publish: true
+        due: 2024-05-10
+  - name: 'Week 8: Building Your OS Resume'
+    activities: 
+      - name: 'The Secret Sauce'
+        path: src/lessons/open-source-resume/secret-sauce.md
+        type: lesson
+        kind: GENERAL
+        workload: 60
+        publish: true
+        due: 2024-05-31
+  - name: 'Week 10: Finishing Strong'
+    activities:
+      - name: 'Conclusion'
+        path: src/lessons/finishing-strong/conclusion.md
+        type: lesson
+        kind: GENERAL
+        workload: 15
+        publish: true
+        due: 2024-06-15
+      - name: Work and reflection
+        path: src/lessons/finishing-strong/work-and-reflection.md
+        type: assignment
+        kind: ASSIGNMENT        
+        workload: 16500
+        grade_weight: 20
+        publish: true
+        due: 2024-06-18
+      - name: 'Mentor Evaluation'
+        path: src/lessons/finishing-strong/mentor-evaluation.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 30
+        grade_weight: 40
+        publish: true
+        due: 2024-06-18
+      - name: Final Report
+        path: src/lessons/finishing-strong/final-report.md
+        type: assignment
+        kind: ASSIGNMENT_SUMMATIVE
+        workload: 600
+        grade_weight: 40
+        publish: true
+        due: 2024-06-15
+

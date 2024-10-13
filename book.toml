@@ -1,0 +1,11 @@
+[book]
+authors = ["Ope Bukola", "Rob Cobb"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Industry Experience"
+
+[build]
+build-dir = "output"
+create-missing = true
+use-default-preprocessors = false
